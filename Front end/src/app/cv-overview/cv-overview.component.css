@@ -1,0 +1,21 @@
+.overview-row {
+    height: 100%;
+    margin: 0;
+}
+
+.response-col, .iframe-col {
+    margin: 0;
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+.response-col {
+    padding-left: 5px;
+    padding-right: 0;
+    background-color: rgba(255,255,255,0.2);
+}
+
+.iframe-col {
+    padding-left: 0;
+    padding-right: 5px;
+}

@@ -1,0 +1,13 @@
+.dot {
+    color: rgb(36, 94, 118);
+    background: rgb(36, 94, 118);
+}
+
+.side {
+    height: 100%;
+}
+
+.job-date {
+    top: 50%;
+    transform: translateY(51%);
+}

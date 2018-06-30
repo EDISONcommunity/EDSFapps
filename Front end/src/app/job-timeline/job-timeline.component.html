@@ -1,0 +1,26 @@
+<mgl-timeline>
+    <mgl-timeline-entry *ngIf="sorted_jobs.length === 0">
+        <mgl-timeline-entry-header >NA</mgl-timeline-entry-header>
+        <mgl-timeline-entry-content >
+          NA
+        </mgl-timeline-entry-content>
+        <mgl-timeline-entry-side class="side"><div class="job-date">NA</div></mgl-timeline-entry-side>
+        <mgl-timeline-entry-dot size="40" color="dot"></mgl-timeline-entry-dot>
+    </mgl-timeline-entry>
+    <mgl-timeline-entry *ngFor="let job of sorted_jobs">
+        <mgl-timeline-entry-header >{{job['name']}}</mgl-timeline-entry-header>
+        <mgl-timeline-entry-content >
+          Job name: {{job['name']}}
+          <br>
+          DSPP: {{job['dspp']}}
+          <br>
+          Experience: {{job['experience']}}
+          <br>
+          Position level: {{job['level']}}
+          <br>
+          Time period: {{job['start']}} - {{job['end']}}
+        </mgl-timeline-entry-content>
+        <mgl-timeline-entry-side class="side"><div class="job-date">{{job['start']}} - {{job['end']}}</div></mgl-timeline-entry-side>
+        <mgl-timeline-entry-dot size="40" color="dot"></mgl-timeline-entry-dot>
+    </mgl-timeline-entry>
+</mgl-timeline>

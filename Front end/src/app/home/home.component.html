@@ -1,0 +1,45 @@
+<div #main id="main-container" class="no-gutters" [style.background-image]="getBackgroundImage()" [style.height]="uploaded ? '105%' : '100%'">
+  <div class="uva-wrap">
+    <img src="../../assets/uva.png" alt="edison" class="uva-logo">
+  </div>
+
+  <div class="ds-wrap">
+    <img src="../../assets/edison.png" alt="edison" class="ds-logo">
+  </div>
+
+  <mat-spinner diameter="50" *ngIf="spinner"></mat-spinner>
+
+  <div class="button-wraps">
+    <div class="row btn-row">
+      <div class="btn-col-cv">
+        <label for="cv-upload" class="btn btn-primary btn-cv">Upload CV</label>
+        <input id="cv-upload" type="file" accept="application/pdf" #file (change)="upload(file.files[0])" />
+      </div>
+    </div>
+  </div>
+  <div class="scroll-up" *ngIf="uploaded" (click)="scrollUp()">
+    <i class="fa fa-arrow-up scroll-arrow"></i>
+  </div>
+</div>
+
+<div id="cv-overview" *ngIf="uploaded" [style.background-image]="getBackgroundImage()">
+  <app-cv-overview [doc]="uploadedFile" [response]="response"></app-cv-overview>
+</div>
+
+<div id="job-overview" *ngIf="uploaded" [style.background-image]="getBackgroundImage()">
+  <div id="job-overview-container">
+    <app-job-timeline #jobsOverview [cv]="response"></app-job-timeline>
+  </div>
+</div>
+
+<div class="chart-overview" [style.background-image]="getBackgroundImage()" [style.display]="uploaded ? 'block' : 'none' ">
+  <div class="chart-container">
+    <canvas #sim id="canvas"></canvas>
+  </div>
+</div>
+
+<div class="chart-overview" [style.background-image]="getBackgroundImage()" [style.display]="uploaded ? 'block' : 'none' ">
+  <div class="chart-container">
+    <canvas #info id="canvas2"></canvas>
+  </div>
+</div>
