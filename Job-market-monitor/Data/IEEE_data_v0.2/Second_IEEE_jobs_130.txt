@@ -1,0 +1,80 @@
+Systems Administration/Application Developer at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-162018-06-04
+
+
+
+
+Systems Administration/Application Developer
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. 
+ 
+MITRE's Advanced Technical Computing Center department administers a variety of operating systems to include Linux, Windows, and other UNIX variants and infrastructure systems (e.g., update servers for operating systems and applications, antivirus updates, identity management, domain name management, logging/auditing, scripted enterprise configuration management, etc.). Our environments typically include virtualization platforms, large storage systems (SAN and NAS), databases, and networks. Our organization also is involved with data and compute clouds where we build the cloud, then write, install, and integrate applications and big data.
+ 
+The key functions of this role will include:
+Provide technical support to more senior staff on information system projects in a dynamic computer laboratory environment.
+Set up, conduct and document performance and evaluation tests or experiments. 
+Develop, modify, and maintain documents. 
+Install software, including databases, spreadsheets, information system models, simulations, and home-grown applications. 
+Learn and apply the fundamentals of system administration to laboratory systems.
+ 
+
+
+
+
+
+
+
+
+
+
+Required: 
+Bachelors degree in computer science, math, engineering, or an associated field.
+Basic use of Linux, Windows, or other UNIX flavors: CentOS, RedHat, Ubuntu, Mac OS X 
+Hands on experience with basic computer networking and routing.  (This may be a school project, personal project, internship or volunteer experience whereby you can provide evidence of hands on experience).
+Programming in at least 1 of the following languages: C, C++, Perl, Python, Java, shell scripts 
+Familiarity with some web/front-ends such as SOA, XML, JSON, javascript, HTML 5, CSS 
+Troubleshooting basic internet protocols (DNS, DDNS, DHCP, BOOTP, SMTP, S/FTP, HTTP/S, NFS, CIFS/SMB, PKI, TCP, UDP)
+Basic experience using at least 1 of the following databases: MySQL, SQL, Oracle, MarkLogic 
+Basic use of virtualization technology such as VMware, Openstack 
+Candidate must have the ability to obtain and maintain at TS/SCI Polygraph clearance. 
+Minimum Qualifications:
+Bachelor's Degree in Computer Science or Computer Engineering or similar field.
+ 
+Categories
+
+
+
+Information Technology 
+
+Computer Engineering 
+
+
+
+
+
+
+
+

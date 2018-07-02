@@ -1,0 +1,108 @@
+Software Engineer &#8211; Cloud Computing at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Software Engineer &#8211; Cloud Computing
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+
+
+Do you thrive in fast-paced, high-impact environments? Can you mold cutting-edge technologies into viable solutions?  Does the challenge of providing transformational capabilities to address our nations most critical needs inspire you?
+
+The Operational Innovation & Transformation Department seeks 
+software developers with experience in cloud technologies, information security, and Development and Operations (DevOps) strategies. Candidates should have experience with the design and development of various cloud-based solutions, DevOps, Infrastructure-as-a-Service (IaaS), and Platform-as-a-Service (PaaS).  The focus of this work is to bring transformational capabilities to our sponsors through prototyping, experimentation, and deep outreach to the operational community.
+
+The selected individual will be responsible for designing and developing application prototypes, reference implementations, and other operationally relevant software in support of MITREs Department of Defense (DoD) sponsors, particularly the United States Air Force (USAF). To that end, the individual will be working with both experienced MITRE engineers and government representatives.  Duties will include proposing and architecting software to work towards a Continuous-Integration/Continuous-Delivery (CI/CD) pipeline that enhances the full lifecycle of infrastructure, as well as identifying and implementing process improvements to make agencies more efficient.
+
+This work is a critical segment of the departments overall work program which spans mission-focused experimentation for rapid capabilities innovation, assessment, and acquisition; systems engineering for operational/active warfighters; and mission-centric software/system product lines focused on dismount/operator-centric systems and software/system foundations such as tactical data interoperability, mobile computing, and enterprise IT modernization. The departments key technical concentration areas include software engineering and development, cloud and DevOps, and network and communications engineering, all grounded in strong systems engineering fundamentals and significant operational domain expertise.
+
+Key Functions:
+
+Design and develop cloud-based software solutions to support Continuous-Integration/Continuous-Delivery capability pipelines
+Analyze cloud infrastructures and recommend improvements for performance gains and/or cost efficiencies
+
+
+
+
+
+
+
+
+
+
+
+Required Qualifications:
+
+
+
+Excellent communication, problem solving, and troubleshooting skills.
+Ability to thrive in a diverse team environment consisting of MITRE colleagues, project sponsors, government contractors, and military personnel.
+Expertise in the software engineering lifecycle, virtualization, cloud computing, system administration, and scripting languages.
+Technical knowledge of fundamental concepts of component provisioning, network design, system hardening, and data access controls.
+
+
+Preferred Qualifications:
+
+At least 1 - 3 years of experience in IT with a broad range of exposure, including cloud computing, continuous integration, automated testing, and deployments
+Hands-on experience with Amazon Web Service (AWS), Microsoft Azure, VMWare, and OpenStack
+Experience with containers and automated configuration management tools such as Chef, Puppet, Ansible, and Amazon Cloud Formation scripts
+Experience with object-oriented and scripting languages such as Python, Bash, Ruby, Java, and Go
+Ability to analyze cloud infrastructure and recommend improvements for performance gains and/or cost efficiencies
+Familiarity with Software Defined Networking (SDN)
+Familiarity with government regulations and industry standards data security, such as NIST Special Publication 800-53 or Intelligence Community Directive 503
+
+Minimum Qualifications:
+Bachelor's or Master's Degree in Computer Science or Computer Engineering or similar field. 
+ 
+Level2
+ 
+Secret 
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Software Engineering 
+
+Computer Engineering 
+
+Communications 
+
+
+
+
+
+
+
+

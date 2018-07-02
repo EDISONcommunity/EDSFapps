@@ -1,0 +1,55 @@
+Data Scientist Customer Excellence Vacature - CareerValue - Utrecht | Indeed.nlDeze klant van mij betreft een Customer Excellence grootheid met meerdere vestigingen door Nederland en buitenland! Het is een volwassen bedrijf met een professionele uitstraling en er zijn ontzettend veel mogelijkheden voor medewerkers. Mogelijk dus ook voor jou. Naast een leuke werksfeer en een gezonde organisatiestructuur bieden ze royale arbeidsvoorwaarden. In deze snelgroeiende organisatie is veel ruimte voor nieuw talent!
+
+Ben jij een junior en wil je graag opgeleid worden tot een Data Scientist? Of ben je een meer ervaren Data Scientist en zoek je een flinke uitdaging?
+Dan zit je hier aan het juiste adres!
+
+
+De Functie:
+
+Wij zoeken iemand met een universitaire achtergrond en het zou een pré zijn als je al ervaring hebt met Data Analyse en Data Science, het liefst ook in een specifieke rol als Data Scientist of Analist.
+
+Je gaat samenwerken met een aantal collega's waar je wiskunde combineert met IT. Dit zijn twee verschillende werelden die je erg goed kan combineren!
+Ze hebben een tal aan klanten waar je specifieke modellen voor gaat maken. Je gaat hier een stuk predictive analyses maken, werkt veel met decision modeling en brengt customer excellence naar een hoger plan!
+
+Als Data Scientist zal je hier van A tot en met Z een project begeleiden: Van Data verzamelen, clusteren tot en met implementatie en borging.
+
+
+Gevraagd profiel:
+
+– BA/BS/MS of PhD met een sterke academische achtergrond, bij voorkeur in Kunstmatige intelligentie, Wiskunde of Informatica;
+– Programming/software engineering ervaring met productie-waardige programmeertalen (bijv. JAVA, SCALA) pré;
+– Programmeren met moderne data analyse technieken (bijv. Python, R, Julia);
+– Volledige beheersing van de Nederlandse- en Engels taal;
+– Ervaring met big data storage (bijv. HDFS, Cassandra, MongoDB, Neo4J);
+– Custom visualisatie technologieën (bijv. CSS, angularjs, D3);
+– UNIX vaardigheden (bijv. Ubuntu, Bash scripts, package management);
+– SQL, REST API / JSON;
+– GIT, Jenkins, Puppet.
+
+
+Arbeidsvoorwaarden:
+
+Perfecte en flexibele arbeidsvoorwaarden binnen een team van gedreven professionals. Het salaris is afhankelijk van werkervaring.
+
+Interesse? Ik ontvang graag je CV + motivatie naar farid@careervalue.nl
+
+Inhoudelijke vragen? 0652501982
+
+
+Dienstverband:
+Vast
+
+Salaris:
+2500 – 4000 euro
+
+Werklocatie:
+Vaste werklocatie
+
+Specialisatie:
+Data Scientist
+
+Gerelateerd:
+Big Data vacature, R, Spark, Hive, Pig, Hadoop, D3.js, Cassandra, Flume, HBase, Datascientist, R-Shiny, Big Data, Python, Meta data, Claudera, Clustering, Julia
+
+Plaatsen in de omgeving:
+Nieuwegein, Vianen, IJsselstein, Houten

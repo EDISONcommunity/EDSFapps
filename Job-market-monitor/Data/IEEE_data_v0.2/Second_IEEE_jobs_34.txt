@@ -1,0 +1,59 @@
+Model-Based Systems Engineer - Space Domain 00048461 at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Model-Based Systems Engineer - Space Domain 00048461
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.The Engineering and Analysis department in the Space, Cyber, and Intelligence Program Division engages users early and focus on their data and information  how to gather it, shape it, architect it, and analyze it.  We are systems engineers and intelligence analysts engaging early in acquisition & operations life cycles and applying a hands-on spirit to solve hard problems in the Intelligence, Surveillance and Reconnaissance (ISR) processing, exploitation, and dissemination (PED) domain, operations/intelligence integration domain, and space operations domain.  We do systems engineering to develop conops, requirements, architectures, and data standards, and perform analysis to support acquisition and operational decisions.Key Functions:  Use architectures to identify alternatives and to assess impact of alternatives on cost, schedule and performance. Develop enterprise and system of systems (SoS) architectures using executable architecture modeling and analysis techniques. Implement and tailor standard modeling notations to best support customer outcomes (most applicable: Unified Profile for DoDAF/MODAF (UPDM); other desired:  Systems Modeling Language [SysML], Unified Modeling Language [UML], and Business Process Model and Notation [BPMN]).  Apply integrated Model-Based Systems Engineering (MBSE) approaches in dealing with architecture data elements and architecture design and modeling. Apply the best combination of methods and tools (e.g., static or dynamic models, descriptive or predictive analytics, governance, strategy), to evaluate and improve enterprises. Able to work within a programmatic environment with a team as leader in architecture design and development.
+
+
+
+
+
+
+
+
+
+
+Minimum Qualifications:Bachelors Degree in one of the following disciplines, Electrical,  Computer or Systems Engineering or similar field.  Candidate should possess the ability to be responsible for deliverables or parts of deliverables to customers.Required Qualifications:  5+ years of systems engineering experience. Knowledge of and familiarity with the various specifications and underlying metamodels (DoDAF DM2, SySML, UPDM). Experience in Space, Cyber or Intelligence domain. Strong communication and interpersonal skills to interact with technical peers, government. Knowledgeable of current technologies and new trends that can be used to achieve maximum results. Ability to be cleared up to a Top Secret security clearance level.Preferred Qualifications:  MS in SE, EE, Computer Science, engineering, or other related technical fields. Demonstrated experience with at least one architecture development tool (Magic Draw, Sparx Systems Enterprise Architect, IBM Rational Rhapsody, IBM Rational System Architect). Understanding of the various specifications and underlying metamodels (DoDAF DM2, SySML, UPDM). Experience in Modeling complex systems. Experience in Software and AGILE development.
+ 
+Categories
+
+
+
+Information Technology 
+
+Computer Programming/Systems 
+
+
+
+
+
+
+
+

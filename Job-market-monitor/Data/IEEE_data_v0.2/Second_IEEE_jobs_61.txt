@@ -1,0 +1,67 @@
+TBFM Software Systems Expert at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+TBFM Software Systems Expert
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+The MITRE Corporation's Transportation Transformation division is looking for someone eager to apply their Time-Based Flow Management expertise, software development, and computer science skills in a dynamic research environment evaluating full TBO in the Integration Demonstration and Experimentation for Aeronautics (IDEA) Lab. The IDEA Lab is an extensible, scalable, real-time distributed simulation environment based on an open, layered architecture. It brings together a broad set of integrated capabilities for human-in-the-loop simulations, demonstrations, and visualizations. It is an environment capable of handling a range of exploratory concepts, while also being realistic enough to provide a high-quality user experience. The position requires creative problem-solving skills, good communication skills, and the ability to thrive in a collaborative team environment. Key Functions: As a TBFM software expert at the MITRE Corporation, you will work as part of a team of software engineers, human factors experts, and Air Traffic Management domain experts to help the FAA sponsors to understand and evaluate the effects of the various aspects of enhancements to TBFM and other automation systems in a full TBO environment on the National Airspace System through human-in-the-loop, real-time simulation. 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+							Required Qualifications:  BS or higher in computer science, mathematics, engineering or related field  Experience in C/C++ and JAVA programming languages.  Experience developing in a Linux environment.  Familiarity with TBFM software, from the EnRoute domain (extended/coupled metering) to Terminal Sequencing and Spacing (TSAS), including the Integrated Departure / Arrival Capability (IDAC)  Have extensive knowledge, and the ability to configure, run, debug and update main TBFM software components: o Scheduler: Dynamic Planner (DP), Schedule Problem Prediction and Resolution (SPPR), Route Analyzer (RA), Trajectory Synthesis (TS) o Interface: Communications Manager (CM), ARTS/STARS Data Interface (ADIF), HADDS Data Interface (HDIF), Input Source Manager (ISM), Information Sharing (IS) o User GUI: Display Window Manager (DWM), Planview Graphical User Interface (PGUI), Timeline Graphical User Interface (TGUI), Web Delivery Services (WDS), Integrated Departure Scheduling Tool (IDST) o Monitor and Control emulator (emu) o Adaptation: All configuration files required to run at a specific center/terminal Preferred Qualifications:  Have active, or can qualify to obtain a DoD Secret Security Clearance.  Experience working in a real-time simulation environment.  
+Categories
+
+
+
+Engineering 
+
+Software Engineering 
+
+Environment, Health, and Safety 
+
+Robotics 
+
+
+
+
+
+
+
+

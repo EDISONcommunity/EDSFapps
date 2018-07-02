@@ -1,0 +1,75 @@
+Senior Cloud Software Engineer 30102BR at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Senior Cloud Software Engineer 30102BR
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+MITREs Software Engineering and Computing Department is seeking passionate Cloud Software Engineers who want to be technical leaders. We value engineers who want to lead projects to help government sponsors engineer systems to solve challenging problems affecting our national security.
+Key Functions:
+Play a trusted role in helping government sponsors apply lifecycle software engineering methodologies and software technologies to mission critical systems. Help sponsors to integrate, scale, consolidate and modernize software systems to solve national security problems. You can expect to:  Work across the software engineering lifecycle.  Assess software systems for potential migration to cloud environments.  Analyze migration approaches and conduct migration planning.  Help sponsors integrate and migrate software systems to cloud environments.  Participate in the development of emerging cloud engineering practices.  Maintain currency in cloud engineering practices.  Have a working knowledge of agile development practices.  Explore proof-of-concept prototypes and technical designs using cloud technologies.  Contribute to a range of independent technical analyses.
+
+
+
+
+
+
+
+
+
+
+Required Qualifications:
+ BS or MS degree in Computer Science, Software Engineering or equivalent with 3 years experience.  Experience in software design and implementation in federal and commercial domains  Experience designing and building applications in cloud environments (SaaS, PaaS, IaaS)  Experience deploying applications with cloud services (e.g., AWS EC2, Google Compute Engine, Microsoft Azure)  Fluent in one or more languages (e.g., Python, Ruby, Java, C++ or C#)  Experience with technologies (e.g., Apache, HTTP, REST, SOAP, JSON, XML, JavaScript, JUnit)  Experience in agile software delivery (e.g., Scrum, XP)  Understanding of Big Data tools (e.g., Hadoop, Mongo DB)  Consulting experience is preferred.  Excellent written and verbal communications skills.
+ 
+ 
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Management 
+
+Software Engineering 
+
+Computer Programming/Systems 
+
+Consulting 
+
+Communications 
+
+
+
+
+
+
+
+

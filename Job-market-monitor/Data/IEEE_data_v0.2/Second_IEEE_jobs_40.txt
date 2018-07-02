@@ -1,0 +1,77 @@
+Digital Services Systems Engineer at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-05-14
+
+
+
+
+Digital Services Systems Engineer
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+The Agile Design and Engineering Department (T881) within MITREs Systems Engineering Technical Center, is seeking a Digital Services Systems Engineer to join a dynamic and multi-disciplined technical organization. This individual will work on a matrixed team to provide systems engineering expertise, recommendations, assessments and guidance to government agencies and organizations. MITRE seeks system engineers, product managers and business analysts with various interests (e.g. systems, web and mobile applications, software, hardware, business services, etc.) to work with a team of experienced professionals in MITREs Center for Programs & Technology. The position entails defining solutions and strategies for projects, programs, and enterprise systems in a wide area of digital and online services. 
+ 
+Candidates are expected to provide expertise in one or more of the following technologies: web content management, search applications, mobile applications, e-commerce platforms, social media, customer relationship management (CRM) systems, cloud hosting, authentication systems, web analytics, user experience/user interface (UX/UI), information architecture and navigation, chatbots, voice assistants, and other related digital technologies.
+ 
+Day-to-day tasks may include working within an agile development framework to develop conceptual diagrams, process flows, assessment tools, concept of operations (ConOps), requirements gathering and definition, development of transition roadmaps, prototypes and researching web technologies/best practices. Experience implementing, operating and/or managing web experiences is required. The ability to apply techniques such as visual design, rapid prototyping and modeling is also highly desired.
+
+
+
+
+
+
+
+
+
+
+Required Qualifications Ability to obtain and maintain a DoD Secret clearance.  Bachelors Degree in a technical major (computer science, systems engineering, information systems, etc.) or business major (marketing, product management, economics, business process management, etc.)  This hands on technical position requires 3 + years documented success working with agile tools and development methodologies (e.g. Scrum, Feature and Test-Driven Development, DevOps, Rapid Application Development, Lean, Kanban, etc.)  Development experience integrating and using a broad range of technologies such as:    1) Web technologies (HTML/CSS, JavaScript, Ajax, JQuery, SQL, Java, Python, Ruby, XML, PERL, .NET, etc.)    2) RDBMS (Postgresql, mysql, Oracle, MS SQL Server, etc.)    3) Scripting Languages (JavaScript, SQL, Perl, Ruby, Make, Ant, etc.)  Product Management/Product Owner experience demonstrating the ability to coordinate the needs of business owners and end users with the technical capabilities of development teams and emerging technologies to define solutions and opportunities for high priority problems.  Ability to think strategically and work tactically to address complex business problems related to large scale interactions between government and the public through digital channels including the web, mobile devices, telephony systems, Internet of Things (IoT), etc.  Self-motivated individual with demonstrated experience leading the conceptualization, development and deployment of high usage technical solutions.  Strong communication skills required to help non-technical audience understand complex technical concepts. Preferred qualifications 
+ 
+Preference give to candidates with active DoD clearance.
+
+ Experience using, implementing and/or managing web content management systems (e.g. Drupal, Adobe Experience Manager, WordPress, DNN, etc.) and enterprise collaboration systems (JIRA, Slack, Pivotal, Asana, Confluence, Jive etc.)
+ Experience with the design of various architecture layers (e.g. enterprise, system, database, network and security, etc.)
+ Experience working with mission critical, high availability systems including performance monitoring, capacity planning, data replication, load balance, backup/restore, and disaster/recovery planning.
+ Familiarity with cybersecurity needs of operational systems.
+ Ability to design and deliver high-fidelity prototypes in fast-paced environments. 
+ Cloud Services (Amazon Web Services (AWS) or other cloud providers)
+ Contribution and affiliation with academic/professional communities focused on the definition of industry standards and best practices in disciplines related to Digital Services (e.g. systems engineering, Agile, UX/UI, system design, software development, DevOps, web technologies, web publishing, databases, cloud services, etc.)
+
+ 
+ 
+Categories
+
+
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Computer Engineering 
+
+
+
+
+
+
+
+

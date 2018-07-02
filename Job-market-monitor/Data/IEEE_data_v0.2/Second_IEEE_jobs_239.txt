@@ -1,0 +1,114 @@
+Navigation Systems Engineer at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Navigation Systems Engineer
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+Early career position working as part of a team of experts and multi-disciplinary engineers in developing, applying, and evaluating state-of-the-art Positioning, Navigation, and Timing (PNT) techniques and technologies with a focus on Navigation Warfare (Navwar). Navwar includes Counter-PNT, PNT resilience, and PNT situational awareness. Example technical focus areas include radio frequency signal processing, satnav receiver hardening and exploitation, inertial navigation system design and implementation, end-to-end prototype development, and field test data collection, processing, and analysis. 
+Key Functions:Postulate, develop, and test threats to PNT systems, methods for countering threats, and methods for detecting and characterizing threats
+Advance work from the concept to real-time system-level demonstration phase (i.e. DoD technology readiness level (TRL) 1 to TRL6) 
+Influence the short, mid, and long-term Navwar and PNT work programs within MITRE and sponsors 
+Influence sponsors on key PNT R&D and acquisition decisions via demonstration and documentation To do this, the successful candidate will: Apply electrical engineering, systems engineering, computer science, and aerospace engineering disciplines to a diverse set of challenges 
+Learn quickly on the job 
+Interface directly with defense and intelligence community sponsors and other contractors
+
+
+
+
+
+
+
+
+
+
+Required Qualifications:Candidates must exhibit: An exceptionally clear and structured thought process and coherent decision making skills 
+The ability to adapt and expand ones skillset to solve the problem at hand
+A desire to focus on technical and high impact work above all other factors 
+A desire and ability to work in classified environments 
+The candidate shall have academic and/or professional experience with: 
+digital signal processing and stochastic processes 
+state-space modeling and linear systems theory 
+wireless communications 
+basic antenna and radio propagation theory 
+writing technical and non-technical briefings, memos, and formal reports 
+Matlab or equivalent mathematical computation, modeling, and simulation tool 
+real-time and non-real-time embedded systems design and programming 
+basic software development, debugging, and support 
+mastery of spectrum analyzers, network analyzers, oscilloscopes, frequency counters, etc.
+Preferred Qualifications:The ideal candidate will have academic and/or professional experience with: Satellite navigation (Satnav) (Global Positioning Systems (GPS), Galileo, GLONASS, etc.) systems 
+Satnav receiver design and algorithm implementation 
+Applied electronic warfare, e.g. RF jamming and more sophisticated threats 
+Kalman filter implementation, tuning, and augmentation 
+Non-linear system theory, detection, and estimation 
+Orbital mechanics 
+Computer science, including theory, algorithms, and cryptography
+Electromagnetics 
+Image and video processing 
+Inertial measurement unit design, error modeling, and integration 
+Formal large-scale systems engineering 
+Field testing (in any engineering discipline) 
+Hardware, software, firmware, and integrated system prototyping 
+BS and 2 years of related experience, or MS
+Minimum Qualifications:
+BS or equivalentLevel2
+ 
+Secret
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Computer Engineering 
+
+Antennas and Propagation 
+
+Signal Processing 
+
+Aerospace and Electronic Systems 
+
+Electronics Engineer 
+
+Instrumentation and Measurement 
+
+Communications 
+
+
+
+
+
+
+
+

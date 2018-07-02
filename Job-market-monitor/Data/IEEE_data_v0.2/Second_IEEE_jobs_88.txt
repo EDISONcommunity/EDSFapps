@@ -1,0 +1,91 @@
+Cyber Security Software Engineer &nbsp;00048286 at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Cyber Security Software Engineer &nbsp;00048286
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+
+
+For this position with MITRE's T857, you will leverage your academic foundation and your work experience to develop, hone and apply your knowledge of the latest cyber software engineering concepts emerging from research, industry and academia on large complex enterprise systems development.
+ 
+Key functions we may expose you to include: leading software research and development teams, complex software system solutions analysis and consulting, requirements definition and refinement, software design and architecture validation, and hands-on prototyping. You will work closely with other consultants to develop and introduce the latest software, cyber, enterprise, and mobile technologies into the government enterprise. Typically, youll collaborate across a number of Government, Industry, and academic organizations in formulating solutions to complex problems.You will also support the research, development, and acquisition of complex cyber systems through the application of the latest software engineering concepts emerging from research, industry and academia. Key technical areas may include the following: Requirements analysis, definition, and refinement Reverse engineering Secure and assured systems engineering Malware analysis Hands on software engineering and development Mobile computing platform application development Application of Information Security Principals Blue and Red team analysis Penetration testing and system attack Assessment of security risk Software innovation and technology insertion Big data and analytics, including application of Map Reduce programming model and analytics technologies such as Hadoop, Hive and Pig Use of database technologies such as Oracle, MySQL, or SQL-based equivalents, as well as NoSQL-based databases such as Mongo.
+
+
+
+
+
+
+
+
+
+
+
+Minimum Qualifications:
+Bachelor's Degree in Computer Science or Computer Engineering or similar field. Candidate should possess the ability to be responsible for deliverables or parts of deliverables to MITRE customers.
+ 
+
+Required Qualifications:
+ 
+ Experience working with small teams Hands on experience with system attack and penetration testing tools, such as metasploit and others "Hands-on" skills in at leastone of the following: Java, XML, HTML, C/C++/Objective-C/C#, NodeJS, Python, JavaScript and RESTful design Experience in using mobile development tools and methodologies (XCode, RESTful interaction, Application Sandboxing, Mobile UI design, etc) Strong fundamental knowledge of computer science, especially algorithms and data structures germane to the development of high-quality, efficient software. Strong written and verbal communication skills.
+
+
+
+Preferred Qualifications:
+ 
+ Experience using software development processes (RUP, Agile, TDD, scrum) and tools (UML, Rational System Architect, Rational Rhapsody) Understanding of enterprise platforms (JavaEE, .NET), Cloud Computing, Web Services principles and Service Oriented Architecture (SOAs) and frameworks such as Spring. Mobile platforms (iPhone, Android, QNX) and mobile software development Experience with malware analysis tools and techniques Experience working with reverse engineering environments, such as IDAPro  Internet of Things knowledge  Hands on experience with system attack and penetration testing tools, such as metasploit and others Experience with malware analysis tools and techniques Experience in the security of telematics systems Experience developing in QNX and other embedded operating systems Experience in developing personal and enterprise security products
+ 
+Categories
+
+
+
+Information Technology 
+
+Management 
+
+Biotechnology / Science 
+
+Engineering 
+
+Computer Programming/Systems 
+
+Software Engineering 
+
+Computer Engineering 
+
+Consulting 
+
+Research 
+
+
+
+
+
+
+
+

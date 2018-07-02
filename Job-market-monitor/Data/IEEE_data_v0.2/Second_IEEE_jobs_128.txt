@@ -1,0 +1,134 @@
+Senior Signal Analysis Engineer at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-05-20
+
+
+
+
+Senior Signal Analysis Engineer
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.MITRE seeks motivated and innovative engineers interested in
+signal analysis research applied to signal processing applications towards the
+development of enhancing our nations systems for navigation, timing, wireless
+communications, and surveillance and reconnaissance sensors.  The
+successful candidate should have a strong interest and some relevant background
+with cyclostationary processing, wavelet analysis, machine learning, pattern
+recognition, and/or statistical signal processing applied to at least one of
+the following signal processing applications:
+
+ 
+
+Key Functions:
+
+Leading tasks to support
+     wireless communications systems development and analysis, including
+     modulation, coding, channel equalization, interference cancellation, and
+     geolocation for cognitive radio applications.Leading tasks to support
+     projects developing, applying and evaluating state-of-the-art signal
+     processing algorithms for satellite navigation systems. Tasks focus on
+     development of advanced navigation signals and receiver signal-time
+     system-level demonstration.
+Leading tasks to support
+     projects developing, applying and evaluating state-of-the-art signal
+     processing algorithms for sensor systems. Tasks focus on the use of
+     sensing technologies, such as radar and video, to support defense and
+     intelligence applications.The candidate is expected toLead signal analysis task efforts.Design and analyze representation learning and deep/machine learning architectures compared to tradition signal processing.Learn quickly on the job.Interface directly with defense and intelligence community sponsors and other contractors.Apply signal processing, electrical engineering, systems engineering, computer science, and machine learning to a diverse set of challenges
+
+
+
+
+
+
+
+
+
+
+Required Qualifications:
+
+Candidates must exhibit:
+
+An exceptionally clear
+     and structured thought process and coherent decision-making skills.
+The ability to adapt and
+     expand ones skillset to solve the problem at hand.
+A desire to focus on
+     technical and high impact work above all other factors.
+Ability and desire to
+     document results through technical and non-technical briefings, memos, and
+     formal reports.
+Ability to work in
+     classified environments.
+Preferred Qualifications:
+
+Candidates will have a
+     background in electrical engineering, physics, computer science or
+     mathematics and a strong foundation in both signal processing and machine
+     learning. We are also looking for experience in information and
+     communication system engineering, estimation and classification, radar
+     systems, and image and video processing.
+The candidate should
+     have academic and/or professional experience with as many of the following
+     topics as possible:
+Supervised/Unsupervised
+     learning processes
+Variety of machine
+     learning structures: support vector machine, probabilistic graphical
+     models, neural networks, etc.
+Digital signal
+     processing and stochastic processes
+Engineering mathematics:
+     calculus, differential equations, linear algebra
+Wireless communications
+Detection and estimation
+Proficient with Python,
+     C/C++, and/or MATLAB
+Software development,
+     debugging, and support
+Data parsing, reduction,
+     analysis, and visualization.A MS  or Ph.D. degree in Electrical or Computer
+Engineering, Computer Science, or a similar field.Minimum Qualifications:Bachelors Degree and 3 years related experience.   
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Computer Engineering 
+
+Signal Processing 
+
+Communications 
+
+
+
+
+
+
+
+

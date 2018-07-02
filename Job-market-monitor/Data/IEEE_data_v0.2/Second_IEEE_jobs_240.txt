@@ -1,0 +1,52 @@
+AO/Programmer Analyst  at AllianceBernstein, L.P. in New York, New York 10105 | IEEE
+
+
+                            8 days old                        2018-04-302018-05-30
+
+
+
+
+AO/Programmer Analyst 
+
+                                                            AllianceBernstein, L.P.                                                    
+
+
+New York, New York 10105 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+                                Please see Job Details for Apply instructions                            
+
+
+
+
+
+Job TypeEmployee
+
+
+
+
+AO/Programmer Analyst (AllianceBernstein L.P.- New York, NY) Develop and deploy software according to business requirements to improve fixed income trading, portfolio management and credit research systems. Gather business requirements from stakeholders and write technical specifications. Perform unit and integration testing. Design database architecture, services and unit interfaces. Analyze and implement new data models. Develop systems for downloading market data from various sources and maintain the data repository. Provide support for ad-hoc data and research requests from the investment team. Analyze, simplify and automate existing legacy manual process. Coordinate with Quality Assurance to identify issues and provide solutions. Conduct application deployment and release management.
+ 
+Requires a Bachelor’s degree (or foreign equivalent) in Computer Science or Engineering, Finance, Mathematics, Statistics or a related field and 5 years of experience in the job offered or developing front-end applications for both Desktops and Web using Windows or Web framework. All stated experience must include the following: writing SQL queries and stored procedures in Oracle and MS SQL Server; C#, SSIS, WCF, REST services, HTML 5, CSS3, JIRA and TFS; JavaScript based framework including Angular, ReactJS or similar and messaging queue framework including MSMQ, RabbitMQ or similar; relational database modelling skills with Oracle, SQL Server or Sybase; creating interfaces to download and aggregate data for analysis from vendor API’s; supporting the entire software development and implementation lifecycle; mapping data elements between systems, developing transformation logic and resolving issues with data integrity; and, handling production deployments or release management.
+ 
+Mail resumes: James Alvia at AllianceBernstein, L.P., 1345 Avenue of the Americas, New York, NY 10105. Reference JobID: APA-FCO. 
+Categories
+
+
+
+Computer Programming/Systems 
+
+
+
+
+

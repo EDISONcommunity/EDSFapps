@@ -1,0 +1,101 @@
+Lead Data Science Engineer - 00048180 at MITRE in San Diego, CA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Lead Data Science Engineer - 00048180
+
+                                                            MITRE                                                    
+
+
+San Diego, CA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+Be part of a dynamic team that provides Navy Command, Control, Communications, Computing, and Intelligence (C4I) Systems Engineering for Surface Warfare systems and full-spectrum fleet operations. MITRE San Diego is growing, and seeks candidates with exceptional leadership capabilities, technical skills, and domain expertise ready to tackle some of the Navys most pressing technical challenges.
+ 
+The Lead Data Systems Engineer will be responsible for providing engineering expertise to develop the data and data analytics capabilities of Navy C4I systems. Relevant systems provide battlespace awareness to operational commanders through all-source intelligence fusion, situational awareness of cyberspace effects on battlespace operations, and detection of undersea systems through advanced signal processing. Key job functions include:
+
+Assess technical maturity and analytical rigor of data analytics technologies to recommend their implementation or further development
+
+Develop strategic plans for incremental fielding of data analytics capabilities
+
+Prototype data analytics and machine learning systems
+
+Capture, derive, translate into feasible system designs, verify, and validate requirements for data analytics and machine learning capabilities
+
+Build and shape work programs to increase MITREs impact in data analytics and machine learning
+
+Mentor junior staff in technical and soft skills capabilities
+Minimum Qualifications:
+BS and 5 years related experience
+Secret level clearance
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information or applicants who are eligible for security clearances.Required Qualifications:
+MS in Mathematics, Data Analytics, Engineering, Computer Science or related area
+Five to ten years experience applying data science to one or more of the following:
+
+Cybersecurity systems
+
+Data fusion
+
+National security
+
+Intelligence operations
+Working knowledge of Joint Directors of Laboratories (JDL) data fusion structure, methods, and operational usage
+Familiarity with military and national intelligence systems and networks
+Experience contributing to or managing development of enterprise data strategies, including data architecture, data quality, data management, and data governance
+Experience translating operational experience into system user interface requirements, system interface requirements, and system data requirements
+Strong experience in agile software development, algorithm development, and data analytics (to include big data analytics, data mining, and data science) to enable data-driven decisions and insights
+Experience evaluating analytics technology solutions for maturity and fitness for capability requirements
+Strong verbal and written communications skillsPreferred Qualifications:
+Experience managing data standards, policies, service level agreements, and data metrics
+Geospatial data knowledge and background
+Experience developing test and evaluation criteria for analytic technologies
+Working knowledge and experience with software development using data analytics software frameworks that consist of the following:  STORM, Kafka, NiFi, Spark, Accumulo, and Hadoop.
+Experience in development of software on cloud-based hosting environments (Amazon Web Services, GovCloud, and/or C2S)
+
+Strong preference for candidates with knowledge of Navy, DODIN, DCO, ISR sensing systems, ISR data strategy, EW systems and challenges, and related classified National Intelligence Programs and Military Intelligence Programs
+
+Top Secret/SCI clearance 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Computer Engineering 
+
+Signal Processing 
+
+Communications 
+
+
+
+
+
+
+
+

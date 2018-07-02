@@ -1,0 +1,115 @@
+Electro-optical Engineer/Scientist (Research Engineer/Scientist I/II) at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Electro-optical Engineer/Scientist (Research Engineer/Scientist I/II)
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1196
+
+
+
+
+Title: Electro-optical Engineer/Scientist (Research Engineer/Scientist I/II) 
+                 JobID: 1196 
+                 Location: Atlanta, GA 
+                 Description: Description:
+
+Title: Electro-optical Engineer/Scientist (Research Engineer/Scientist I/II)
+Position: Full Time
+Level: Research Engineer/Scientist I/II
+Primary Location: Atlanta, GA
+Travel Required: Up to 25% time
+Lab: Electro-Optical Systems Laboratory
+Reporting to: Christopher Valenta
+Job Description:
+This job is for a full-time research faculty position in the Electro-Optical Systems Innovation Division (EOSID) and joint appointment with the Sensor Intelligence & Visualization Division (SIV) within the Electro-Optical Systems Laboratory (EOSL) at the Georgia Tech Research Institute (GTRI). Responsibilities include developing innovative solutions for real-time embedded systems; developing novel digital signal processing algorithms and instrumentation control; designing, implementing, and debugging low-level software; designing, implementing, and debugging 2D/3D visualization applications; writing technical reports, user manuals, and high level software; and supporting other engineering-related work as needed.
+We offer a flexible work environment allowing each researcher to pursue his or her interests and strengths, integrated with the overall mission of the branch and the lab.  If you have aspirations for an advanced degree, all the better.  Because GTRI is a research unit within Georgia Tech, you can get your graduate school paid for and pursue a degree in pretty much any engineering, science or math field you desire from a world class research institution.  We highly encourage our research developers to pursue advanced technical degrees and professional development courses.
+Education:
+
+B.S. M.S. or Ph.D in Electrical Engineering, Computer Engineering, Computer Science or related fields
+
+Experience: 
+
+0-7 years of professional or graduate experience
+
+Requirements:
+
+Develop low-level software for real-time signal processing of optical signals
+Make component-level decisions from high-level system requirements
+Experience with general electrical lab instrumentation equipment – oscilloscopes, function generators, multi-meters, etc.
+Develop 2D/3D data visualization user interfaces
+Communicate with outside vendors and suppliers
+Write technical reports, user manuals, presentations, and requirements documents
+Have strong analytical and troubleshooting skills
+Be self-motivated and able to work independently on projects
+Travel may be involved, as project work may occur in Atlanta or at a location other than Atlanta
+
+Preferred Skills:
+
+VHDL/Verilog, Mentor Graphics, Vivado, CUDA, Matlab, BASH
+C, C++, C#
+Experience with Visual Studio
+Experience with Microsoft .NET, WPF/UWP a plus
+Experience with mixed signal FPGA system design
+Experience developing and debugging hardware programmable languages
+Experience in processing point clouds, inertial navigation system data, and hyperspectral data
+Knowledge of advanced digital signal processing
+Knowledge of software architecture design
+Experience with or passion for Virtual/Augmented Reality, Hololens, Oculus Rift
+Real-time operating system experience a plus
+Previous experience with electro-optical systems is a plus
+Strong math skills and ability to learn complex engineering concepts
+Familiarity with Linux and open source tools
+Ability to clearly communicate technical ideas to non-technical audience
+
+Other:
+
+Due to requirements of our Federal contracts, candidate must be US citizens capable of holding a DoD security clearance. Active clearances are a major plus.
+
+ 
+
+
+
+
+Categories
+
+
+
+Engineering 
+
+Instrumentation and Measurement 
+
+
+
+
+
+
+
+

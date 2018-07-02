@@ -1,0 +1,102 @@
+Software Developer - Research Focus - ELSYS - 1404 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Software Developer - Research Focus - ELSYS - 1404
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1404
+
+
+
+
+Title: Software Developer - Research Focus - ELSYS - 1404 
+                 JobID: 1404 
+                 Location: Atlanta, GA 
+                 Description: Summary of Description:  
+This job is for a full-time research faculty position in the Systems Engineering Software Applications Branch (SESA). Our research group is predominantly focused on the creation of collaborative, browser-based tools to support large-scale data visualization and systems engineering design for complex systems.  We are not a commercial development house, most of the development projects we do are six-month to year-long cycles developing both full web applications and more specialized browser-based tools for our sponsors.  The emphasis is on research and development to support the solving of new and novel problems.  This job affords considerable intellectual freedom to solve our customer's problems.  We also strive to use open source software and tools wherever possible.
+In this role, you will: 
+
+Be assigned to the Systems Technology and Analysis Division to support research projects and business development in SESA.  
+Support ongoing software development activities where GTRI is providing tools and methods for DoD R&D programs. 
+Eventually transition to Task or Project lead for customer funded programs, assuming technical and financial responsibility for tasks.
+Facilitate business and technical relationships in support of customer program managers and technical leaders.
+
+Education and Experience Requirements:  Master’s or Doctoral  (depending on position rank see below information)  in Computer Science or Science/Engineering Related Field (Computer Engineering, Mathematics, Aerospace, Physics, Economics, Psychology, Medicine, etc.) with significant programming/development experience.
+Rank as a Senior Research Engineer I / Senior Research Scientist I 
+A Master’s degree and seven (7) years of relevant full-time experience after completion of that degree,
+A Master’s degree and nine (9) years of relevant full-time experience after completion of a Bachelor’s degree, or
+A Doctoral degree and four (4) years' relevant full-time experience.
+Rank as a Principal Research Engineer II / Principal Research Scientist II 
+A Master's degree and eleven (11) years' relevant full-time experience; or
+A Doctoral degree and seven (7) years' relevant full-time experience.
+Job Requirements:
+
+US Citizenship
+DoD Secret clearance or ability to obtain a clearance within six months after your employment with Georgia Tech Research Institute begins is required
+
+Preferred Skills/Qualifications:
+
+Python (3.x preferred)
+JavaScript
+CSS
+HTML (HTML5 preferred)
+Familiarity with Linux and relative comfort with a command line
+Configuration management tools (git preferred)
+Ability to clearly communicate technical ideas to non-technical audience
+Django
+NoSQL databases (e.g.  MongoDB)
+Team Leadership
+Project management
+Linux systems administration (multiple distros, but predominantly RHEL/CentOS)
+Data visualization (e.g. Tufte and Cleveland methods, d3.js or matplotlib type visualizations)
+Software/systems engineering concepts like architecting, requirements definition, configuration management, and analysis of alternatives
+Scientific tool development (Python using numpy, scipy, openmdao and matplotlib)
+Node.js and related technologies 
+SysML modeling
+Resource description framework (RDF)
+
+If you have aspirations for an advanced degree, GTRI is an excellent choice.  Because GTRI is a research unit within Georgia Tech, we offer full tuition reimbursement if you pursue a Master's or Ph.D. degree at Georgia Tech.  We highly encourage our research developers to pursue advanced degrees, particularly in a software or systems engineering related discipline. Working for GTRI guarantees professional experience related to your education and work experience, as well as the support and flexibility that you need to find your perfect work-life balance. GTRI will help cultivate your future with employee benefits such as full tuition reimbursement for employees pursuing advanced Georgia Tech degrees. This is just one of many benefits that accompany employment at GTRI.
+
+
+
+
+Categories
+
+
+
+Research 
+
+
+
+
+
+
+
+

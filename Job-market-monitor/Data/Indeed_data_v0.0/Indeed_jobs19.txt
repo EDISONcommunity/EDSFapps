@@ -1,0 +1,36 @@
+Data Scientist voor 8 miljoen unieke devices! Vacature - iSense - Utrecht | Indeed.nlBeheren en ontwerpen van een Cloud gebaseerde Big Data oplossing.
+Actief adviseren over hoe men continue de dienstverlening kan verbeteren richting de gebruiker;
+analyseren van complexe datasets uit diverse bronnen waaronder Online, Radio en TV.
+Verwerken van grote hoeveelheden data naar concrete informatie voor eindgebruikers;
+Experimenteren met nieuwe mogelijkheden, tools en algoritmes;
+Meedraaien in diverse projecten zodat steeds meer afdelingen gebruiken kunnen maken van de mogelijkheden die jij voor ze bedenkt!
+
+Data uit ruim 8 miljoen unieke devices in Nederland. Weet jij als Data Scientist wel raad met deze data? Reageer dan nu!
+
+Je komt te werken bij een groot en invloedrijk mediabedrijf in de omgeving van Utrecht. Ze zijn actief via diverse online kanalen, maar ook radio en TV.
+De afdeling waar je komt bestaat uit een klein team en bestaat ongeveer twee jaar, waarvan één jaar operationeel actief. Op dit moment verzamelen ze data van ruim 8 miljoen unieke devices. Deze data is niet alleen interessant voor adverteerders, maar ook voor de interne afdelingen om hun bedrijfsvoering gerichter uit te voeren.
+Twee jaar geleden hebben ze een volledige nieuwe omgeving op kunnen zetten o.b.v. de Google Cloud i.c.m. Hadoop, Apache Spark, Bigtable en BigQuery. Ze zijn altijd nog aan het innoveren en investeren in Big Data en Advanced Analytics en daarom zijn ze dan ook opzoek naar een Data Scientist die het team van data Scientist komt versterken.
+Er liggen tal van projecten op stapel waar je de komende jaren vol enthousiasme en trots aan kan werken. Er is dan ook nog genoeg ruimte voor nieuwe ideeën en de organisatie staat altijd open voor nieuwe ideeën.
+
+Minimaal een afgeronde HBO opleiding of een afgeronde WO opleiding;
+Je hebt vanuit je studie of werk ervaring als Data Scientist;
+Ervaring met Cloud oplossingen zoals Amazon Web Services, Azure en Google Cloud;
+Enige ervaring met scripten of programmeren is een pré;
+Bekend met Hadoop, Spark en Bigtable is een pré
+Passie voor big data en advanced analytics;
+Sterke analytische en statistische vaardigheden.
+
+€2.500 – €4.000 o.b.v. 36 uur
+
+​iSense is een jonge, energieke en ambitieuze specialist in de ICT arbeidsbemiddeling. iSense helpt je bij het vinden van een baan op operatie, business consultancy en (project/lijn) management niveau. Een baan waarin je succesvol kunt zijn en vooral ook gelukkig.
+
+Samenwerken met iSense betekent voor jou:
+Persoonlijke begeleiding voor, tijdens en na jouw sollicitatietraject;
+Goed inzicht in jouw persoonlijke vaardighedaen door diverse rapportages;
+Klaargestoomd worden voor jouw sollicitatiegesprek;
+Altijd op de hoogte zijn van jouw sollicitatietraject;
+Maandelijks persoonlijk contact met de Field Coach;
+Ieder kwartaal gratis deelnemen aan de Personal Development Workshops;
+Met regelmaat op pad met jouw iSense collega’s in de regio (ihavefun).
+Meer weten?
+Kijk op www.isense.nl.

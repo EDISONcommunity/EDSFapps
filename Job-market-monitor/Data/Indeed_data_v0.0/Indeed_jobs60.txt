@@ -1,0 +1,37 @@
+Data Scientist /Programmeur Vacature - QWERY - Utrecht | Indeed.nlOp zoek naar een Data Scientist /Programmeur met kennis en ervaring met de SAS Suite (SAS EG, DI Studio)
+Functieomschrijving:
+De afdeling data & analytics is nog volop in ontwikkeling, en daarin speel jij een belangrijke rol. Met jouw frisse kijk, energieke persoonlijkheid en verrassende ideeën help je onze afdeling verder vooruit. Wil jij werken in dé datagoudmijn van Nederland? En samen met een jonge en gezellige club mensen een splinternieuwe afdeling vormgeven? Ben jij de nieuwe interim Data Scientist/programmeur bij de afdeling data & analytics van de Belastingdienst? Dankzij de innovatieve bigdataplatforms en -systemen van de Belastingdienst kunnen we burgers en bedrijven supersnelle service leveren. Belt iemand bijvoorbeeld de Belastingtelefoon met een vraag, dan kan ons callcenter alle gegevens van deze persoon er direct bij pakken. Je begrijpt, dit scheelt enorm veel tijd. In totaal beschikt de Belastingdienst nu over ongeveer 100 systemen die het werk efficiënter maken. Deze worden ontwikkeld en beheerd bij data & analytics, de afdeling waar jij werkt.
+Werkt samen met Analytics Programmeur, Data scientisten/analisten, business analisten, UX ontwerpers, Front-end developers en eind-gebruikers om complexe datasets geschikt te maken voor visualisatie
+Analyseren van complexe datasets en verbanden leggen tussen verschillende grote databronnen
+Ontwikkelt, bouwt en test dataviews tbv visualisatie
+Zorgt voor beheerarme dataopwerking
+
+Functie-eisen:
+WO werk- en denk niveau.
+3 jaar ervaring in rol als Data Scientist (programmeur) of vergelijkbaar; Handson ervaring met een of meerdere onderdelen van de SAS Suite (SAS EG, DI Studio).
+Minimaal 1jaar handson ervaring met SQL of een vergelijkbare programmeertaal.
+Bekend met en minimaal 1 jaar ervaring met het bewerken van data van bronsystemen naar analysetabellen.
+
+Competenties:
+
+Taak-flexibel en Handson-mentaliteit
+Samenwerken en Analyseren
+Pragmatisch en Nauwkeurig
+
+Aanvullende kennis:
+
+Bekend met relationele data structuren en database platformen zoals Teradata.
+
+Overige functiewensen:
+
+Is in staat te opereren in een complexe business context, waarin meerdere bedrijfsonderdelen samenwerken.
+Ervaring met agile/scrum werken.
+Ervaring met datavisualisatie
+
+overig: Kandidaat dient 32-36 uur p/w beschikbaar te zijn.
+
+De IV-organisatie van de Belastingdienst is verantwoordelijk voor en verzorgt de ICT-voorzieningen. Het merendeel van de applicaties wordt op dit moment door de IV-organisatie zelf ontwikkeld, onderhouden en beheerd in het eigen data center. Naast de zorg voor continuïteit op de massale heffing-en inningsprocessen die plaatsvinden binnen een degelijke, stabiele omgeving, wordt er tevens volop gewerkt aan modernisering van het IV-landschap. Dit gebeurt deels intern door gebruik te maken van de expertise die intern aanwezig is, maar ook door het aantrekken van (kant-en-klaar) oplossingen en expertise uit de markt.
+
+Liever een andere contractvorm?
+
+Wanneer je (nog) niet als zzp-er aan de slag wil gaan is het mogelijk om in aanmerking te komen voor een (tijdelijke) arbeidsovereenkomst. LINKIT biedt uitstekende arbeidsvoorwaarden die zijn gekoppeld aan je kennis- en ervaringsniveau. Bij onze aansprekende eindklanten kan je direct ervaring opdoen binnen een inspirerende omgeving met een hoog kennisniveau. Samen met ons ongelimiteerde opleidingsbudget is dit een goede stap in je carrière. Naast prima arbeidsvoorwaarden staat LINKIT ook voor Knowledge en Fun!: we organiseren op regelmatige basis Meetups, borrels en andere IT events. We bespreken alle details graag in een persoonlijk gesprek.

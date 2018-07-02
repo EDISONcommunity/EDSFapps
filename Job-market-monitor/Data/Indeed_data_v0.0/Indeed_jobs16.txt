@@ -1,0 +1,9 @@
+Medior/ Senior Data Scientist | Telecommunication Vacature - AnalysePeople - Utrecht | Indeed.nlEnglish Speaking
+Be part of an international team of Data Scientists.
+Tasks: building predicitve models, IoT solutions, churn models, product- and service recommendation etc.
+
+Techniques & Tooling: Hadoop, Spark, Python, R, Tableau, SQL, Scala etc.
+
+Must Haves: MSc or PhD in quantitive field, use of structured and unstrucutred data tools, experience using machine learning libraries, experience with at least one programming language (R, Python, Scala, Java, C++).
+
+Nice to have: experience with digital data sets, experience with PySpark

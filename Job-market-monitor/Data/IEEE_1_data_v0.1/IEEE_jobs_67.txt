@@ -1,0 +1,94 @@
+Experienced Software Data Analytics at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Experienced Software Data Analytics
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us. 
+
+The Engineering and Analysis department in the Space, Cyber, and Intelligence Program Division engages users early and focus on their data and information  how to gather it, shape it, architect it, and analyze it.  We are systems engineers and intelligence analysts engaging early in acquisition & operations life cycles and applying a hands-on spirit to solve hard problems in the Intelligence, Surveillance and Reconnaissance (ISR) processing, exploitation, and dissemination (PED) domain, operations/intelligence integration domain, and space operations domain.  We do systems engineering to develop conops, requirements, architectures, and data standards, and perform analysis to support acquisition and operational decisions.
+
+
+Key Functions:
+
+ Conduct inductive reasoning and exploratory data analysis to form or refine hypotheses and discover new analytic paths as part of a team of computer scientists, mathematicians, and domain experts within the global space activities and operations or cyber defense and operations domains.
+ Identify questions and insights where data analytics can support a sponsors systems acquisition or operational decisions to enhance processes and efficiencies, and increase productivity and effectiveness across the organizations.
+ Capture and create datasets (structured and unstructured, actual and synthetic) for demonstrating methodologies and algorithms for making data-driven decisions.  Assess quality, correctness, and completeness of data providers and collection.
+ Develop operational and system criteria for evaluating commercially available AI, machine learning, and deep learning technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+Minimum Education/Experience: 
+
+BS and 3 years related experience.
+
+
+Required Qualifications: 
+
+ BS in a science discipline such as Computer Science, Mathematics, Physics, Engineering.
+ 3+ years of systems engineering involving quantitative data analysis to solve problems.
+ A strong interest in, and enthusiasm for, understanding global space activities and operations or cyber defense and operations.
+ Prior background in space systems engineering, space domain awareness, data analyses from space systems, EO and RF sensor systems, or related fields
+ Or prior background in cyber security or cyber operations including data analyses of large datasets
+ Should have demonstrated skills and experience with fusing and analyzing information from multiple sources and extrapolating this information to answer specific and general space or cyber system questions
+ Experience with SQL, Tableau, Hadoop (Pig, Scalding), statistical software (R/Stata/SAS/Matlab)
+ Strong communication and interpersonal skills to interact with other analysts, technical peers, and senior military and civilian sponsors.
+ Must have, or be eligible for, TOP SECRET clearance and SCI access
+ 
+Preferred Qualifications:
+
+ MS in Computer Science, Mathematics, Physics, Engineering
+ Familiarity with spacecraft telemetry and spacecraft anomaly resolution is desirable. Understanding EO and RF sensor systems is also desirable
+  Knowledgeable of current AI, machine learning, and deep learning technologies and emerging trends that can be used to achieve tailored results
+  Should be a self-starter, motivated to impact high-interest space situations. The potential exists to develop your own areas of expertise in the analysis of space systems
+ Prior experience and familiarity with USAF and IC customers
+ 
+Categories
+
+
+
+Information Technology 
+
+Computer Programming/Systems 
+
+
+
+
+
+
+
+

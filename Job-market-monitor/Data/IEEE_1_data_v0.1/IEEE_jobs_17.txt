@@ -1,0 +1,55 @@
+Computer Scientist at University of Southern California in Arlington, Virginia 22203 | IEEE
+
+
+                            25 days old                        2018-04-122018-05-12
+
+
+
+
+Computer Scientist
+
+                                                            University of Southern California                                                    
+
+
+Arlington, Virginia 22203 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+                                Please see Job Details for Apply instructions                            
+
+
+
+
+
+Job TypeEmployee
+
+
+
+
+DUTIES: Generate research ideas and solutions to complex computer science problems. Contribute to state-of-the-art technology and theories. Apply computer science principles and concepts in planning, coordinating and executing research objectives. Research and develop presentation attack detection (PAD) technologies to ensure the integrity of biometric authentication systems. Utilize Python, Java and C++ programming languages to develop computer vision and machine learning algorithms for object detection and recognition, large-scale indexing and retrieval and multimedia understanding. Research and develop visual feature extraction techniques using image filters; convolutional neural network based techniques to learn visual features from images and videos, and for alignment of faces in 2D and 3D; and neural network based outlier detection technique for PAD, including methods for improving deep learning based methods and their performances. Develop software to integrate sensor data collection, data storage and query, and presentation attach algorithms. Solve a wide range of research problems. Create or modify methods and techniques for obtaining solutions. Provide research support on problems of diverse scope and execute research projects in collaboration with others. Contribute to the development of research documentation and write articles for publication in top conferences and journals. Make presentations at conferences and meetings. Participate in workshops and collaborate in specific areas of research.
+
+
+Ph.D. degree in Computer Science, Electrical Engineering or Computer Engineering with 3 years of experience in the job offer, or as a Research Programmer, Research Engineer or Software Engineer: or a Master's degree in Computer Science, Electrical Engineering or Computer Engineering with 5 years of experience in the job offer, or as a Research Programmer, Research Engineer or Software Engineer.
+Qualifying experience must include 3 years software development on Linux operating system, Python and C++ programming, Amazon Web Services (AWS), and vision and learning libraries.
+Must have record of scholarly publications in the field of computer vision and/or machine learning in top peer-reviewed conference proceedings and journals.
+
+Contact UsPI102002291 
+Categories
+
+
+
+Computer Engineering 
+
+
+
+
+

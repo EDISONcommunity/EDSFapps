@@ -1,0 +1,26 @@
+Medior/Senior/Lead Data Scientist | Telecom | Utrecht (7x) Vacature - AnalysePeople - Utrecht | Indeed.nlFor one of my clients, I am looking for multiple experienced Data Scientists.
+
+Job description
+
+– Predictive maintenance of their network
+– Churn analysis
+– Product- and service recommendation
+– Improving customer satisfaction
+– Development of data-driven services
+– Development of IoT solutions
+– Creating Advanced Analytics
+– Development of predictive and prescriptive models
+
+Essentials
+
+– You are an experienced Data Scientist, having a track record in exploring, designing, developing and testing predictive models using techniques like Hadoop, Spark, Python, R, Tableau and SQL
+– You have a relevant MSc or Ph.D. in quantitative fields like Mathematics, Statistics, Computer Science, Artifical Intelligence or related fields
+– You are a passionate expert, following this rapidly changing industry not because you need to, but because you love to.
+– You have en deep statistical modeling expertise
+– You have a proven track record in data manipulation
+– Experience in at least on relevant programming language; R, Python, Spark, Scala, Java, C++
+– Proficient in statistical packages and Machine Learning libraries
+
+Interested?
+
+kai@analysepeople.nl

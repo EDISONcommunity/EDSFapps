@@ -1,0 +1,115 @@
+Research Engineer (Software) - Ocean Observatories Initiative (OOI) at Woods Hole Oceanographic Institution in Woods Hole, Massachusetts 02543 | IEEE
+
+
+                            24 days old                        2018-04-132018-05-13
+
+
+
+
+Research Engineer (Software) - Ocean Observatories Initiative (OOI)
+
+                                                            Woods Hole Oceanographic Institution                                                    
+
+
+Woods Hole, Massachusetts 02543 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Job TypeEmployee
+Job StatusFull Time
+
+
+
+
+The Applied Ocean Physics & Engineering Department is currently searching for a Research Engineer (Software) to join their Ocean Observatories Initiative (OOI) team. This is a regular, full-time, exempt position and is eligible for benefits.
+ 
+JOB SUMMARY:
+The OOI is funded by the National Science Foundation, and Woods Hole Oceanographic Institution (WHOI) is responsible for the Coastal Pioneer Array and the four Global Arrays, including all associated vehicles.  The Software Team working on the OOI’s Coastal & Global Scale Nodes (CGSN) is seeking an experienced Software Engineer to write complex computer code for use in ocean instrumentation data collection, processing and display.  The successful candidate will be responsible for all aspects of the CGSN software on moorings, underwater vehicles, servers and other auxiliary hardware.  The successful candidate is expected to maintain and update the complex CGSN software and, in some cases, the electronics that the software runs on, as well as do scheduled software upgrades and server maintenance.  The Research Engineer is expected to develop tools to address CGSN user requirements, with the goal of reducing operator workload.  In order to best serve the CGSN group and understand the group’s software requirements, the Research Engineer is expected to regularly participate in hardware and software integration and troubleshooting efforts for CGSN moorings and other assets, and occasionally support at-sea deployments. 
+  
+Requirements
+ESSENTIAL FUNCTIONS:
+
+Ability to develop new code in C++ and Python, using current standards and best practices
+Ability to work with existing code (written in Perl, Python, C, HTML, and MATLAB)
+Developing in (and for) a Linux environment (i.e. Debian, Ubuntu, CentOS)
+Experience with version control (specifically Git) and adhering to a desired workflow involving online tools such as BitBucket or GitHub
+Developing with open-source tools
+Troubleshooting code and system functionality in complex hardware-software systems
+Ability to listen to needs to CGSN team members and implement features and fixes as needed
+Strong technical writing & documentation skills, both inside and outside of code
+Required to work on-site at WHOI to interact with CGSN scientific and technical staff to foster research and development ideas, develop and hone requirements, as well as to allow for testing and development on hardware at WHOI
+Ability to meet deadlines
+Ability to report status and progress weekly
+Ability to work both independently and cooperatively on tasks as a member of the CGSN software and electrical teams
+Ability to work professionally and respectfully alongside diverse team members in the office, lab and at-sea settings
+Software expectations:
+
+Software Design Documentation and Review – responsible for documenting any changes made to existing software.  If the changes are significant enough, a thorough design for the planned changes shall be captured and then reviewed by the CGSN Software team for accuracy and completeness.
+Configuration Management and Issue Tracking – All changes made to CGSN software and documentation shall be tracked using the agreed upon tools for issue tracking (e.g. Git, Trello).  The changes, as well as new software and software tests, shall also be committed to the agreed upon version control tool.
+Software Development – follow CGSN coding standards where applicable, otherwise generate code in a manner that follows a self-documenting paradigm along with comments that give additional context.  Required to use the legacy programming languages and technologies in use for existing products when necessary.  Expected to provide recommendations, where applicable, regarding the best software technologies to be used for new products.  Expected to define, execute, deliver and document results of software unit tests as required, in an agreed upon format
+System Maintenance and Support Documentation – provide support for making system-related changes associated with software improvements, such as installation of software products and configuration of operating system and installed software, as well as document the changes. 
+
+
+
+ 
+NON-ESSENTIAL FUNCTIONS:
+
+As deemed necessary by supervisor
+
+ 
+DESIRED EDUCATION & EXPERIENCE:
+
+5+ years professional experience programming in C++, C & Bash
+Ph.D. in related engineering field; or Master’s degree in an engineering or appropriate field with several years of related experience; or a Bachelor’s degree in an engineering or appropriate field with 5+ years of related experience
+Ability to work in an Agile Software Development environment:  developing and testing complex data processing software being built or updated, early and often; able to work in an organic team; able to take on tasks as necessary; and able to interface with other software engineers
+5+ years demonstrable experience in developing software for Ocean Engineering Applications
+Familiarity with ocean instrumentation and embedded computer systems
+Demonstrable experience programming in Python, JavaScript and Django
+Demonstrable experience developing web-browser-based tools and user interfaces
+Experience with databases, such as SQL and data storage formats
+Experience with evaluating and selecting tools and software and communicating that selection and reasoning to the team lead
+Ability to identify and fix inefficiencies in software-hardware configuration processes
+
+ 
+SPECIAL REQUIREMENTS:  
+
+Must be able to obtain and maintain a TWIC card.
+
+ 
+PHYSICAL REQUIREMENTS:
+Physical duties for this position include but are not limited to:  Ability to lift 25-50 lbs independently, 0-5 times per day; Visual abilities to include near vision for software development in a small team environment. The position is primarily sedentary and requires talking and working with others.  The position also requires some travel.  Physical duties are subject to change.
+ 
+SEA DUTY CONDITIONS & PHYSICAL ATTRIBUTIONS:
+The position may require the Research Engineer to go to sea for weeklong or longer intervals as necessary to support deployments and better understand the software’s field application.  Sleep and work hours can deviate from those on land. May need to travel during holidays and for long distances to and from foreign ports. May experience bad or extreme weather conditions, including heavy seas, winter weather or hot, tropical weather. Work on deck may occur in both hot and cold conditions around the clock. Sea conditions will lead to active ship motion. Should be able to climb steep and vertical ladders and able to enter and exit compartments through hatches, doors, and sills. Shipboard environment may include: confined areas, shared sleeping quarters (berths) and bathroom facilities, small and basic berthing, fixed meal times and basic menus. Modest levels of heating, cooling, ventilation, and illumination, limited or no email and internet access and limited off-duty and recreational facilities (library, lounge, movies). May experience constant and intermittent loud noises, and slippery and uneven surfaces.
+ 
+ 
+WHOI is a member of the Higher Education Recruitment Consortium (HERC). We are sensitive to the issues of dual career candidates and we will work with applicants to address them. Please visit HERC - for more information.WHOI is an Affirmative Action/Equal Opportunity Employer/Disabled/Veterans/M/F. We encourage Veterans and those with Disabilities to apply. Applications are reviewed confidentially. Applicants that require accommodation in the job application process are encouraged to contact us at (508) 289-2253 or emaileeo@whoi.edu for assistance.
+Categories
+
+
+
+Information Technology 
+
+Computer Engineering 
+
+Software Engineering 
+
+Computer Programming/Systems 
+
+
+
+
+

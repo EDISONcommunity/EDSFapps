@@ -1,0 +1,93 @@
+Web Applications Developer - 00048443 at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-05-11
+
+
+
+
+Web Applications Developer - 00048443
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+ 
+ 
+ 
+ 
+ 
+Job Highlights
+Do you love a good pull request? MITRE IT's Web Development department is looking for a full stack web developer who loves what they do and wants to put their passion to good use helping us develop and improve our web applications.
+ 
+In this role, you will work with product owners and a team of developers to develop and maintain custom web applications for MITRE employees. You will be working in all the layers of the web application stack: front end application development, web services development, database interactions, and everywhere in between. There are also opportunities to expand your skills in mobile application development, data science, and machine learning as we define our future architectures. 
+ 
+Best of all, you will work with talented people, learn a lot, and get to introduce new ideas and concepts to an open-minded team.
+ 
+Key Functions
+Write easy to read, maintainable, testable code in JavaScript (Node.js as well as client-side), Python, and a number of other technologies
+Work closely with other developers, designers, testers and project leads in a supportive working environment.
+Lead and execute on medium to large size software application projects. You will play multiple roles in getting new projects off the ground from shaping stories to testing.
+Enhance and maintain existing applications written in a variety of languages and frameworks 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Required Qualifications
+Bachelor's degree in computer science, mathematics, or a related degree OR 3+ years experience working with production web applications.
+1+ year of hands-on development of production web applications. Preferably in JavaScript/Node.js, Java, C# or Python. We write a lot of JavaScript and Python, but we know a strong developer is a strong developer in almost any language.
+Task management skills and a proactive communicator. You'll be responsible for executing on medium to large sized projects.
+Desire and ability to learn new technologies
+Working knowledge of the Linux command line.
+Experience with modern software methodologies (Agile, Scrum, Kanban, etc.).
+Working knowledge of Source Control systems (Git and/or Subversion), Database Systems (Oracle and MongoDB are a plus), build/deploy/Continuous Integration systems (Bamboo, Jenkins, etc.), and unit testing concepts and frameworks.Preferred Qualifications
+Experience with Node.js (or the desire to learn it). We use it for many of our application back-ends.
+Experience with Python and/or Java
+Experience with Vue.js or AngularJS.
+Experience with mobile development - iOS, Android, responsive or progressive web apps.
+Experience with Docker is a plus. We are using it in production for our apps.
+Experience with Machine Learning technologies/ algorithmsMinimum Qualifications 
+BS
+ 
+Categories
+
+
+
+Engineering 
+
+Control Systems 
+
+
+
+
+
+
+
+

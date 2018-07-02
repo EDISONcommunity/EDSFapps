@@ -1,0 +1,47 @@
+Senior Bioinformatician for NGS analysis and tool development Vacature - Cergentis - Utrecht | Indeed.nlCergentis is a spin-off from the Royal Netherlands Academy of Arts and Sciences (KNAW) and
+commercialises its proprietary Targeted Locus Amplification (TLA) technology. The TLA
+technology uniquely enables targeted complete Next Generation Sequencing and haplotyping
+of genes/loci of interest and serves a wide range of applications in genetic research, genetic
+diagnostics and oncogenetics.
+
+The bioinformatics team at Cergentis aims to develop tools that best fit the different
+applications of TLA and maximise its value and utility.
+
+Currently, we are looking for a:
+
+SENIOR BIOINFORMATICIAN FOR NGS ANALYSIS AND TOOL DEVELOPMENT
+
+The Senior Bioinformatician will be part of the Cergentis’ bioinformatics team and work
+closely with Cergentis’ scientists.
+
+Responsibilities include:
+Development and optimization of data analysis tools for TLA-based NGS data
+To collaborate with the R&D team in analysing and interpreting the results of TLA
+protocol optimisations and novel applications
+Being involved in generating NGS-based methods that are transferrable to clinical
+settings
+REQUIREMENTS
+The requirements for this position are:
+Master’s degree or PhD in bioinformatics or equivalent
+Candidates with a Bachelor’s degree in bioinformatics with extensive experience in
+NGS analyses are also invited to reply
+Experience in bioinformatic analyses of molecular NGS data, such as ChIP-seq or Hi-C
+data and/or gene sequencing
+Fluent in one or more of the following languages: Perl/Python/Java/R
+Experience in NGS data analysis
+Team player
+Customer-oriented and comfortable in a commercial environment
+
+
+
+SENIOR BIOINFORMATICIAN FOR NGS ANALYSIS
+AND TOOL DEVELOPMENT
+
+OFFER
+Cergentis offers an exciting and responsible job. Cergentis works with leading industrial &
+academic parties in genetics, genetic diagnostics and oncogenetics globally. You will closely
+work with all these parties and contribute to cutting-edge Research & Development in genetics
+and oncogenetics. Remuneration will be excellent.
+
+INTERESTED?
+Please contact us at info@cergentis.com for more information or to submit your application.

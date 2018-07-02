@@ -1,0 +1,75 @@
+Lead Computer Scientist, Data Analytics at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Lead Computer Scientist, Data Analytics
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+MITREs Center for Advanced Aviation System (CAASD) has an ongoing commitment to conduct quantitative data analysis using a variety of very large datasets to identify, monitor, and explore operations across multiple modes of transportation. The individual will be involved in the retrieval, processing, fusion, analysis, and visualization of various datasets. In addition, the individual will be developing backend/frontend software and utilizing/integrating various data platforms to support rapid analytics including the development and deployment of data visualization tools. 
+
+
+
+
+
+
+
+
+
+
+Minimum Qualifications:
+ 
+Bachelor's degree and 3 years of experience in Computer Science, Data Science, Applied Mathematics/Statistics, Operation Research, or other physical science/engineering fields.
+ 
+Demonstrate an ability to apply advanced principles, theories, and concepts comparable to those obtained with a Master's degree in a relevant field of study
+Fully responsible for deliverables-including definition, completion, and technical quality, as well as assuring consistency across the responsibility span
+Object Oriented Programming and scripting in Java and Python
+Familiarity with Big Data systems/tools, e.g. Hadoop, Spark, Hive, Pig
+Familiarity with SQL and databases
+Familiarity with data analysis and visualization in Python, R, or Tableau 
+Familiarity with statistical methods and machine learning concepts
+Familiarity with pure Linux/Unix environments
+Familiarity with various data storage formats and file compressions
+Familiarity with GIT version control and the Atlassian Stack 
+Preferred Qualifications:
+ 
+Master's degree or Ph.D. in Computer Science, Data Science, Applied Mathematics/Statistics, Operations Research, or other physical science/engineering fields.
+ 
+Extensive software development in Java and Python
+Fluency in Hadoop Ecosystem, e.g. MapReduce, Spark, Hive, Pig 
+Fluency in SQL and experience in NoSQL Databases
+Extensive statistical learning experience (regression, classification, clustering) including time-series analysis
+Experience in advanced visualizations and analytics
+Experience in algorithm development on high-performance systems and efficient data structures
+Experience using a variety of structured and non-structured data, including geospatial, weather, aviation, free-text, and surveillance data 
+
+
+
+
+
+

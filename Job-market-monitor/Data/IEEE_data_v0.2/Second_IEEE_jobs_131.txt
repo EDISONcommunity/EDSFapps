@@ -1,0 +1,82 @@
+Robotics Researcher Software Engineer -ATAS 1627 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Robotics Researcher Software Engineer -ATAS 1627
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1627
+
+
+
+
+Title: Robotics Researcher Software Engineer -ATAS 1627 
+                 JobID: 1627 
+                 Location: Atlanta, GA 
+                 Description: Robotics Researcher, Software Engineering  ATAS 1627
+
+ 
+The GTRI Robotics and Autonomous Systems Division is looking for a B.S. (with Co-Op or Internship related experience) or M.S.  in computer science or related fields specializing in robotic algorithms software development and multi-robot autonomy. You will be joining a growing robotics division and responsibilities may include development of real-time algorithms for robotics applications, including multi-robot collaboration, control algorithms, path planning, guidance, navigation, and task allocation on aerial, ground and indoor robots.
+This opportunity is within the Aerospace, Transportation and Advanced Systems Lab ( ATAS ). ATAS conducts research for government and industry customers in aerodynamics, radar and weapons systems, food processing technology, unmanned systems and modeling of social systems. http://www.gtri.gatech.edu/atas
+ 
+POSITION SUMMARY:
+We are looking for strong candidates who are self-motivated, have extensive, demonstrated C/C++ programming skills, follow software engineering best practices and a have strong mathematical foundation and problem-solving skills.
+ 
+The position will involve generation of research reports, publications, proposals, and briefs to customers, requiring excellent written and verbal communication skills. Experience with fast prototyping in MATLAB and/or python as well as experience in integrating and deploying robotics algorithms for real-time operation on a robot in real world environments is a plus.  Proven research or software project experience in at least one of these areas is desirable:
+
+Multi-robot collaboration
+Path planning and navigation
+Behavior based robotics
+Optimal control and estimation
+Machine learning for robotic control
+Software engineering processes
+
+Applicants should be US citizens capable and willing to obtain a security clearance.
+ 
+ABOUT GEORGIA TECH RESEARCH INSTITUTE
+GTRI has been recognized as one of Atlanta’s Best Places to Work by the Atlanta Business Chronicle 4 of the last 5 years. GTRI offers competitive pay, excellent benefits, and a great location.  Professional growth opportunities include support for advanced degrees, patent rights, and freedom for approved outside consulting, periodic special courses in technical and leadership topics, and support for paper preparation and presentation. Grow your career at GTRI.
+The Georgia Tech research Institute employs over 900 research faculty, with an annual sponsored research budget of over $300 million.  The important work we do is diverse, challenging, and rewarding. Work with subject matter experts at our Atlanta campus or at the 14 other locations in MD, OH, VA, AL FL HI, TX, CA, AZ, DC and GA.  Research areas include such diverse areas as: Cyber Security Jobs, Big Data Jobs and Data Intelligence Jobs, Computer Science Jobs, Software Engineering Jobs, High Performance Computing Jobs ( HPC Jobs ), Hardware Design Jobs, Embedded System Design Jobs, Communication Systems Design Jobs, High Speed Networks Jobs,  Electromagnetics Jobs ( EM Jobs ) including Radar Systems Jobs, Antenna Design Jobs, Electronic Warfare Jobs( EW Jobs ), Sensor Design Jobs, Intelligent Systems Jobs, Systems Engineering Jobs and others. 
+ 
+
+
+
+
+Categories
+
+
+
+Robotics 
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+Gemotiveerde Data Scientist Vacature - UChoose - Driebergen | Indeed.nlJouw taken als data scientist zijn niet in één zin samen te vatten. De grote diversiteit die je tegenkomt in je werk maakt elke dag een leuke uitdaging. Je werkt bijvoorbeeld aan maatwerk adviezen voor grote klanten; hoe kunnen zij hun data-driven strategie zo efficiënt mogelijk ontwikkelen? Je bent vanaf het begin betrokken bij meerdere projecten waardoor je optimaal op de hoogte bent van nieuwe ontwikkelingen en hier doeltreffend op in kunt spelen. Je analyseert businesscases en zet strategieën uit waar je trots op kunt zijn. Verder ben je bereid om je kennis te delen door middel van workshops, trainingen of kennissessies. Dit is een kleine greep uit het aantal verantwoordelijkheden en projecten die je zoal kunt verwachten bij deze organisatie.
+De ideale data scientist beschikt over zoveel mogelijk van de onderstaande punten:
+
+Je hebt minimaal 2 jaar ervaring als data scientist met het analyseren van big data en het opstellen van voorspellingsmodellen;
+
+Je hebt een bachelorsdiploma in Wiskunde, Econometrie, Technische Bedrijfskunde of Artificial Intelligence;
+
+Je hebt aantoonbare ervaring in advies en consulting trajecten;
+
+Je hebt ruime ervaring met programmeren (R, Python, Java), data-analyse-tools (SAS, STATA, Matlab) en datavisualisatie-tools (VA, Tableau, Qlikview, etc.);
+
+Je beheerst de Nederlandse en Engelse taal uitstekend in woord en geschrift;
+
+Je hebt ruime ervaring met gedistribueerde processing: Hadoop, Spark, Amazon AWS (EMR, Elasticsearch, Red Shift), MapReduce, NoSQL.
+
+Een functie met veel vrijheid, zelfstandigheid en flexibiliteit;
+
+De mogelijkheid tot kennisopbouw d.m.v. kennisdeling, congressen en het volgen van opleidingen;
+
+Werken met en adviseren van grote organisaties;
+
+Een sterk team van professionele specialisten;
+
+Volop doorgroeimogelijkheden!

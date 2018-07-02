@@ -1,0 +1,135 @@
+Senior Navigation Systems/Signal Processing Engineer at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-212018-06-04
+
+
+
+
+Senior Navigation Systems/Signal Processing Engineer
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+
+Be part of a high-impact national Position, Navigation, and Timing (PNT) FFRDC team.  MITRE has developed a national PNT strategy & is executing on it.  Career opportunities exist at all levels to define the future of PNT and address the nations most critical navigation and timing needs.  Come build this critical infrastructure  a future resilient PNT enterprise that is integrated, comprehensive, forward looking.  We need your innovation to solve the most challenging problems in PNT.
+
+You will work as part of a nationally recognized team of experts and multi-disciplinary engineers in developing, applying, and evaluating state-of-the-art PNT techniques and technologies (includes PNT resilience, PNT situational awareness, and counter-PNT). Candidates would make the following contributions:
+
+postulate, develop, implement, and evaluate state-of-the-art signal processing algorithms for multi-sensor navigation systems (Satnav, inertial, clocks, alternative navigation technologies, etc.)
+develop next generation Satnav signals
+develop modernized navigation tools
+define and develop open software architectures
+analyze PNT equipment vulnerabilities to threats
+develop anti-jam, robust, resilient techniques and applications
+advance receiver technology (MITRE built 1st M-Code receiver)
+develop and assess alternate PNT techniques to create assured PNT infrastructure
+mature advanced concepts to high technology readiness.
+
+To do this, the successful candidate will:
+
+apply electrical engineering, systems engineering, mechanical engineering and aerospace engineering disciplines to a diverse set of challenges
+demonstrate an exceptionally clear thought process and coherent decision-making skills
+adapt and expand skillset to solve diverse problems
+remain focused on high impact technical contributions
+learn quickly on the job
+influence defense and intelligence community sponsors and other contractors
+lead small technical teams.
+
+
+
+
+
+
+
+
+
+
+
+
+The candidate shall have core skills in:
+
+digital signal processing
+wireless communications
+probability theory & stochastic processes
+estimation & detection theory
+antenna design & propagation theory
+orbital mechanics
+linear systems theory
+non-linear system theory
+state-space modeling
+software development, debugging, and support
+
+The candidate shall have academic or professional experience in the following domains:
+
+satellite navigation systems (Global Positioning Systems, Galileo, GLONASS, etc.)
+satnav receiver design and algorithm implementation
+Kalman filter implementation, tuning, and augmentation
+inertial measurement unit design, inertial sensor error modeling
+navigation in rotating reference frames
+image and video processing
+formal large-scale systems engineering
+field testing and laboratory testing
+data parsing, reduction, analysis, and visualization
+Matlab, Python, or equivalent mathematical computation, modeling, and simulation tools
+Minimum Education/Experience:
+BS in electrical engineering, physics, mathematics, or computer science and 1-5 years of related experience
+
+
+Preferred Education 
+MS or PhD in same disciplines
+ 
+Level3
+ 
+Secret
+
+
+
+
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Antennas and Propagation 
+
+Signal Processing 
+
+Aerospace and Electronic Systems 
+
+Instrumentation and Measurement 
+
+Communications 
+
+
+
+
+
+
+
+

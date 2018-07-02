@@ -1,0 +1,69 @@
+Radar Engineers-Signal & Image Processing at Radiant Solutions  in Ann Arbor, Michigan 48104 | IEEE
+
+
+                            22 hours                        2018-05-072018-06-06
+
+
+
+
+Radar Engineers-Signal & Image Processing
+
+                                                            Radiant Solutions                                                     
+
+
+Ann Arbor, Michigan 48104 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Job TypeEmployee
+Job StatusFull Time
+
+
+
+
+Radiant Solutions is looking for Radar Engineers-Signal & Image Processing (all levels) for our Ann Arbor, MI area location.  We tackle real-world challenges with new SAR (Synthetic Aperture Radar) systems cutting-edge technology. This is a great opportunity to advance expertise in the radar field!
+
+Develop efficient algorithms and models for signal and digital image processing.
+Algorithm analysis, requirement verification, documentation, prototyping, and testing of various SAR (Synthetic Aperture Radar) applications and modes.
+Analyze, design, develop and test systems to ensure the integration of software, hardware, reliability, maintainability, safety and other requirements in the total engineering effort.
+Author, design and maintain toolsets to generate, manipulate and test system data.  
+ 
+Requirements
+
+BS, MS, PhD major in Electrical Engineering, Physics, Math or other related technology fields.
+Strong programming skills (C++, C, MATLAB, python, similar), operational processing definition, system development, integration and optimization.
+Signal and image processing, analysis and algorithm development.  Experience with synthetic aperture radar (SAR) geometry a plus.
+Integration and verification of technology, operational image processing, exploitation, visualization tools, product standards and definition.
+TS/SCI clearance
+
+ 
+Join our company! Our purpose is to help national security and commercial organizations understand and navigate our changing planet. Radiant Solutions provides multi-source data collection, enrichment, and analytic capabilities that reveal unique geospatial information and insights where and when it matters most.
+ 
+We are an evolved organization but no company has such strong roots in geospatial intelligence with our level of scale. Our heritage companies, MDA Information Systems, RadiantBlue, DigitalGlobe Intelligence Solutions, and HumanGeo are well known for delivering innovative capabilities across the entire geospatial intelligence value chain. Our combined team of over 1,000 aerospace engineers, geospatial analysts, weather and ocean experts, software developers, data scientists, and DevOps engineers apply disruptive technology and our unique intellectual property to both national security and commercial problems.
+ 
+We offer an excellent comprehensive benefits package including medical, dental, life, and short/long-term disability insurance, vacation and sick leave, 401(k) retirement plan, flexible spending account, and tuition assistance.  Radiant Solutions values diversity in the workplace and is an Equal Opportunity Employer.
+Categories
+
+
+
+Signal Processing 
+
+Computer Programming/Systems 
+
+
+
+
+

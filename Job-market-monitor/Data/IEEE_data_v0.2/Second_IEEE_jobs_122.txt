@@ -1,0 +1,82 @@
+Embedded Systems Reverse Engineer -CTISL 1069 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Embedded Systems Reverse Engineer -CTISL 1069
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1069
+
+
+
+
+Title: Embedded Systems Reverse Engineer -CTISL 1069 
+                 JobID: 1069 
+                 Location: Atlanta, GA 
+                 Description: Job Description:
+Job Description:  GTRI/CTISL seeks a highly motivated individual with 3-12 years of work experience to perform reverse engineering and assessment of embedded device security vulnerabilities applicable to microcontrollers, microprocessors, DSPs and/or FPGAs. 
+ 
+Education: B.S., M.S., or Ph.D. in Computer Engineering, Electrical Engineering or Computer Science
+ 
+Required:
+
+Experience with developing programs running on an embedded real time operating system such as vxWorks, QNX, or LinuxRT
+3+ years of relevant work or research experience
+
+Preferred:
+
+Familiarity with avionics protocols such as MIL-STD-1553 and ARINC 429.Additional protocols of interest are Ethernet, PCI, RS-422 and RS-232.
+Embedded Software reverse engineering– we don’t typically work with x86 executables.We seek experience with other (not x86) microcontrollers (like ARM, 8051, PowerPC, Freescale 68K, TI DSP) and embedded operating systems (vxWorks, QNX, LinuxRT).We seek experience with software reverse engineering tools such as IdaPRO or Ghidra.We strive for individuals with the ability to reverse engineer an embedded OS and identify bootloaders, kernels, program code and both static and dynamic drivers.
+
+Other Skills of Interest:
+
+Development of innovative vulnerability assessment and emulation tools for embedded devices.
+Communications protocols – we don’t work with “traditional” IP protocol suite, we seek experience with proprietary protocols with emphasis on data link layer, network layer and application layer.
+Design and/or testing of embedded circuit boards – experience with test and instrumentation including soldering, use of JTAG, logic analyzers, oscilloscopes, etc.
+
+ 
+Other: Candidate must be a U.S. citizen and eligible to pursue a Secret DoD security clearance
+Hours:  Normal M-F, however individual projects may require support on weekends or outside of normal working hours
+
+
+
+
+Categories
+
+
+
+Engineering 
+
+
+
+
+
+
+
+

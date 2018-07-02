@@ -1,0 +1,72 @@
+Aviation Safety Data Scientist at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Aviation Safety Data Scientist
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us. 
+ 
+ 
+The MITRE Corporations Center for Advanced Aviation System Development (CAASD) has an immediate opening for a Senior Aviation Safety Systems Engineer to be part of a dynamic team of professionals working to improve the safety of the United States (US) National Airspace System (NAS) working closely with both US and International Airlines. We are looking to expand our team with someone with demonstrated technical excellence involving analysis of digital flight data or narrative safety reporting data for aviation safety plus excellent written and verbal communication skills.
+Key Functions:The successful candidate will be part of a team establishing requirements for and conducting analyses of multiple integrated databases of aviation safety data and other aviation and weather data to identify potential factors that may lead to aviation accidents or incidents. In addition, the candidate will help develop and apply analytical models to analyze the data in order to identify trends and to assess known risks. The successful candidate will also contribute to various projects applying innovative analysis techniques to uncover anomalous characteristics and precursors to new and emerging aviation safety risks.
+
+
+
+
+
+
+
+
+
+
+ 
+Required Qualifications:These skills and abilities are highly desired: - Experience using tools such as R or Python to prepare and analyze time series data; applications of these skills in an aviation context is desirable. - Coding, data modeling, simulation, and data visualization experience. - Excellent statistical and mathematical skills. - Ability to work and communicate in a team environment. - Excellent written and verbal communications skills. - Experience with machine learning techniques and algorithm development. - Ability to adapt to changing requirements.
+Preferred Qualifications:These technical skills are used often in our work: - Experience with data visualization software (eg. Tableau, D3) - Knowledge of data processing capabilities (eg. Hadoop, Pig, Spark, SQL) - Past experience working in the aviation domain: airport operation, air traffic control, airlines. Skill is desired, but not required. - Knowledge of digital flight data (e.g. Flight Operational Quality Assurance) or narrative safety reporting data (e.g. Aviation Safety Action Program). Skill is desired, but not required.
+Minimum Qualifications:BS and 3 years related experience.
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Quality Control 
+
+Communications 
+
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+Data Analytics Grad Intern at MITRE in Offutt Air Force Base, NE | IEEE
+
+
+
+                            18 days old                        2018-04-202018-05-27
+
+
+
+
+Data Analytics Grad Intern
+
+                                                            MITRE                                                    
+
+
+Offutt Air Force Base, NE 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+
+InternsDo you want to join over 300 other interns for a summer of learning, networking and fun? Do you want to be mentored by engineers and scientists that are experts in their fields?  
+We're making a difference every dayworking for a safer, healthier, and more secure nation and world. 
+ 
+Come and create the foundation for your career.  At MITRE, you will do this by working on a variety of projects that support our Government sponsors and by taking advantage of the many learning opportunities attending tech talks and innovation exchanges, publishing and presenting at technical forums and more.
+ 
+Our workplace reflects our values. We want you to start and grow your career at MITRE so that you can experience the gratifying work, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. 
+ 
+ 
+What do MITRE Data Science / Operations Research / Statistics / Math Interns and New Grads do?
+ 
+MITREs Data Analytics /Operations Research / Statistics / Math Interns and New Grads help strengthen our sponsors effectiveness by using data analytics, statistical analysis, and modeling and simulations methods to drive analytically-defensible decisions. They apply advanced analytical and mathematical techniques to solve complex decision problemsthose with multiple alternatives that require quantitative analysis to confidently select the best one. Analysts use high performance computing, cloud Computing, big data analytics, and data visualization tools and techniques to improve system designs, to assist in making difficult policy and acquisition decisions, to maximize operational effectiveness and efficiency, and to achieve the highest quality engineering solutions.
+ 
+ 
+What are some examples of some projects that they work on?
+Applied state of the art data analytics and machine learning techniques to help solve challenging real-world problems in health care, transportation, and financial fraud
+
+Research and gather information on machine learning/neural networks needed to conduct an experiment in MATLAB on generated data 
+
+Compiling master quick look documents for real world missile events and compiled data from events this summer and performed analysis on the effectiveness of each reporting system
+
+Researching different analytic tools and which type of data they can ingest; then researched further in depth some of these tools that had the capability to ingest the necessary data
+
+Working with Tableau to interpret and create visualizations of large data sets
+ 
+Description: 
+ 
+This specific position will support the U.S. Strategic Command (USSTRATCOM) team at Offutt AFB, Omaha, NE as a Data Analytics Grad Intern.
+ 
+Key Functions 
+ Formulate data analytic problems Get and cleanse data Employ analytic methods and techniques Develop analytic algorithms  Analyze data
+
+
+
+
+
+
+
+
+
+
+
+ 
+What does an ideal Data Science / Operations Research / Statistics / Math Intern or New Grad have:
+ 
+
+
+Demonstrated understanding of how to retrieve data from databases and other systems and tools using queries, exporting capabilities, and other effective methods
+
+Understanding of or experience with statistical software and data visualization tools such as R, SPSS, SAS, MS Access, Python, Visual Basic, UNIX, shell scripting, and/or SAS/JMP.
+
+Proficiency in one or more of the following--Java, Python, XML, HTML, C#, Objective C; Database design & development including SQL.
+
+On-going excellence in academic performance
+
+High level desire to help their nation solve its most critical problems
+
+Exhibits the characteristics of a continuous learner
+ 
+ 
+ 
+Additional Information
+ 
+ 
+ 
+*70% of MITREs full-time jobs require US government security clearances; therefore, many internships and full time positions require that the candidates be clearable.   MITRE does not provide sponsorship for those that need it currently or in the future.*
+ 
+ 
+ 
+**Many of our jobs welcome those students who have an interdisciplinary approach to problem solving.**
+ 
+ 
+ 
+Categories
+
+
+
+Engineering 
+
+Quality Control 
+
+
+
+
+
+
+
+

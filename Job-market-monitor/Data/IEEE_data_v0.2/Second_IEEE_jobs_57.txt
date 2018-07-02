@@ -1,0 +1,94 @@
+Multi-Disciplinary Systems Engineer, Lead at MITRE in Colorado Springs, CO | IEEE
+
+
+
+                            18 days old                        2018-04-202018-06-04
+
+
+
+
+Multi-Disciplinary Systems Engineer, Lead
+
+                                                            MITRE                                                    
+
+
+Colorado Springs, CO 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+As a member of our Enterprise Ground Services project team, you will help solve problems critical to our national security in the areas of Command & Control (C2), Space Warfare, and Force Protection. 
+ 
+Key Functions:
+ 
+Background: The Enterprise Ground Service (EGS) activity will move the entire space enterprise toward a common ground architecture by transitioning legacy satellite ground systems and requiring new ground systems to use open development and enterprise integration practices with a configuration-controlled Government Reference Architecture (GRA) and Government Reference Implementation (GRI).  Thus, EGS is not a new ground system, rather a set of government owned standards and interfaces and will expose data to enable exploitation by applications and services.  The goal of the EGS effort is to overcome the current lack of a common ground system and improve the AFSPC warfighter support.  EGS is focusing on near term transition of select missions to a common ground infrastructure.
+ 
+The successful candidate will:
+Serve as a seasoned systems engineer and trusted technical advisor to the Air Force Program Manager and senior staff members,
+
+Provide creative approaches for customers facing tough situations,
+
+Work collaboratively with a diverse set of stakeholder communities (e.g., sponsor, contractors, private industry, other FFRDCs) and the MITRE team to drive consensus (e.g., requirements),
+
+Provide high-quality systems engineering products and recommendations (e.g., risk mitigation strategies),
+
+Generate reports, briefings, and position papers, and 
+
+Communicateverbal and writteneffectively with MITRE and sponsor, and stakeholder organizations.
+Required qualifications:
+ 
+As key member of a sizable, distributed Enterprise Ground Service team, the successful systems engineer candidate will have a current, working knowledge of and experience with:
+ 
+
+Requirements development, analysis, and management practices (i.e., experience development and maturing system requirements)
+
+Risk identification, analysis, management and mitigation practices
+
+Integration and interoperability best practices (e.g., integration of mission unique services/3rd party applications with the core EGS infrastructure/architecture)
+
+IT and software development practices, including Agile Acquisitions and Agile Software Developments
+
+Data center, Cloud, and Service architecturesAdditionally, the candidate must be a strong collaborator possessing tact, diplomacy, poise, patience and resolve!
+ 
+Knowledge or experience with the Space Domain, Space Satellite Control, communications, etc. is a bonus (not a requirement).
+ 
+Education/Experience:  Minimum BS in Systems Engineering, Computer Science, Mathematics or equivalent/related and 8 years related experience. MS preferred, but not required.
+ 
+Security Clearance Requirements:
+Minimum clearance requirement:  Ability to obtain Top Secret/SCI clearance Preferred clearance requirement: Current Top Secret/SCI clearance
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Computer Engineering 
+
+Communications 
+
+
+
+
+
+
+
+

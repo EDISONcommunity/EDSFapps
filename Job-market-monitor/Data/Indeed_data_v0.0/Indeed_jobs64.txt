@@ -1,0 +1,18 @@
+Medior/Senior Big Data Engineer 3x | Telecom | Utrecht Vacature - AnalysePeople - Utrecht | Indeed.nlFor one of my clients, I am looking for multiple experienced Big Data Engineers.
+
+Responsibilities
+
+Building the gathered requirements by listening to the business
+Unlocking data coming from different data sources
+Making the data accessible for the Data Scientists
+Monitoring the privacy of the companies customers
+Constantly exploring new technologies and thinking of ways to implement these in the business.
+Essentials
+
+Rounded university of PhD degree (IT/Engineering/Architecture -related)
+2+ years relevant working experience
+Proficient working knowledge of SQL, data modeling, datawarehouse
+Experience with at least one of the following; Kafka, Hbase, Hive
+Hands-on programmer/engineer
+Interested?
+kai@analysepeople.nl

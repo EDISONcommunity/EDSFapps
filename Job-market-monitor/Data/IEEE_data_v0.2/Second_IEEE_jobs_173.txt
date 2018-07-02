@@ -1,0 +1,148 @@
+Software Developer (Research Engineer/Scientist I/II) EOSL-1368 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Software Developer (Research Engineer/Scientist I/II) EOSL-1368
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1368
+
+
+
+
+Title: Software Developer (Research Engineer/Scientist I/II) EOSL-1368 
+                 JobID: 1368 
+                 Location: Atlanta, GA 
+                 Description: 
+	
+
+
+Title: Software Developer (Research Scientist I/II)
+
+
+Position: Full Time
+Level: Research Engineer/Scientist I/II
+ 
+
+
+
+
+Primary Location: Atlanta, GA
+
+
+Travel Required: Up to 25% time, but typically far less
+
+
+
+
+Lab: Electro-Optical Systems Laboratory (EOSL)
+
+
+Reporting To: Micah Coleman
+
+
+
+
+Job Description
+This job is for a full time research faculty position in the Electronic Warfare Analysis Branch (EWAB) within the Electro-Optical Systems Laboratory (EOSL) at Georgia Tech Research Institute (GTRI).  Responsibilities include developing innovative solutions for algorithms and waveforms, and developing models and simulations to support EW research.
+EWAB performs modeling, simulation, and analysis in support of various RF electronic warfare studies, including aircraft self-protection countermeasures, net-centric warfare, mission data support, and target tracking.  Our team has a diversity of backgrounds and skillsets, and a typical project team is composed of programmers, RF engineers, and radar experts.  While our work is applied research, it runs the gamut from "blue sky" concepts for the future battlespace to modeling-based solutions to be fielded on today's aircraft. 
+We offer a flexible work environment allowing each researcher to pursue his or her interests and strengths, integrated with the overall mission of the branch and the lab.  If you have aspirations for an advanced degree, all the better.  Because GTRI is a research unit within Georgia Tech, you can get your graduate school paid for and pursue a degree in pretty much any engineering, science or math field you desire from a world class research institution.  We highly encourage our research developers to pursue advanced technical degrees and professional development courses.
+ 
+
+
+
+
+Requirements:
+
+
+Write software to model various EW systems
+
+
+Assist in the design, development, and demonstration of EW simulation experiments
+
+
+Develop and integrate scripts to allow researchers to gather and analyze critical data from the simulation runs
+
+
+Perform analysis on the simulations to determine the efficacy of EW techniques and optimize the techniques
+
+
+Document analysis and maintain configuration management of all software and experiments
+
+
+Travel may be involved, as project work may occur in Atlanta or at a location other than Atlanta
+
+
+Education:
+
+B.S. M.S. or Ph.D in Electrical Engineering, Mathematics, or related fields
+
+Experience: 
+
+0-7 years of professional or graduate experience
+
+Preferred Skills:
+
+Matlab, C/C++, Python, Fortran
+Strong math skills and ability to learn complex engineering concepts
+Familiarity with Linux and open source tools
+Configuration management tools (git preferred)
+Ability to clearly communicate technical ideas to non-technical audience
+Ability to work independently as well as in a dynamic team environment
+
+Other:
+
+Must have a active Secret DoD security clearance.
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+Categories
+
+
+
+Electronics Engineer 
+
+
+
+
+
+
+
+

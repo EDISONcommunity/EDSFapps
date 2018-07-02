@@ -1,0 +1,117 @@
+Sr. Project Scientist  at Old Dominion University Research Foundation in Norfolk, Virginia 23508 | IEEE
+
+
+                            20 hours                        2018-05-072018-06-06
+
+
+
+
+Sr. Project Scientist 
+
+                                                            Old Dominion University Research Foundation                                                    
+
+
+Norfolk, Virginia 23508 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Job TypeEmployee
+Job StatusFull Time
+Shift1st Shift
+
+
+
+
+The Virginia Modeling, Analysis and Simulation Center (VMASC) at Old Dominion University in Hampton Roads, Virginia is looking for a qualified candidate to support their applied research projects using software and hardware tools for Real Time Simulation and Power/Controller Hardware-In-the-Loop (PHIL/CHIL) Simulation of Power Electronic Devices and Power Systems. The job involves development, customization and implementation of simulation models for marine electrical and electronics applications using RTDS system. In addition, the candidate will be responsible for debugging of systems (both software and hardware) and development of test scripts and interfaces. Application areas may include: 
+• Application of Power Electronic Converters within scalable HVDC, “Multi-Drive” AC/DC Power Systems
+• Power protection systems and utilization of hybrid fault clearance design of HVDC “Multi-Drive” AC/DC Propulsion Power Systems • Integration of Energy Resources into “Multi-Drive” AC/DC Power Systems • Stability and Robust Performance of “Multi-Drive” AC/DC Power Systems • Controller Synthesis and Design integral to Power Electronic Converters  • Application and Control of Power Electronic Converters utilized in “Multi-Drive” LV/HV Island Conversion, DC/DC conversion with Energy Storage Systems (ESS), Battery Management Systems (BMS) and Energy Management Systems (EMS).
+ 
+The candidate we seek has very strong technical abilities and a focus on customer satisfaction, specifically the ability to capture customer needs, devise solutions and deliver them in a timely fashion with clear communication and documentation.
+This job offers flexibility, the opportunity to develop advanced technical skills and customer-contact experience, and involves working on exciting projects in applied research and development areas including naval and commercial shipboard applications and autonomous vessels.
+This position #18007.Review of applications will begin immediately and will continue until the position is filled.  AA/EOE/M/F/Disability/VETS/Drug Free 
+Requirements
+
+
+Formal Education required (Minimum) degree, field of study
+Bachelors in electrical engineering or other relevant engineering degree field – Masters Preferred
+
+
+ Experience required (Minimum): in whole years
+2 or more years (2 to 4years) relevant experience in industry
+
+
+  Specific knowledge and/or skills (must have to be qualified)
+
+
+Required knowledge of tools : Very strong knowledge of MATLAB/Simulink; Simatic S7, S120 2Q & 4Q chassis drives using Starter/Scout, WinnCC HMI, WinnCC flex HMI.
+ 
+Basic knowledge of those tools (asset) : Windows, QNX and Linux operating systems, VHDL programming, FPGA flash and Communication protocol driver development (Simatic net, J1939, and Modbus), Python, C++, EMTP-RV,ETAP, CYMDist, PowerFactory;
+ 
+Assets : Hardware-in-the-loop tools (RTDS, OPAL-RT Technologies, dSPACE, ADI), Simulation of power systems, electric drives and data acquisition/real-time control;
+ 
+Language abilities: Strong oral and written skills in English. 
+Skills required: Customer satisfaction, autonomy and proactivity, planning and organization, good communication skills, teamwork and interpersonal relationships, discipline and determination, flexibility and adaptation, able to deal with ambiguity.
+ 
+C. Complexity of Duties (degree of variability of duties, extent of available procedures, and extent of own planning they must do):
+The individual has to be self-motivated and take the initiative in developing the Blockchain prototypes. The individual is expected to have constant engagement with Sentara’s technical team to realize the deployment of the Blockchain platform.
+ 
+D. Independent Judgment and Decision Making (level of supervision provided, examples of where person has discretion and exercises independent judgment in decisions):
+ 
+The individual is expected to work in team settings. The individual will have several responsibilities that need to be completed on their own.
+ 
+E. Does the Position supervise others? How many? Who?  (ex. 3 students, 1 GRA, 1 technician)
+The individual will supervise 2 graduate research assistants. 
+ 
+ Specific Duties (list main duties)
+
+
+Responsible for debugging of systems (both software and hardware) and development of test scripts and interfaces. Application areas include: 
+
+
+Application of Power Electronic Converters within scalable HVDC, “Multi-Drive” AC/DC Power Systems
+
+
+Power protection systems and utilization of hybrid fault clearance design of HVDC “Multi-Drive” AC/DC Propulsion Power Systems
+
+
+Integration of Energy Resources into “Multi-Drive” AC/DC Power Systems
+
+
+Stability and Robust Performance of “Multi-Drive” AC/DC Power Systems
+
+
+Controller Synthesis and Design integral to Power Electronic Converters
+
+
+Application and Control of Power Electronic Converters utilized in “Multi-Drive” LV/HV Island Conversion, DC/DC conversion with Energy Storage Systems (ESS), Battery Management Systems (BMS) and Energy Management Systems (EMS).
+
+
+Categories
+
+
+
+Research 
+
+Software Engineering 
+
+Design/Development Engineering 
+
+Computer Programming/Systems 
+
+
+
+
+

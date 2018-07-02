@@ -1,0 +1,139 @@
+Cybersecurity Engineer at MITRE in Gaithersburg, MD | IEEE
+
+
+
+                            10 days old                        2018-04-282018-06-04
+
+
+
+
+Cybersecurity Engineer
+
+                                                            MITRE                                                    
+
+
+Gaithersburg, MD 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.MITREs National
+Cybersecurity FFRDC (NCF) is looking for a Commercial Off The Shelf (COTS)
+tools Subject Matter Expert.  Support the
+NCCoE's Department of Homeland Security Continuous Diagnostics and Mitigation (CDM)
+project specifically integrating various tools into the generic CDM tool stack
+in the NCCoE-DHS lab. Join MITRE in supporting the nation's first Cybersecurity
+Federally Funded Research and Development Center (FFRDC). The FFRDC supports
+the National Cybersecurity Center of Excellence (NCCoE) in furthering the
+adoption of cybersecurity solutions across industry and key infrastructure
+sectors. The Continuous Monitoring project will be hosted at the NCCoE and
+support objectives of the DHS in furthering effective adoption of information
+security continuous monitoring and continuous diagnostics and mitigation
+approaches to improving our nations cybersecurity. The person in this position
+will participate in the effort to develop a generic CDM instance, with documentation,
+covering all four phases of CDM. This work will involve the installation,
+configuration, integration, data analysis, and prototype of toolsKey Functions:Successfully integrate new tools into
+existing solution stack in the CDM lab.Problem solving
+skills: must be able to properly isolate, analyze and mitigate technical problems Validate best
+practices recommendations determined through
+CDM implementations Systems Integration- build
+and maintain logical system communication paths between disparate systems and technologies in a fully virtualized enterprised environment.Self-starting, is
+excellent with time management,
+and very team-orientedClear and concise
+written and verbal communication skills.
+
+
+
+
+
+
+
+
+
+
+
+
+Required Qualifications:Successfully
+  integrate new tools into existing solution stack in the CDM lab.Problem
+  solving skills: must be able to properly isolate, analyze and mitigate
+  technical problems.Validate
+  best practices recommendations determined through CDM implementations Systems
+  Integration- build and maintain logical system communication paths between
+  disparate systems and technologies in a fully virtualized enterprise
+  environment.Self-starting,
+  is excellent with time management, and very team orientedClear and concise written and verbal
+communication skillsExperience with Micro-Segmentation
+concepts and technologiesExperience with developing, deploying and managing mirco-segmented networksExperience using
+VMWare NSX for Micro 
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Segmentation is a
+plus; using other micro  technologies is
+highly desiredExperience with BMC and BladeLogicExperience with Tripwire Enterprise and IP360Experience writing 
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">queries in Splunk;
+also installation and integrating Splunk with nework and systems monitoring tools.
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Experience with Tenable Security
+Center, Nessus, LCE, and PVS
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"> Experience Creating 
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Archer Dashboards
+Knowledge and Experience 
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">of the broader 
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">DHS CDM project is a
+plusNetworking Engineering
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Architecting and
+Troubleshooting 
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">virtualized network
+environments
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Expertise in
+administer a micro
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">-segmented network is
+preferred
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Experience
+administering 
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">disparate Firewalls,
+Switches
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">, and other network equipmentPreferred Qualifications:MS in computer
+science or related field and 1-2 years of experience in analysis of
+cybersecurity systemsMinimum Qualifications: BS in computer
+science or related field with a minimum of 5-10 years of experience developing
+and working with computer 
+ 
+Categories
+
+
+
+Biotechnology / Science 
+
+Research 
+
+
+
+
+
+
+
+

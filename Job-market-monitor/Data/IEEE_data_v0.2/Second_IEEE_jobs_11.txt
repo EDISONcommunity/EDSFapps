@@ -1,0 +1,81 @@
+Software Developer FPGA with Signal Processing - SEAL 1149 at Georgia Tech Research Institute (GTRI) in Smyrna, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Software Developer FPGA with Signal Processing - SEAL 1149
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Smyrna, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1149
+
+
+
+
+Title: Software Developer FPGA with Signal Processing - SEAL 1149 
+                 JobID: 1149 
+                 Location: Smyrna, GA 
+                 Description: DESCRIPTION:
+Software Developer FPGA with Signal Processing
+The Georgia Tech Research Institute (GTRI) is looking for an experienced FPGA Programmer with a strong Signal Processing background who can think outside of the box and doesn’t want to do the same old thing every day. We value bright, intellectually curious, growth oriented professionals and provide a work environment that allows a good work / life balance.
+This opportunity is within the Sensors and Electromagnetic Applications Laboratory (SEAL) Lab.  SEAL researchers investigate and develop radio/microwave frequency sensor systems, with particular emphasis on radar systems engineering; electronic protection and electronic attack; ELINT; COMINT; MASINT; electromagnetic environmental effects; radar system performance modeling and simulation; signal, array, and data processing; sensor fusion; and antenna technology.
+Opportunity to polish your expertise with Signal Processing and programming FPGA’s.  In this role you will develop architectures for digital hardware and software systems, implement digital signal processing algorithms in FPGA, and be task leader for projects related to these technologies. In addition you will be a contributing member of proposal efforts.
+REQUIREMENTS THAT MUST BE MET TO BE CONSIDERED FOR THIS POSITION:
+
+Bachelor’s in Electrical Engineering, Computer Engineering, Computer Science, or other appropriate field
+US Citizenship AND the ability to get a security clearance
+Experience with abstract math, real time hardware, signal processing or FPGA design.
+Expertise with MATLAB or Octave, C or C++, VHDL or Verilog, or Xilinx or Altera parts
+
+PREFERRED SKILLS AND EXPERIENCE
+
+5 – 10 years of experience in related work
+MS or PhD  in Electrical Engineering, Computer Engineering, Computer Science, or other appropriate field, or equivalent work experience
+Demonstrable skills in project leadership
+Experience with RADAR technology
+Experience implementing digital signal processing algorithms in FPGA
+
+ABOUT GEORGIA TECH RESEARCH INSTITUTE
+GTRI has been recognized as one of Atlanta’s Best Places to Work by the Atlanta Business Chronicle 4 of the last 5 years. GTRI offers competitive pay, excellent benefits, and a great location.  Professional growth opportunities include support for advanced degrees, patent rights, and freedom for approved outside consulting, periodic special courses in technical and leadership topics, and support for paper preparation and presentation. Grow your career at GTRI.
+The Georgia Tech research Institute employs over 900 research faculty, with an annual sponsored research budget of over $300 million.  The important work we do is diverse, challenging, and rewarding. Work with subject matter experts at our Atlanta campus or at the 14 other locations in MD, OH, VA, AL FL HI, TX, CA, AZ, DC and GA.  Research areas include such diverse areas as: Cyber Security Jobs, Big Data Jobs and Data Intelligence Jobs, Computer Science Jobs, Software Engineering Jobs, High Performance Computing Jobs ( HPC Jobs ), Hardware Design Jobs, Embedded System Design Jobs, Communication Systems Design Jobs, High Speed Networks Jobs,  Electromagnetics Jobs ( EM Jobs ) including Radar Systems Jobs, Antenna Design Jobs, Electronic Warfare Jobs( EW Jobs ), Sensor Design Jobs, Intelligent Systems Jobs, Systems Engineering Jobs and others. 
+
+
+
+
+Categories
+
+
+
+Electromagnetics 
+
+
+
+
+
+
+
+

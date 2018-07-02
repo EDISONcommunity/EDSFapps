@@ -1,0 +1,57 @@
+Sr. Data Scientist at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-04-062018-05-27
+
+
+
+
+Sr. Data Scientist
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Join the Data Analytics team where you will provide software development, algorithm development, and data analytics (to include big data analytics, data mining, and data science) to enable data-drive decisions and insights. Experience with analytic techniques and methods (e.g., supervised and unsupervised machine learning, link analysis, and text mining) as well as software languages is a must. Software languages and big data technologies needed include: Java, Python, R, C#, C, SAS, analytic engines, Hadoop, parallelized analytic algorithms, and NoSQL and massively parallel processing databases. The successful candidate will have the ability to formulate problems, prototype solutions, and to analyze result.
+Key Functions 
+ Formulate data analytic problems Get and cleanse data Employ analytic methods and techniques Develop analytic algorithms  Analyze data
+
+
+
+
+
+
+
+
+
+
+Required Qualifications 
+
+Hands-on software development skills (Java, R, C++, C#, python, JavaScript) with analytic applications and technologies, getting and cleansing data, data storage and retrieval (relational and NoSQL), data analytics and visualization, and cloud-based technologies. Experience with the Map Reduce programming model and technologies such as Hadoop, Hive, and Pig is a plus.
+ 
+ Minimum Education/Experience 
+BS and 3 years related experience.
+ 
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+Senior Research Scientist at Lockheed Martin in Palmdale, CA | IEEE
+
+
+
+                            22 days old                        2018-04-162018-05-16
+
+
+
+
+Senior Research Scientist
+
+                                                            Lockheed Martin                                                    
+
+
+Palmdale, CA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+427149BR
+
+
+
+
+
+The candidate will lead and support the design and implementation of scientific modeling and simulation applications within the field of Computational Electromagnetics (CEM) to predict the scattering of complex targets. Specific interest in candidates with CEM code development utilizing Method of Moments (MoM) solution techniques or integral equation formulations, Physical Optics (PO) techniques, and High Performance Computing (HPC) in parallel processing environments. The candidate should be familiar with software development in a configuration-managed environment, and must have previous software development experience for Linux and Windows-based systems. Experience managing, analyzing, and displaying large data sets also a plus***Must be a US Citizen. This position is located at a facility that requires special access. Ability to obtain a Top Secret clearance***Basic Qualifications• BS in Software Engineering, Computer Engineering, Mathematics or Physics discipline(s). • Programming experience in one or more of the following: FORTRAN, Java, JavaScript, Python, C++, Visual Studio, or MATLABDesired skills• Educational background in computational electromagnetics, applied mathematics, or prior experience in Computational Electromagnetic (CEM)• Experience in High Performance Computing (HPC) in parallel processing environments. • Experience leading teams and interfacing with external customers• Experience in leading code development teams and basic project management skill sets desired• Must have strong interpersonal and organizational skills, as well as excellent written and verbal communication skillsAs a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territoriesJoin us at Lockheed Martin, where we’re engineering a better tomorrowLockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability statusJob Location(s): Palmdale California  
+
+
+
+
+
+

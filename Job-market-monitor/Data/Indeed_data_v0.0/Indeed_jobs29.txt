@@ -1,0 +1,29 @@
+Young Professional Program Vacature - Inergy - Woerden | Indeed.nlBijna afgestudeerd en op zoek naar wat jij gaat doen in de wondere wereld die IT heet? Gaan jouw handen jeuken als jij termen hoort als ‘big data’, ‘machine learning’ en ‘cloud’ en ben jij er van overtuigd dat hier de toekomst ligt? Dan is dit programma iets voor jou!
+11 september start ons young professional programma. Je krijgt, als onze nieuwe dataheld, in 12 maanden een kickstart op het gebied van Artificial Intelligence, Datawarehousing en Analytics. Je gaat je binnen deze gebieden voornamelijk richten op het Microsoftplatform en -stack (Azure en SSIS, SSAS, PowerBI). En daarnaast leer je technieken zoals ETL en SQL. Je ontdekt aan de hand van projecten, masterclasses en coaching welke specialty het beste bij jou past, zodat je na de eerste 6 maanden van het programma in dat team kan aanhaken.
+Wat kan je verwachten:
+Wij bieden een compleet programma verdeeld over 4 kwartalen waarin je samen met je mede young professionals opdrachten uitvoert, masterclasses volgt en coaching ontvangt.
+Ook ga je met het YP-team op een studie/teambuildingreis. Tijdens deze trip leer je hoe het is om te (over)leven in de “harde wereld buiten” door samen te werken.
+Na 9 maanden heb je een flinke dosis kennis over BI op zak en heb je als het goed is een beter beeld van welk team het beste bij jou past. Wij geloven in persoonlijke ‘customized’ carrière paden, maar een aantal voorbeelden van wat je na de allround periode zou kunnen doen:
+Data Developer: jij bent onze bouw-held en ontwerpt, bouwt en neemt verantwoordelijkheid voor complexe data integratievraagstukken en gebruikt hierbij voornamelijk Azure services (SSIS en SQL Server) voor ETL of C# om data van IoT devices te verwerken.
+Reporting Specialist: jij bent de go-to-persoon die zorgt dat data gevisualiseerd wordt zodat de klant de juiste besluiten kan maken o.b.v. data. Jij gebruikt hiervoor vooral PowerBI en SSRS, maar ook met Tableau weet jij straks raad.
+Data Scientist: jij ontwikkelt modellen in bijvoorbeeld R of Python waarmee onze klanten betere keuzes kunnen maken. Je werkt o.a. met Azure en SSAS.
+Zodra we samen de beste plek voor jou hebben gekozen zal je aan het volgende deel van het programma beginnen, waar we jou door middel van functie specifieke trainingen en meedraaien in projecten met onze slimme seniors klaarstomen voor jouw gekozen pad.
+Wat bieden we je?
+2-jarig arbeidscontract, met de optie tot een vast contract.
+Vast bruto maandsalaris van 2750,- per maand, plus 8% vakantiegeld en een eindejaar bonus.
+Keuze uit een leaseauto of mobiliteitsbudget.
+Keuze uit een Mac of Dell laptop en een telefoon van de zaak (100% data vergoeding).
+Tenslotte hebben wij de lekkerste koffie en krijg je gratis lunch en fruit op kantoor voor de broodnodige energie!
+Heb jij het in je?
+Jouw drive en innoverende spirit vul jij aan met sterke communicatieve vaardigheden en daarnaast herken jij je in het volgende profiel:
+Je hebt (bijna) een HBO of WO opleiding afgerond richting Informatica, bedrijfskundige informatica, econometrie of een vergelijkbare studie afgerond.
+Je bent per 11 september fulltime beschikbaar.
+Je hebt je rijbewijs B en bent bereid om te reizen naar klanten.
+Je spreekt vloeiend Nederlands en Engels.
+Wie zijn wij?
+Als je bij Inergy aan de slag gaat, merk je meteen waar het bij ons om draait. Alles is gericht op kennisdeling, innovatie en gave techniek. In IT gaan de ontwikkelingen razendsnel. Daarom is het ontzettend belangrijk dat we elkaar blijven uitdagen, nieuwe ideeën met elkaar delen en ook: afscheid durven nemen van oude ideeën. Je krijgt daarom uitgebreide opleidingsmogelijkheden en er zijn regelmatig inspirerende kennissessies waar een collega vertelt over de successen en valkuilen van een project. Daarnaast kan je, als je het durft, na de lunch meedoen aan een zeer fanatiek potje tafelvoetbal.
+Enthousiast geworden? Mooi! Wij ook. Heb jij zin om met ons door middel van dit programma de wondere wereld van Big Data en Analytics te gaan veroveren? Klik op de solliciteer knop en dan zien we elkaar snel, met die lekkere kop koffie.
+
+“Het leukste vind ik dat ik als Young Professional de kans krijg om in een korte tijd zoveel mogelijk ervaringen op te doen in het BI-vak. In een jaar heb ik bij verschillende klanten meerdere opdrachten uitgevoerd. Bij de ene ontwierp ik dashboards, terwijl ik een maand later bezig was met het ontwikkelen van ETL-scripts. De senior collega's zijn meer dan bereid om je op weg te helpen met de complexe problemen die zich in dit vak voordoen. Het heeft mijn IT-carrière een vliegende start gegeven.”
+Mark
+Young Professional

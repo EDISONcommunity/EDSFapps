@@ -1,0 +1,39 @@
+Data Scientist - CVET at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Data Scientist - CVET
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+The Center for Veterans Enterprise Transformation is seeking a motivated, creative Senior Data Scientist to apply cutting edge tools and techniques to challenging problems facing the US government. This position offers the opportunity to interact directly with government leaders in a fast paced and dynamic atmosphere with the ability to make a difference and impact outcomes with solid analysis. Our Data Scientists are expected to work on multiple projects, cross pollinate good ideas across the government, and continuously learn. We are truly an interdisciplinary department that thrives on having a large toolbox to support data/model driven decision making for the Department of Veterans Affairs. We value people who can bring diverse perspectives. To be successful you will:  Be passionate about applying data analytics to real world problems  Have an innate curiosity and interest in developing research questions and testing hypotheses with open ended tasking  Work with a spectrum of government sponsors to gain understanding of their challenges, evaluate possible solutions and conduct insightful, actionable analyses  Support the development and application of a variety of analytical models to sponsor challenges, with a willingness to adapt and learn  Present results in an intuitive, actionable manner that can be understood by all sponsor audiences, regardless of technical expertise  Provide relevant day to day tasking for one or more junior staff  Lead projects throughout their life cycle, including conceptualization, requirements definition, data procurement, development, integration, and socialization 
+							Candidates will be required to have:  Significant academic concentration in at least one of the following disciplines: o Statistics o Mathematics o Operations Research o Computer Science  Excellent written and verbal communication skills  Demonstrated ability to manipulate large datasets with at least one modern programming language or business intelligence platform (e.g., Python, SAS, MATLAB, C++, R, Java)  Experience leveraging COTS tools or writing programs to visualize multi-dimensional data  Ability to apply, modify and formulate algorithms and processes to solve challenging problems  Demonstrated experience leading customer facing engagements emphasizing data analytics Preferred Qualifications Preference will be given to candidates with desired experience including:  Experience with the Department of Veterans Affairs and specifically with the Benefits Administration (VBA). Direct experience supporting VBA with data analytics and/or advanced analytics is a plus.  Research experience  Prior experience working with databases (e.g., Oracle, MySQL, MongoDB)  Prior experience developing programmatic solutions in a collaborative environment that utilizes source code management (e.g., GIT, Mercurial, SVN)  Advanced degree in Operation Research, Statistics, or Data Science  
+
+
+
+
+
+

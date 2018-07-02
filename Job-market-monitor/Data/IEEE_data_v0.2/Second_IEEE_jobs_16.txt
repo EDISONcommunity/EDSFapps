@@ -1,0 +1,78 @@
+Research Software Engineer at Stanford University in Stanford, California 94305 | IEEE
+
+
+                            21 hours                        2018-05-072018-06-06
+
+
+
+
+Research Software Engineer
+
+                                                            Stanford University                                                    
+
+
+Stanford, California 94305 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Job TypeEmployee
+
+
+
+
+ Research Software Engineer Stanford University
+Job Number: 78769 Job Title: Research Software EngineerDo you enjoy software development in an academic environment? Do you have a passion for open source? Do you want to contribute to the growing field of medical computing and precision medicine? The Cardiovascular Biomechanics Computation Lab, together with the Stanford Research Computing Center (SRCC), is seeking a full-time software engineer to serve as lead developer of the open source SimVascular project. Funded by the NSF and based on over a decade of research and development, SimVascular is state-of-the-art in cardiovascular modeling, from medical image data to blood flow simulations. The research team includes engineering faculty and students at Stanford, UC Berkeley, and UCLA. A primary goal is to integrate cutting-edge research developments into distributable software releases. The ideal candidate will have interest and experience in medical computing, software development, and a track record of open source contributions. In this role, your activities and responsibilities may include developing new plug-ins for cardiac modeling; within the open source software ecosystem, responding to bug and feature requests, developing benchmarks and test suites, and documenting capabilities/feature; integrating advanced image segmentation methods for patient-specific model construction, including machine learning and AI methods; interfacing and importing tools into virtual reality environments; and traveling to academic conferences to run workshops and tutotials.The ideal candidate will have these skills:
+
+Significant programming experience, including C++, Qt, Python, object-oriented programming, and strong integration skills. Additional experience with ITK/VTK is a plus.
+Interest in open source scientific software. Track record of contributions is a plus.
+Working knowledge of modern software development tools including bug tracking, source code revision control (GitHub), and automated testing
+Knowledge of multicore system architecture and experience developing parallel applications for HPC
+Track record of productivity and interest in biomedical computing and/or medical software applications
+Excellent communication skills, collaborative spirit, ability to work independently, willingness to learn, initiative, and a strong team player
+
+Educational requirements and background: 
+
+Bachelor's degree in computer science, biomedical computing, electrical engineering or related field, and three years of relevant experience, or a combination of education and relevant experience. 
+
+We are excited to build a cadre of research software engineers in the Stanford Research Computing Center. The SRCC offers high performance computing platforms, consulting, tools, system engineering, and system administration in support of computational and data-intensive research across the campus. The hiring range for this position is $90,000 - $110,000.JOB PURPOSE:This position will provide research software engineering for the open-source SimVascular Open Source project at Stanford. Funded by Dr. Alison Marsden, this software development position will be the lead developer of the widely-used platform, integrating cutting-edge research developments into distributable software releases. CORE DUTIES:
+
+Assess community user needs and requirements
+Develop new plug-ins for cardiac modeling, following team software development methodology
+Maintain and administer the open source environment used by SimVascular. This includes responding to bug and feature requests, developing benchmarking tools, creating test suites, and maintaining online documentation
+General troubleshooting and solution design for technical problems
+Integrate advanced image segmentation methods for patient-specific model construction, including machine learning and AI methods. This will involve sophisticated data manipulations.
+Integrate modular tools for flow simulation, multiscale modeling, flow analysis, optimization and uncertainty quantification
+Interfacing and/or importing tools into virtual reality environments
+Designing and running workshops and tutorials
+
+*Other duties may be assigned. MINIMUM REQUIREMENTS:Education and ExperienceBachelor's degree in computer science, biomedical computing, electrical engineering or related field and three years of relevant experience, or a combination of education and relevant experience. Knowledge, Skills and AbilitiesSignificant programming experience, including C++, Qt, Python, object-oriented programming and strong integration skills are required. Working knowledge of modern software development tools including bug tracking, source code revision control (GitHub), and automated testing. Knowledge of multi-core system architecture and experience developing parallel applications. This position requires that you be able to juggle multiple competing priorities and demonstrate initiative in conceptualizing and moving technical projects successfully to completion. The position must be able to do independent analysis, troubleshooting and problem resolution, but also must work collaboratively with other team members and across organizational group boundaries. Demonstrated interest and experience in medical computing, software development and open source tooling and methodologies. PHYSICAL REQUIREMENTS:Constantly performs desk-based computer tasks. Frequently sit, grasp lightly/fine manipulation. Occasionally stand/walk, writing by hand. Rarely uses a desk telephone, lift/carry/push/pull objects that weigh up to 10 pounds.WORKING CONDITIONSMay work extended hours, evenings and weekends.WORK STANDARDS
+
+Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.
+Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned.
+Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University's Administrative Guide, http://adminguide.stanford.edu/.
+
+Stanford is an equal opportunity employer and all qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other characteristic protected by law.
+Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of the job. Job:  Location: Business Affairs, California, United States Schedule:  Classification Level:  To be considered for this position please visit our web site and apply on line at the following link: stanfordcareers.stanford.edu Stanford is an equal opportunity employer and all qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other characteristic protected by law.      Copyright ©2017 Jobelephant.com Inc. All rights reserved.  Posted by the FREE value-added recruitment advertising agency   jeid-5653b7486bbeed40b91da2dd4eae1248 
+Categories
+
+
+
+Software Engineering 
+
+
+
+
+

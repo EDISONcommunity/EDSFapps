@@ -1,0 +1,92 @@
+Software Developer/Engineer - ICL - 1360 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Software Developer/Engineer - ICL - 1360
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1360
+
+
+
+
+Title: Software Developer/Engineer - ICL - 1360 
+                 JobID: 1360 
+                 Location: Atlanta, GA 
+                 Description: Full-time, permanent position available starting immediately.  Looking for a software developer with 3+ years of experience in software development with specific skills in one or more of the following:
+
+
+Java, Groovy, Scala, Ruby, Python, or other modern programming languages
+Web development frameworks (Spring, Grails, Rails, Django)
+Software Development Practices
+	
+Agile, Scrum, unit testing, version control, continuous integration,
+
+
+HTML, CSS, and JavaScript
+Databases (PostgreSQL, MySQL)
+XML, XML Schema, XSLT, Schematron
+Web Services (REST, SOAP, WSDL)
+OpenID, OAuth, OpenID Connect, SAML
+Unix/Linux
+
+The ideal candidate would have a BS or MS in Computer Science or Computer Engineering and would like to work in a cutting-edge research software development environment. Strong written, verbal and presentation skills and the ability to work well in a team environment are necessary.  A candidate should also be capable of working independently and effectively with minimal supervision for up to 10 days.
+Research Scientist I – BS in Computer Science or Computer Engineering
+Research Scientist II – MS in Computer Science or Computer Engineering and 3+ years’ experience.
+Strong written, verbal and presentation skills and the ability to work well in a team environment are necessary.  A candidate should also be capable of working independently and effectively with minimal supervision for up to 10 days.
+The primary work assignment would be as a software developer for Government projects serving the Justice, Public Safety, Health, and DOD Command and Control (C2) communities.   Projects focus on secure sharing of information between state, local, and federal agency information systems, focusing on standards development and information sharing systems and tools.  Projects may also focus on FHIR API development for the health community, exposing non-FHIR data resources through FHIR APIs, and web application development to demonstrate FHIR API use.  Each agency we work with is autonomous and has a unique architecture and legacy infrastructure. GTRI serves as the principal architect and integrator and provides technical guidance to numerous agencies and contractors.
+The project is based in the Centergy Building at 75 Fifth Street NW Atlanta, on the Georgia Tech campus.
+Candidate must be a US citizen eligible for a security clearance.   A security clearance may be required but is not required at time of application.
+
+
+
+
+Categories
+
+
+
+Information Technology 
+
+Marketing/Sales 
+
+Biotechnology / Science 
+
+Design/Development Engineering 
+
+Computer Engineering 
+
+Research 
+
+
+
+
+
+
+
+

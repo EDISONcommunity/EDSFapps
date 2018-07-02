@@ -1,0 +1,28 @@
+Data Scientist Vacature - ARAG - Leusden | Indeed.nlVoor onze vestiging in Leusden zijn wij op zoek naar een ambitieuze Data Scientist.
+
+Het profiel
+Tot jouw verantwoordelijkheden als Data Scientist behoren het leveren van business analytics voor projecten van verschillende afdelingen en functies binnen ARAG. Daarnaast is het van belang om data science projecten te initiëren voor diverse stakeholders binnen de organisatie. De eerste stap van een data science project omvat het begrijpen van de business en daarnaast het verkrijgen van de data. Hierna ga je aan de slag met grote datasets van verschillende leveranciers in verschillende formats. Door databewerking, modelleren en visualiseren lever je een belangrijke bijdrage aan data gedreven besluitvorming. Binnen de rol heb je de vrijheid om nieuwe inzichten en commerciële kansen te benutten waarbij je uitgedaagd wordt je technische kennis volledig uit te nutten. Denk bij deze technische kennis aan het toepassen van machine learning, optimalisatie en predictive analytics.
+
+Naast de inhoudelijke technische kant is het van belang dat je in staat bent om effectief relaties te managen. Om dit te bewerkstelligen ga je op zoek naar oplossingen die passen bij de behoefte van de interne business partners. Met de interne business partners bouw je een duurzame vertrouwensrelatie op, werk je samen om domein kennis op te doen en presenteer je jouw bevindingen op een laagdrempelige manier. Dit stelt de organisatie in staat om rationele, data gedreven besluiten te kunnen nemen.
+
+
+Functie-eisen
+
+Een afgeronde universitaire studie Econometrie/Actuariele Wetenschappen/Bedrijfswiskunde
+Bij voorkeur werkervaring in de financiele dienstverlening
+Beheersing van SQL en ervaring met grote datasets
+Je programmeert graag met R of soortgelijk
+Je hebt ervaring met Advanced Analytics methoden als clustering, voorspellende modellen (regressie, random forest, neurale netwerken en SVM), text mining, process mining en associatieregels
+Je bent bekend met (visualisatie)tools als Oracle BI en/of R Shiny
+Een goede beheersing van de Nederlandse taal in woord en geschrift
+Een positief kritische houding
+Een daadkrachtige persoonlijkheid met overtuigingskracht
+
+
+Wat bieden we
+
+Een marktconform salaris op basis van een 38-urige werkweek
+Goede secundaire arbeidsvoorwaarden en voorzieningen, waaronder een dertiende maand, gunstige pensioenregeling, 200 uur vakantie, de mogelijkheid tot opbouw van roostervrije uren
+Variabele werktijden
+Een open en informele werksfeer
+Onze verdere arbeidsvoorwaarden en werknemersvoordelen kun je vinden op https://www.arag.nl/werken-bij/arbeidsvoorwaarden/

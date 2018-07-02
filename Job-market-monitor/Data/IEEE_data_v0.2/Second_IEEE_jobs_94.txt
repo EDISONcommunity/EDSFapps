@@ -1,0 +1,95 @@
+Software Systems Engineer - 00049158 at MITRE in San Diego, CA | IEEE
+
+
+
+                            20 days old                        2018-04-182018-06-04
+
+
+
+
+Software Systems Engineer - 00049158
+
+                                                            MITRE                                                    
+
+
+San Diego, CA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+MITRE San Diego is searching for T-Shaped Software Engineers with a wide breadth of knowledge in multidisciplinary software development as well as deep technical depth in one of the minimum qualifications described below. Software Engineer team members will be responsible for consulting on multiple fast pace projects that require subject matter expertise in areas throughout the software development lifecycle. This includes agile processes; full stack development; requirements solicitation, engineering and development; big data solutions; cloud computing; secure coding techniques and software architecture. Desirable attributes include: Curiosity to explore emerging technology, interest in continual learning, excellent consultative skills, self-motivated, and solution driven. Additionally, we seeking a team member who is comfortable working outside of their areas of expertise in an effort to help identify and describe local customer/sponsors problems and be a conduit in reaching back to other subject matter experts across the company.
+
+
+
+
+
+
+
+
+
+
+Minimum Qualifications:
+Bachelor's Degree in Computer Science or Computer Engineering or similar field and 3 years of experience. 
+Ability to apply advanced principles, theories and concepts comparable to those obtained with a Master's degree in a relevant field of study. 
+Understand the missions, domains and challenges of MITRE customers and is fully responsible for deliverables-including definition, completion, and technical quality, as well as assuring consistency across the responsibility span. 
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information or applicants who are eligible for security clearances.Required Qualifications:
+At least 3 plus years experience in one of the top-level software domains in preferred qualifications
+Ability to explain technical approaches to influence government leadership and staff
+Adamant continual learner
+Comfortable with a consultant like mindset
+Obtain and maintain a Secret level security clearancePreferred Qualifications:
+
+5 plus years experience in one of the top-level software domains in preferred qualifications
+Experience in software development using agile development (SCRUM, Scaled Agile Framework (SAFe)) and software development management tools (JIRA).
+Agile development planning and management 
+Translating agile metrics to make them understandable for program and acquisition leadership
+Driving planning teams in meetings and tasking.  
+Coordinating engineering team consisting of government and contractors to create documentation on engineering processes and metrics on agile processes.Use of software development tools/environments (JIRA).  
+Contribution to and management of software technical requirements development and software technical documentation.
+Experience with developing a Software Development Plan (SDP) 
+Experience with developing a Software Engineering Plan(SEP)Evaluating, revising, and composing software requirements
+Evaluating, revising, and composing software technical documentation
+Familiarity with IEEE standards for software documentation (such as IEEE STD 1016-2009 Systems Design Software Design Descriptions)Experience in development of software on cloud-based hosting environments (Amazon Web Services, GovCloud, and/or C2S)
+Experience with software development using data analytics software frameworks that consist of the following:  STORM, Kafka, NiFi, Spark, Accumulo, and Hadoop
+Experience with data architecture and data models
+Evaluating, revising, and composing software architectures at the functional, allocated, design, and product baseline levels using UML, SysML, and UPDM.
+Familiarity with DoDAF 2.02 
+Categories
+
+
+
+Information Technology 
+
+Management 
+
+Engineering 
+
+Computer Programming/Systems 
+
+Software Engineering 
+
+Computer Engineering 
+
+Consulting 
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+Systems Engineer Senior Manager at Lockheed Martin in Orlando, FL | IEEE
+
+
+
+                            29 days old                        2018-04-092018-05-09
+
+
+
+
+Systems Engineer Senior Manager
+
+                                                            Lockheed Martin                                                    
+
+
+Orlando, FL 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+428560BR
+
+
+
+
+
+This position is for a Specialty Engineering Reliability Lead to support the Long Range Stand-Off (LRSO) Program. The LRSO Program purpose is to develop the system to replace the Air Launched Cruise Missile which has been operational since 1986. Lockheed Martin Space is teaming with LM Missiles and Fire Control (MFC) in Orlando. This phase of the program will execute requirements development, architecture, ConOps, design reviews and avionics design and build, with emphasis on high reliability. The Reliability Lead will report directly to the LRSO Program Management Director and will be the principal LM interface for reliability with the DoD customer. The principal duties of the Systems Engineer Senior Manager Reliability Lead will lead a team of 30+ Reliability engineers in defining the Design Reference Mission Profile (DRMP) for the LRSO vehicle, and to perform Design for Reliability (DfR), Design for Manufacturing (DfM) and Design for Test (DfT) activities to achieve customer operational and mission reliability requirements. DRMP: The candidate will lead the DRMP activities that ensure dynamic and thermal vehicle environments are properly flowed down to the assembly / component level within a combined environments requirements specification. DFR: The applicant will be knowledgeable and lead DFR activities to include: reliability allocations, reliability analysis, Failure Modes, Effects and Criticality Analysis (FMECA), and Critical Items List (CIL). The applicant will ensure customer reliability requirements are properly decomposed / allocated to the element, component and assembly levels and flowed down to product specifications and source control documents. Piece part failure rates will be determined from methods other than MIL-HDBK-217. This includes but will not be limited to field data and / or pre-ship unit test data. The applicant must be able to translate empirical failure rates using data from the test / field environments to the objective program dynamic and thermal use environments. The applicant needs to lead efforts to develop operational and mission reliability models representing ground and mission duty cycles, storage durations, mission durations and testability constraints that meet customer requirements. The applicant will lead FMECA efforts to address functional, design, interface, HW/ SW interfaces and processes. The applicant will ensure all reliability critical items are identified and that critical item control plans are identifiedDfM: The applicant will need to ensure that component / assembly design reliability for operation and mission needs are not compromised during manufacturing and workmanship screening. The applicant will lead the team to ensure manufacturing maturity is adequate thru assessments of in-house and supplier designs, assembly and workmanship test capabilities. The applicant ensures that workmanship screening via ESS or HASS test techniques are effectively implemented. DfT: The applicant will lead the planning of complex / perceptive UUT test event sequences and corresponding UUT test flows. The test event sequences consist of DVT, HALT, ALT, RGT, HALT-2, QMU, PVT and qualification test. The UUT test flows are defined with up to 20+ environments. The reliability lead ensures that all element component and assemblies are qualified for flight and that adequate reliability growth is realized such that tested reliability meets or exceeds its allocated requirementsIn addition to the responsibilities above, the Reliability Lead is part of or / leads Heritage Reuse Assessments, qualification review boards, failure prevention boards, material review boards and failure review boards. The Reliability Lead will also provide guidance on radiation hardness and NSPAR / NSMAR disposition as part of the PMPCB process. As part of the program RDT ( e.g. QRM) reliability will ensure that EMC testing is implemented properly during DVT, reliability testing and PT / Qual testingBasic Qualifications1. DoD Secret clearance or above with a Background Investigation within the past 5 - 6 years2. Bachelor's degree in Engineering, Science, Mathematics or related field with 12+ years' overall technical experience or Master's degree with 10+ years' overall technical experience3. Broad Systems Engineering disciplines (e.g., leading Integrated Teams on complex system design, development, integration and test through a full program lifecycle)4. Complex Systems and Systems Engineering disciplines (i.e., Nuclear Hardness & Survivability, Electromagnetic Effects Design & Analysis, Program Protection, Reliability, Configuration Management, and/or Parts, Materials & Processes) 5. Demonstrated leadership skills and behaviors that align with the Full Spectrum Leadership Imperatives6. Able to prepare and conduct briefings and participate in technical and programmatic meetings with internal and external high level representatives7. Managing subcontractors and teammatesDesired skills1. Design Engineering, Systems Engineering, Mathematics, Operations Analysis, Operations Research, Reliability, Maintainability, Availability, Dependability (RMA&D) engineering, Testability and experience in leading a large reliability team that can ensure Lot-1 / Unit-1 mature reliability prior to the EMD and LRIP phases2. Reliability Engineering background with experience in flight systems and ability to perform technical work3. Can effectively support frequent contacts with internal personnel and outside customers and industry peers at various management levels concerning operations or scheduling of specific phases of projects or contracts4. Planning and formulating programs and organizing project staff according to program needs5. Understanding of customer agency and mission area6. Cost Account Management (CAM) experience 7. Working experience with Lockheed Martin Space CIPS requirements compliance, Product Development, Technical Management8. Coordinating subordinate employee recruitment, selection and training, performance assessments, work assignments, salary, and recognition/disciplinary actions9. Responding to customer requests for budget and schedule estimates, and proposals10. Manage contract scope through the Contract Change Request and Special Task Order processAs a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territoriesJoin us at Lockheed Martin, where we’re engineering a better tomorrowLockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability statusJob Location(s): Orlando Florida  
+
+
+
+
+
+

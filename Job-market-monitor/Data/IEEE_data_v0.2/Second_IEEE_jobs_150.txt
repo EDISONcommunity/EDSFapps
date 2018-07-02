@@ -1,0 +1,55 @@
+Senior Member of Technical Staff (Sr. MIS Developer Associate) at athenahealth, Inc. in Watertown, Massachusetts | IEEE
+
+
+                            8 days old                        2018-04-302018-05-30
+
+
+
+
+Senior Member of Technical Staff (Sr. MIS Developer Associate)
+
+                                                            athenahealth, Inc.                                                    
+
+
+Watertown, Massachusetts 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+                                Please see Job Details for Apply instructions                            
+
+
+
+
+
+Job TypeEmployee
+Job StatusFull Time
+
+
+
+
+Senior Member of Technical Staff (Sr. MIS Developer Associate) (athenahealth, Inc.; Watertown, Massachusetts): The Senior MIS Developer Associate will be part of the MIS development team, working on a variety of projects including the optimization and automation of processes, intranet development, and mobile applications. Specific duties include: develop and maintain Integrations (ETL) for medium to large projects; develop and maintain integrations using a variety of ETL methodologies and tools; understand database and other integration concepts including http, SOAP and REST protocols; understand database concepts of referential integrity, indexes and keys and table metadata; develop custom data visualization solutions using Tableau and Birst; create and maintain programs, systems, and associated documentation; perform activities that support SDLC including creating and executing unit and system tests; and promote code from development to production environment. 
+Requirements
+Minimum requirements: Master's degree or its equivalent in Computer Science, Computer Information Systems, or a related technical field, and 2 years of Business Intelligence design and development experience. Alternatively, will accept Bachelor's degree or its equivalent in Computer Science, Computer Information Systems, or a related technical field; and 5 years of Business Intelligence design and development experience.
+ 
+Must have: demonstrated experience in database administration including user management, query optimization, index design, inspection of error logs, database backups and restores, scheduling of jobs, monitoring of disk space, review database size and growth settings; demonstrated experience in database development including creation of databases, tables, views and stored procedures; demonstrated experience with writing and testing T-SQL code; demonstrated experience with cutting edge database ETL platforms including Microsoft SSIS and Informatica; proven knowledge of http, SOAP and REST protocols; demonstrated ability to create cutting edge reports and dashboards utilizing tools including SAP Business Objects, Microsoft Power BI, Cognos and Tableau; demonstrated ability in data warehousing concepts including dimension tables, fact tables, star schema, snowflake schema, slowly changing dimensions, semi additive measures, database normalization techniques (1NF, 2NF & 3NF) and Inmon vs Kimball methodology; proven ability to work on multiple projects in a fast-paced environment; proven ability to solve and troubleshoot data related problems and collaborate with team members in an agile environment as well as an ability to constantly groom the backlog; and proven communication and interpersonal skills and ability to articulate solutions technical and business team members. (Unless otherwise indicated, athenahealth, Inc. is seeking the ability in the skills listed above with no specific years of experience required. All experience can be gained concurrently.)
+ 
+Apply by resume only to Lori Gentile, Human Resources, athenahealth, Inc., 311 Arsenal Street, Watertown, Massachusetts 02472. Req ID: 15592BR. An EOE.
+Categories
+
+
+
+Computer Engineering 
+
+
+
+
+

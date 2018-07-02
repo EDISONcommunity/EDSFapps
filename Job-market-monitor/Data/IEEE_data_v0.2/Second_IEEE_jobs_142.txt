@@ -1,0 +1,120 @@
+Senior/Lead Information Technology Service Management (ITSM) Engineer - Government Programs at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Senior/Lead Information Technology Service Management (ITSM) Engineer - Government Programs
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.Join MITRE's Computing Infrastructure & IT Service
+Management Department (T863) and apply advanced approaches and technologies to
+solve our nation's most critical technical and mission problems across multiple
+work programs. Work with senior government officials, in partnership with
+diverse customer groups, providing strategic direction and leadership in the
+selection, engineering, integration, implementation and operation of
+Infrastructure Engineering and IT Service Management.
+
+ 
+
+Key Functions:
+
+
+The candidate will lead, or be a part of, a technical team with primary expertise
+in IT Service Management (ITSM) focusing on IT Service Delivery and the ITIL
+Service Management Framework to include: 
+ Service Design, Service-Level Management, Availability Management, Capacity Management,
+IT Service Continuity Management, 
+ Information Security Management System, Service Transition, Change Management,
+Service Asset and Configuration Management, Release and Deployment Management, 
+ Service Operation, Service/Help Desk, Application Management, IT Operations
+Management, 
+ Technical Management, Event Management, Incident Management, Request
+Fulfillment, Problem Management, Identity Management/Access and Identity Management,
+and
+ Continual Service Improvement (CSI). 
+
+ 
+
+The candidate will collaborate in, and/or lead, activities to ensure
+knowledge creation/sharing and integration within and across all work programs
+as appropriate.  The candidate should
+also have familiarity, education, and/or experience in one or more of the
+following disciplines and technologies:
+1. Infrastructure Applications, Infrastructure as a Service (IaaS), Platform as
+a Service (PaaS), Cloud Computing (including virtualization, platform
+migration, server consolidation, utility computing, grid computing, VPN,
+wireless and mobile computing platforms, Storage Area Networks/ Network
+Attached Storage (SAN/NAS), messaging, intrusion detection, intrusion
+prevention, identity & privilege management and authentication). 2. Data Center Design, Operations, Consolidations, Migrations (including
+servers, storage, workstations, voice and data networks, firewalls, cabling
+systems, power distribution and environmental systems). 3. Infrastructure and Data Center Operations (including enterprise systems
+management processes and tools, security architectures & tools-, directory
+services, capacity management, performance tuning, service management, data
+center planning & consolidation, configuration management and asset
+management server & storage configuration). 
+
+
+
+
+
+
+
+
+
+
+
+Required Qualifications:
+Candidate must have 3 or more years of experience in 2 or more of the
+following: 
+ Infrastructure Engineering, Applications, and Network Architecture, 
+ Service management, Service Delivery, 
+ Cloud Computing, IaaS, PaaS, 
+ Data Center -related Technologies, 
+ Mobile Computing
+
+ 
+
+Desired Qualifications:
+
+ Certification(s) in ITSM-related frameworks 
+Minimum Qualifications:Bachelor's Degree in Computer Science or Computer Engineering or similar field, and 3 years of experience. Candidate must be able to demonstrate an ability to apply advanced principles, theories and concepts comparable to those obtained with a Master's degree in a relevant field of study. Candidate should understand the missions, domains and challenges of MITRE customers. In addition, the candidate understands that he/she will be fully responsible for deliverables-including definition, completion, and technical quality, as well as assuring consistency across the responsibility span. 
+Categories
+
+
+
+Information Technology 
+
+Computer Engineering 
+
+Management 
+
+
+
+
+
+
+
+

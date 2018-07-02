@@ -1,0 +1,33 @@
+Ambitious Data Scientist Vacature - iSense - Utrecht | Indeed.nlDevelop smart algorithms and machine learning algoritms;
+Data mining;
+Do statistical analysis on big sets of structured and unstructured data;
+Ensure that big data gets assessed by analytic techniques to explore patterns and validate patterns;
+Transform patterns in tangible information;
+Predictive modelling (machine learning/artificial intelligence);
+Make reports and status/progress updates for Project Lead and IT Director.
+
+Do you describe yourself as analytical, do you have a Master’s degree or a PhD and do you love data? Don’t hesitate and reply!
+
+The organization we’re working for, is a global leader in the food sector. They’re currently looking for an innovative Data Scientist. The core values are quality, sustainability, collaboration, innovation and caring. This is noticeable throughout the whole company, from research to product development to services. The fast growing amount of Data is increasingly important in decision-making; with the latest technology, the organization wants to transform this data to valuable information to develop the strategy.
+In the role of IT Data Scientist, you have to have passion for data. You will be responsible for applying analytic techniques on structured and unstructured datasets, to develop innovative solutions. You will be part of the digital program team. The organization is multicultural and they see it as their responsibility to help you develop your personal and professional skills. You will be working at two different locations in the Netherlands, so you have to be okay with some traveling on the job.
+
+At least a Master degree, PhD is a big plus (preference for the field of applied engineering, Chemistry, Mathematics or Chemical Technology);
+Experience in R;
+Experience in statistical applications like SAS, Matlab, QlikView, SPSS and PowerBI;
+Extraction, transformation and loading tools like DataStage are well-known;
+Knowledge of Hadoop, MapReduce, Pig and Hive;
+C++, Phyton and Java programming experience;
+Teamplayer, pragmatic and ‘go-getter’ mentality;
+Fluent English, verbal and written;
+Knowledge of Spanish language is a plus.
+
+Depending on relevant work experience and certificates there is a salary indication from €2.500,- till €4.000,- euro gross per months based on a 40-hour workweek.
+
+iSense is a young, energetic and ambitious specialist in IT employment services. iSense will help you find a job on different levels within organisations, such as operations, business consultancy and (project)management. We want to help you find a job were you can be successful and above all happy. Working together with iSense will bring you:
+Personal guidance before, during and after your application process;
+Good understanding of your personal skills through various reports;
+Relevant preparation for your job interview;
+Always aware of your application process;
+Monthly personal contact with a Field Coach;
+Free participation on a quarterly basis in Personal Development Workshops;
+Regularly interaction with you iSense colleagues in your region (iHaveFuns). Want to know more? Check our website: www.isense.nl

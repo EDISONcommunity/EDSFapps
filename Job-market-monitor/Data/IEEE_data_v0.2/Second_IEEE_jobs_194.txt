@@ -1,0 +1,77 @@
+Lead GPS Ground Software Engineer - 00049545 at MITRE in El Segundo, CA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Lead GPS Ground Software Engineer - 00049545
+
+                                                            MITRE                                                    
+
+
+El Segundo, CA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+
+This position is an exciting opportunity for a candidate to have technical impact on the future ground control systems for GPS capabilities.  The candidate will serve as the lead Subject Matter expert (SME) and trusted advisor to Air Force Sponsors for Enterprise Software and Platforms.  The candidate will use their expertise in software development and systems engineering (SE) to design and influence ground support to position, navigation, and timing (PNT) concepts, systems, and signals.  The candidate will also lead a team of engineers towards this goal and work with other SMEs developing Ground and Defensive Cyber Operations services in support of the Enterprise Architecture.
+ 
+Key Functions:
+Work with a multi-organization engineering team to design, test, and provide oversight to modern software development and designs in support of GPS technologies. 
+Provide technical advice and lead technical analysis teams to this end. 
+Lead customer engagement to include definition of technical needs and cutting edge internal research definition to develop the future of GPS Ground solutions.  
+Minimum Qualifications:
+Bachelor's Degree in Computer Science or Computer Engineering or similar field and 8 years of experience. 
+
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information or applicants who are eligible for security clearances.Required Qualifications:
+Strong background in software development and systems engineering (SE) including but not limited to: modern software development process and practice including agile development (e.g., DevOps), hands on experience with software architecture, design, and implementation with an emphasis on service oriented architecture (SOA), Enterprise Service Bus (ESB), and Enterprise Relational Databases including data and object modeling, schema development and database leveraged software development (e.g., Oracle11g/12 Enterprise Database and Oracle WebLogic Application Server). 
+Considerable experience with object oriented design/implementation and services based design/implementation.  
+Extensive experience using Java, Java EE/J2EE, C/C++, Python and current software development tools including, but not limited to: GIT, SVN, Clearcase for SCM/CM, Jenkins/Jira for development pipeline and test automation. 
+Obtain and maintain a Top Secret level security clearancePreferred Qualifications:
+Cyber experience and some background in Information Assurance (IA) including government STIGs as well as security and cyber architecture including but not limited to:  PKI, digital signatures.   
+Background in IT/Platform covering both hardware and software networking, storage including SAN/NAS, archiving solutions, database replications (e.g., Oracle RAC/Clusterware), and the application of agile software practice for the development of reliable and repeatable automated platform deployment using tools such as CHEF.
+Understand the missions, domains and challenges of MITRE customers and is fully responsible for deliverables-including definition, completion, and technical quality, as well as assuring consistency across the responsibility span. 
+Able to define projects or programs greater than themselves.  
+Categories
+
+
+
+Information Technology 
+
+Engineering 
+
+Computer Programming/Systems 
+
+Software Engineering 
+
+Computer Engineering 
+
+Control Systems 
+
+Robotics 
+
+
+
+
+
+
+
+

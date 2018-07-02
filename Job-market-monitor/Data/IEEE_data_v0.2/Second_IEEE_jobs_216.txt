@@ -1,0 +1,240 @@
+Electronic Warfare (EW) Modeling, Simulation & Analysis (MS&A) Engineer - ELSYS 1247 at Georgia Tech Research Institute (GTRI) in Dayton, OH | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Electronic Warfare (EW) Modeling, Simulation & Analysis (MS&A) Engineer - ELSYS 1247
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Dayton, OH 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1247
+
+
+
+
+Title: Electronic Warfare (EW) Modeling, Simulation & Analysis (MS&A) Engineer - ELSYS 1247 
+                 JobID: 1247 
+                 Location: Dayton, OH 
+                 Description:  
+
+Electronic Warfare (EW) Modeling, Simulation & Analysis (MS&A) Researcher
+
+
+
+
+Job Number:
+
+
+1247
+
+
+
+
+Job Classification:
+
+Research Faculty
+
+
+
+Areas of Expertise:
+
+
+Systems Engineering; Modeling, Simulation & Analysis
+
+
+
+
+Functional Roles:
+
+
+Modeling & Simulation; System Engineering
+
+
+
+
+Degree:
+
+
+Bachelor’s; Master's; PhD
+
+
+
+
+Level of Experience:
+
+
+Junior; Mid-Level; Senior
+
+
+
+
+Field of Study:
+
+
+Engineering; Mathematics; Physics; Computer Science
+
+
+
+
+Rank:
+
+
+Research Engineer I (REI); Research Scientist I (RSI); Research Engineer II (REII); Research Scientist II (RSII)
+
+
+
+
+Location:
+
+
+Dayton, OH
+
+
+
+
+Job Type:
+
+
+Full Time
+
+
+
+
+Close Date:
+
+
+06/30/2017
+
+
+
+
+Labs/Support Units:
+
+
+Electronic Systems Laboratory (ELSYS)
+
+
+
+
+Description:
+
+
+ 
+
+
+
+
+
+
+
+
+Title: Electronic Warfare (EW) Modeling, Simulation & Analysis (MS&A) Engineer
+ 
+
+
+Position: Full Time
+Level: Research Engineer/Scientist I/II
+
+
+
+
+Primary Location: Dayton, OH
+
+
+Travel Required: 10% time
+
+
+
+
+Lab: Electronic Systems Laboratory (ELSYS)
+
+
+Reporting To: Rich Rowland
+
+
+
+
+Job Description: 
+The Dayton Operations Branch (DOB) of the ELSYS Systems Engineering Research Division is seeking qualified individuals to lead and contribute to a wide range of programs developing tools and performing Systems Engineering and Modeling & Simulation analysis of advanced systems with a focus on Electronic Warfare (EW) for our various sponsors at Wright-Patterson Air Force Base (WPAFB).
+As part of the research team in Dayton the position affords many opportunities to interface and work directly with the sponsors on base at WPAFB including the Air Force Research Laboratories (AFRL) and the Air Force Life Cycle Management Center (AFLCMC).
+GTRI and the Georgia Institute of Technology (Georgia Tech) are complementary institutions that work together to solve customers’ technical problems. Our strong connection to Georgia Tech opens the door to the vast intellectual resources of one of America’s leading research universities. We offer stability, world-class benefits and a flexible career path in an applied research and development environment.
+ 
+
+
+
+
+Requirements:
+
+Develop and execute state-of-the-art modeling and simulation tools to perform critical analysis of system performance
+Develop and integrate scripts to allow researchers to gather and analyze critical data from the simulation runs
+Assist in the design, development, and demonstration of simulation experiments
+Perform and document analysis on system performance
+Interface regularly with sponsors at WPAFB
+
+Education:  B.S., M.S or Ph.D degree in Electrical/Computer/Aerospace Engineering, Computer Science, Mathematics, Physics or related fields.
+Experience: Systems Engineering and especially MS&A experience desired; but a background in research, design and analysis in any science or engineering related field accepted.
+Desired Technical Skills:  (not all required, experience in one is sufficient)
+
+MATLAB, C/C++, Python, Fortran
+Strong math skills and ability to learn complex engineering concepts
+Knowledge of Electronic Warfare (EW) domain
+Experience with Modeling and Simulation (especially standard Air Force models such as AFSIM, Suppressor, ESAMS, or STORM)
+Familiarity with Linux and open source tools
+Configuration management tools (git preferred)
+Ability to clearly communicate technical ideas to non-technical audience
+Ability to work independently as well as in a dynamic team environment
+
+Other: Candidate must be a US citizen capable of holding a Secret DoD security clearance, active clearance a major plus.
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+Categories
+
+
+
+Engineering 
+
+Electronics Engineer 
+
+
+
+
+
+
+
+

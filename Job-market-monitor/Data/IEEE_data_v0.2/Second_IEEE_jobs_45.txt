@@ -1,0 +1,97 @@
+R&D Electrical Engineer - Flight & Ground Test (Early/Mid-Career)  at Sandia National Laboraoties  in Albuquerque, New Mexico | IEEE
+
+
+                            20 days old                        2018-04-182018-05-18
+
+
+
+
+R&D Electrical Engineer - Flight & Ground Test (Early/Mid-Career) 
+
+                                                            Sandia National Laboraoties                                                     
+
+
+Albuquerque, New Mexico 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Job TypeEmployee
+Job StatusFull Time
+
+
+
+
+We are seeking a R&D S&E, Electrical Engineer to support the development, specification, and testing of electrical components and to support development and testing of unique Mk21 AFA configurations needed for flight and ground test activities. The tasks for this position include electrical AFA functional testing and acceptance, AFA tester operation to collect ground qualification test data, clarification of requirements, planning and procurement of prototypes, test planning, analysis of test/analysis data for design performance, design definition and documentation, and communication of program status and engineering data to customers and Sandia management. The work for this position is focused on the electrical engineering aspects of these tasks. This position will also include a variety of interactions across the program including coordination with partner organizations across the laboratory and external interaction with the Air Force, NNSA, LLNL, SNLCA, and other agencies. Some travel may be required to support development, test and program needs. Successful candidate(s) will be self-directed, customer-focused, and have strong teaming and analytical skills.
+On any given day, you may be called on to:
+
+Support the completion of functional and interface component requirements
+Update design definition and documentation
+Support the testing and evaluation of prototype hardware
+Support integrated tester development for component and AFA prototypes
+Provide technical leadership in identifying and managing technical risks
+Analyze system performance against requirements
+Assess, plan, and report progress relative to program plans
+
+Department Description:
+The Mk21 Arming and Fuzing Assembly (AFA) Qualification Department (2342) is responsible for leading the qualification and requirements verification effort for the MK21 AFA. The Mk21 AFA is deployed into Air Force ICBM Weapon Systems. These fuze technologies share strong synergy with W88 ALT 370. Department 2342 is comprised of a diverse, multi-discipline team responsible for building, testing and verifying requirements to ensure successful qualification of the Mk21 AFA. The Mk21 AFA will require rigorous qualification testing including vibration, shock, thermal, electromagnetic, radiation environments, and flight tests. The department works collaboratively with the Mk21 AFA PRT department (2342) and many laboratory partners both internal and external to Sandia. This NW development project is engaged in robust development cycle which will progress through an aggressive design engineering test and evaluation phase followed by production engineering qualification leading to an FPU of 4QFY22.
+About Sandia:
+Sandia National Laboratories is the nation’s premier science and engineering lab for national security and technology innovation, with teams of specialists focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+
+Challenging work with amazing impact that contributes to security, peace, and freedom worldwide
+Extraordinary co-workers
+Some of the best tools, equipment, and research facilities in the world
+Career advancement and enrichment opportunities
+Flexible schedules, generous vacations,strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid work/life balance*
+
+World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.gov
+*These benefits vary by job classification.
+EEO Statement:
+Equal opportunity employer/Disability/Vet/GLBT 
+Requirements
+Required:
+
+Bachelor's AND advanced degree (Masters or PhD) in Electrical Engineering or similar engineering discipline;
+Experience with requirements engineering and verification techniques;
+
+Desired:
+
+Knowledge of serial communication systems such as foundation bus, SPI, Spacewire, etc.
+Designing and executing system qualification tests in harsh environments such as high acceleration/vibration, thermal, EMI/EMC, and radiation.
+Knowledge of inertial/vibration theories and integration into diagnostic and guidance systems.
+Knowledge of RF systems with particular emphasis on radar.
+Experience with analysis of data with application to requirements verification
+Experience developing processes containing appropriate amount of rigor for weapons programs
+Experience in system engineering of large and complex systems;
+Experience with risk management;
+Demonstrated ability to work within teams that cross technical disciplines;
+Demonstrated effectiveness working in an environment with dynamic conditions, competing priorities, and firm deadlines;
+Strong verbal and written communication skills;
+Active DOE Q-level security clearance.
+
+Security Clearance:
+Position requires a Department of Energy (DOE) granted Q-level security clearance.
+Sandia is required by DOE directive to conduct a pre-employment drug testing, and a pre-employment background review that includes personal reference checks, law enforcement record and credit checks, and employment and education verifications. Applicants for employment must be able to obtain and maintain a DOE Q-level security clearance, which requires U.S. citizenship.
+Applicants offered employment with Sandia are subject to a federal background investigation to meet the requirements for access to classified information or matter if the duties of the position require a DOE security clearance. Substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause a clearance to be denied or terminated by the DOE, rendering the inability to perform the duties assigned and resulting in termination of employment.
+Categories
+
+
+
+Electronics Engineer 
+
+
+
+
+

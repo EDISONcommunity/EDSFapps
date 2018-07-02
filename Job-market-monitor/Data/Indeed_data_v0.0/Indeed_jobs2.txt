@@ -1,0 +1,13 @@
+Machine learning in de database Vacature - Info Support - Veenendaal | Indeed.nlMachine learning kan bedrijven helpen beslissingen te nemen en strategie te bepalen door verbanden en trends te ontdekken die in hun eigen data verstopt zitten. Volgens IBM is ongeveer 90% van alle opgeslagen data in de afgelopen 2 jaar ontstaan. Door deze sterke groei van de hoeveelheid data die beschikbaar is voor analyse wordt machine learning steeds interessanter. Machine learning biedt bedrijven steeds meer kansen om meer inzichten te verkrijgen en daarop te handelen.
+Meer informatie
+Doorgaans zijn de omgevingen met staging area’s, data warehouse en data marts groot en complex. Analyses worden vaak uitgevoerd met behulp van speciale technologieën die hun eigen plek krijgen in de omgeving. Met de komst van Microsoft SQL Server 2016 wordt “R”, een statistische programmeertaal populair onder data scientists, geïntegreerd in het database management systeem. Dit biedt andere mogelijkheden voor de architectuur en kan implicaties hebben op de gehele omgeving.
+
+Opdracht
+Onderzoek welke impact de nieuwe mogelijkheden van de “R” integratie met de database hebben op de traditionele omgevingen. Formuleer een advies waarin je beschrijft hoe deze vorm van machine learning in de architectuur in te passen is en hoe veranderingen doorgevoerd kunnen worden in bestaande omgevingen.
+
+Implementeer een proof of concept van een machine learning toepassing door gebruik te maken van de integratie van “R” en machine learning algoritmen met de database. Maak gebruik van de TPC dataset, het schema van de TPC dataset is typisch voor een bedrijf dat producten verkoopt. Vragen die beantwoord moeten worden zijn onder andere: “Welke orders wordt het meeste aan verdiend en waarom?”, “Welke producten zouden actiever aangeboden moeten worden?”, “Wat maakt dat klanten minder orders plaatsen?”.
+
+Lever de implementatie en het adviesrapport op waarmee je de mogelijkheden van machine learning geïntegreerd met het database management systeem aantoont.
+
+Benodigde kennis en/of interesse
+Databases, Data science, Machine learning

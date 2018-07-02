@@ -1,0 +1,46 @@
+Systems Engineer at Lockheed Martin in Fort Worth, TX | IEEE
+
+
+
+                            6 days old                        2018-05-022018-06-01
+
+
+
+
+Systems Engineer
+
+                                                            Lockheed Martin                                                    
+
+
+Fort Worth, TX 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+430170BR
+
+
+
+
+
+Primary role is supporting the F-35 Prognostics & Health Management (PHM) Capability Integration Team. This position will be responsible for the analysis of vast quantities of machine data collected from fleets of complex machines such as aircraft. The applicant is expected to collaborate with other data scientists, engineers, software teams, management, and other stakeholders to conduct data wrangling / mining, perform exploratory analysis, use machine learning to build models, generate visualizations, and create & present reports. The position also entails web application development and database modeling**Must be a US Citizen. This position is located at a facility that requires special access.**Basic Qualifications• Experience with basic theoretical foundation in statistics and machine learning• Experience with standard applied machine learning and data mining techniques• Experience in data analysis with Python, Scala, R, and/or Java• Bachelors degree in a technical disciplineDesired skills• Experience in web application development• Comfortable manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources• Experience with large and/or complex data sets• Familiarity with SAP HANA, Hadoop / MapReduce, HUE, Pig, Hive, and Spark• Familiarity with data modeling, relational databases and SQL• Familiarity with SAP Business Objects and Tableau• Experience with Linux and complex computer networks• Good problem solving and organizational skills• Excellent written and verbal communication skills (i.e. the ability to communicate complex analysis with clarity and precision) • Passionate about empirical research and naturally inquisitive• Detail OrientedAs a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territoriesJoin us at Lockheed Martin, where we’re engineering a better tomorrowLockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability statusJob Location(s): Fort Worth Texas  
+
+
+
+
+
+

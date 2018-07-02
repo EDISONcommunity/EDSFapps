@@ -1,0 +1,67 @@
+Architect at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Architect
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Do you enjoy using computational models and analysis techniques to solve complex problems that address critical national security needs? Would you like to advance the state-of-the art in the use of models for architecting the enterprise? Then look no further! Join the dynamic, fast-paced Modeling, Simulation, Experimentation and Analysis (MSEA) Technical Center at MITRE. As a member of a corporate technical center, you will initially be assigned to support the architecture needs of a high-priority customer in the intelligence community. Over time, you will likely work across other branches of Government, based on project need and your interests and skills.
+ 
+Key Functions: Apply deep understanding of architecture modeling and best practices to improve interoperability, integration, and capabilities of DoD and/or intelligence community (IC) enterprise systems.  Influence decisions associated with implementation of architecture strategies for large-scale system/application integration, data sharing, and cloud migrations.  Develop enterprise and system of systems (SoS) architectures using state-of-the art modeling techniques and tools.  Train and educate both the customer and other MITRE personnel on the proper use of architecture to meet the mission needs of the sponsors.  Use architectures to identify alternatives and to assess impact of alternatives on cost, schedule and performance.  Implement and tailor standard modeling notations to best support customer outcomes  Apply integrated Model-Based Systems Engineering (MBSE) approaches in dealing with architecture data elements and architecture design and modeling.  Apply the best combination of methods and tools (e.g., static or dynamic models, descriptive or predictive analytics, governance, strategy), to evaluate and improve enterprises.  Work within an evolving programmatic environment with evolving requirements and capability goals.  Ability to function either as the sole architect or within a team.
+
+
+
+
+
+
+
+
+
+
+ 
+Required Qualifications: 8+ years of experience in enterprise/system architecture design and modeling.  Proficient in the use of multiple EA frameworks, tools and methodologies.  Experience developing architectures within a team environment on multiple projects.  Ability to function as translator between customer needs and requirements and an architecture representation
+Preferred Qualifications:
+ MS or PhD in a technical discipline such as Systems Engineering, Industrial Engineering Computer Science, Statistics and Mathematics.  Demonstrated experience in use of Unified Modeling Language [UML], and Systems Modeling Language [SysML], Business Process Model or Notation [BPMN]).  Knowledge and understanding of the various underlying metamodels (DODAFs DM2, UML, SysML and UPDM).  Experience with at least one architecture development tools: (preferred) NoMagic MagicDraw/Cameo; (other desired) Sparx Systems Enterprise Architect (EA), IBM Rational Rhapsody, IBM Software Architect.
+ 
+ 
+Categories
+
+
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Computer Engineering 
+
+
+
+
+
+
+
+

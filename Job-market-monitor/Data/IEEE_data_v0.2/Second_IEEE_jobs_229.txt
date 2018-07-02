@@ -1,0 +1,46 @@
+Data Scientist at Apple Inc. in Cupertino, CA | IEEE
+
+
+
+                            13 days old                        2018-04-252018-05-24
+
+
+
+
+Data Scientist
+
+                                                            Apple Inc.                                                    
+
+
+Cupertino, CA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+113708737
+
+
+
+
+
+Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job comes with more than a few perks Join the team that provides machine learning technologies to help users protect their accounts. We believe in transforming your smartphone into a device that secures your digital life without sacrificing your privacy We are seeking an iOS engineer that will develop solutions to bring order to unstructured data using modeling techniques. A successful candidate will have a bent for software design, information extraction, encoding and debugging. The candidate will take end-to-end responsibility for translating customer needs into analytical solutions from feature engineering, implementation, model training and reporting. The role requires working in a fast paced environment, handling multiple assignments and being self driven. Candidates also need to show initiative and be able to take ownership of a Key Qualifications: •Strong software design and development skills •Excellent analytical, programming and debugging skills •Experience with at least one major language (C, C++, Objective-C or Swift) •Passion for problem-solving and analysis •Highly motivated and organized, with the ability to accept ambiguity and deliver exceptional results on tight schedules •Familiarity with Machine Learning and its common practical applications is a plus •Understanding of privacy-preserving techniques is a plus Description: Apple is looking for a Software Engineer to work on our machine learning technologies to develop and support new products. You will work hand-in-hand with security engineers, data scientists, program managers and business partners to understand problems, define data-driven solutions, execute plans and communicate results on a regular basis Education: BS or MS in Computer Science or equivalent industry experience   Additional Requirements: Experience working with Trusted Service Manager, servers, and backend payment networks Experience architecting security solutions and designing quality modular software Experience with Java build/testing automation on-card as well as off-card Experience with evaluation processes of security, functional and assurance requirements Experience with object oriented languages, such as C++/Java Experience with developing JavaCard applets for JavaCard OS or related software development experience for security products Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants   
+
+
+
+
+
+

@@ -1,0 +1,73 @@
+System Engineer(Researched - Focused) - ELSYS -1505 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+System Engineer(Researched - Focused) - ELSYS -1505
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1505
+
+
+
+
+Title: System Engineer(Researched - Focused) - ELSYS -1505 
+                 JobID: 1505 
+                 Location: Atlanta, GA 
+                 Description: This job is for a full time research faculty position in the Methods and Analysis Development Branch, part of the Systems Engineering Research Division. Our research group is predominantly focused on the research, development, and application of new systems engineering tools and methods for decision support, concept of employment analysis, systems architecting, and conceptual design for complex systems. We create systems models (both qualitative and quantitative) that aid our sponsors in the early stage of systems design to determine the best architecture to achieve a desired operational capability. In addition to systems design, we provide capability-based strategic decision making and portfolio planning expertise to aid a variety of customers in mapping their high level goals and objectives to a set of both feasible and viable, actionable alternatives.
+
+Senior Research Engineer/Scientist
+
+A Master’s degree in Engineering, Physics or Math and seven (7) years of relevant full-time experience after completion of that degree, or
+A Master’s degree in Engineering, Physics or Math and nine (9) years of relevant full-time experience after completion of a Bachelor’s degree, or
+A Doctoral degree in Engineering, Physics or Math and four (4) years' relevant full-time experience.
+For candidates holding the Doctoral degree, the last two (2) years of employment prior to employment at Georgia Tech will be considered if adequately documented, and the four-year time in grade requirement be reduced to two (2) years for candidates so qualified.
+Active SECRET or TOP SECRET clearance.
+
+Required Skills: strong background in science or engineering.  Proficient programming skills, preferably Python and/or JavaScript. Strong background in statistical analysis, (preferably an understanding of regression analysis, visual analytics, uncertainty quantification, design space exploration, etc.).  Experience with modeling and simulation of complex systems (e.g., agent-based modeling, discrete event simulation, DEVS, systems dynamics).
+Preferences
+
+Systems engineering experience but a background in research, design and analysis in any science or engineering related field accepted.  Proficient in the use of SAS JMP, R, or python's numeric and data analytics libraries (e.g., numpy, scipy, pandas, tensorflow, luigi).
+
+
+
+
+
+Categories
+
+
+
+Engineering 
+
+
+
+
+
+
+
+

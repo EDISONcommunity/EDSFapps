@@ -1,0 +1,102 @@
+Database Engineer - CIPHER - 1668 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Database Engineer - CIPHER - 1668
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1668
+
+
+
+
+Title: Database Engineer - CIPHER - 1668 
+                 JobID: 1668 
+                 Location: Atlanta, GA 
+                 Description: The Cybersecurity, Information Protection, Hardware & Evaluation Research Lab (CIPHER) is looking to hire an entry-level database engineer to assist in the design, development, and maintenance of relational databases which are the backend to secure multi-tier web applications and services. This position requires the ability to design, architect, and build databases from business requirements – with a key focus of providing security, performance, and scalability at all layers of the architecture. This includes planning and deployment of these databases in both development and production environments. Position entails close interaction with application-layer software developers in order to optimize overall application design, including performance modeling and query generation, review, and optimization.
+
+Primary responsibilities
+
+Design and development of appropriate data structures given business requirements
+Extensive focus on securing data
+Implementation of requirements in an RDBMS using SQL and procedural code (Oracle SQL and PL/SQL; PostgreSQL SQL and PL/pgSQL; etc.)
+Performance tuning – including database and SQL query monitoring, analysis, and optimization
+Debugging in both development and production environments
+Database architecture design and analysis
+
+Research Engineer/Scientist I
+
+A Bachelor's degree in Computer Science, Computer Engineering or related area.
+
+Required skills
+
+Strong analytical and problem-solving skills
+Ability to work independently in a team environment
+Technical diagnostic expertise including problem investigation, reproduction, and resolution
+Ability to acquire new skills efficiently
+Experience writing and analyzing SQL queries
+Hands-on experience with Linux/command-line interfaces
+
+Preferred skills
+
+Knowledge of database and query tuning techniques
+Hands-on experience with Oracle RDBMS, SQL, PL/SQL
+Hands-on experience with PostgreSQL RDBMS, SQL, PL/pgSQL
+Hands-on experience with cloud environments such as Amazon Web Services (AWS)
+Experience with modern source code version control systems (Git)
+
+Qualifications
+
+US Citizen, no foreign ties
+Ability to obtain and maintain a Department of Defense (DoD) Top Secret security clearance. 
+2+ years' experience in applicable areas
+Willing to pursue advanced degree
+
+Hiring Process
+Selection process includes passing pre-employment background and security screening. 
+About GTRI
+The Georgia Tech Research Institute (GTRI) is a highly-regarded applied research and development organization. Each day, GTRI’s science and engineering expertise is used to solve some of the toughest problems facing government and industry across the nation and around the globe.
+GTRI and the Georgia Institute of Technology (Georgia Tech) are complementary institutions that work together to solve customers' technical problems. Our strong connection to Georgia Tech opens the door to the vast intellectual resources of one of America’s leading research universities. We offer stability, world-class benefits, and a flexible career path in an applied research and development environment.
+
+
+
+
+Categories
+
+
+
+Engineering 
+
+
+
+
+
+
+
+

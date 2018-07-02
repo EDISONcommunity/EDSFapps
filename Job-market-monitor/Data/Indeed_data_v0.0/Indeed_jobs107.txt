@@ -1,0 +1,26 @@
+Salesforce Developer bij het Wereld Natuur Fonds Vacature - Wereld Natuur Fonds - Zeist | Indeed.nlWNF wil zijn CRM en online omgeving optimaliseren om onze achterban nog beter te kunnen bedienen. Daarom zijn wij recent een project gestart voor de implementatie van Salesforce en hiervoor zijn we op zoek naar een Salesforce Developer.
+
+Wat ga je doen:
+Samen met collega’s richt je Salesforce in en ontwikkel je nieuwe of aangepaste functies. Je werkt daarbij nauw samen met het Chapter Digital & Online van Engagement dat op basis van customer insights de klantervaring vorm geeft.
+
+Je geeft gerichte en onderbouwde adviezen over de inzet van het Salesforce systeem ten behoeve van onze achterban.
+
+Samen met de data-scientist van ICT werk je aan het datamodel, de datakwaliteit in Salesforce en de integratie met andere WNF systemen.
+
+Je onderhoudt en ontwikkelt interfaces en API’s naar verschillende systemen in het IT-landschap en externe bronnen.
+
+Je werkt verder nauw samen met een CMS-expert, Exact administrator en diverse (online) specialisten van Engagement om onze groei doelstellingen te realiseren en het systeemlandschap af te stemmen op de klantwensen.
+
+Je bent een enthousiaste (junior)ICT-er die graag een bijdrage wil leveren aan de natuurbeschermingsdoelstellingen van het WNF.
+
+Je hebt minimaal een HBO-opleiding Informatica afgerond en hebt enige jaren werkervaring.
+
+Je bent in het bezit van of studerend voor SF Administrator (ADX201) certificaat en hebt de ambitie om door te groeien tot Salesforce Developer.
+
+Je bent bekend met object-georiënteerde programmeertalen, zoals Java, C# of, bij voorkeur, Salesforce’ apex en hebt ervaring met SQL en XML,
+
+Je hebt kennis van data-integratie tools zoals Dell Boomi en van webservices (SOAP en REST).
+
+Onze voorkeur gaat uit naar iemand met ervaring op het gebied van CRM en online Marketing (bij voorkeur Salescloud, Marketing Cloud en Social Studio).
+
+Je hebt een goede beheersing van de Engelse taal.

@@ -1,0 +1,82 @@
+Air Traffic Management (ATM) Operations Analyst at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Air Traffic Management (ATM) Operations Analyst
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us. 
+ 
+This position will support Air Traffic Management (ATM) definition and evolution planning efforts for the Federal Aviation Administration (FAA). You will work within an existing team of system engineers, analysts and IT personnel to help the FAA define and implement the future operations concepts for ATM, Enroute and Traffic Flow Management and supporting capabilities. You will interact with the FAA sponsor, other contractors and subject matter experts. This challenging position will focus on data analysis and modeling of weather-affected aviation and transportation operations, along with the weather observation and prediction capabilities used for guidance and decision support in within the ATM domain. The ideal candidate will require him/or her to leverage their strong analytical and problem solving skills, coupled with excellent written and oral communication skills. You will work independently and within a team environment along with leveraging your prior experience working with and interpreting meteorological data and using your prior analysis experience using COTS analytical products. At times you will utilize your ability to write custom software to accomplish necessary analytical tasks.
+Key Functions:
+
+Analyze current and future weather observation and forecast information in the context of weather-affected aviation and transportation operations
+
+Identify and assess the feasibility of new or advanced weather or weather mitigation capabilities intended 
+
+
+
+
+
+
+
+
+
+
+Required Qualifications:
+
+B.S. or M.S. in Operations Research, Applied Meteorology or related engineering, mathematics or science degree 
+
+Experience working with and interpreting meteorological data 
+
+Experience with R, MATLAB, or VBA for statistical analysis and modeling 
+
+Experience with databases (SQL, etc.)
+Minimum Qualifications:
+BS and 3 years related experiencePreferred Qualifications:
+
+M.S. or PhD or equivalent in Operations Research, Meteorology or related engineering, mathematics or science
+
+Experience with Python and Java 
+
+Familiarity with meteorological observation and forecast data (including radar data, GRIB2 and netCDF data form) 
+ 
+Categories
+
+
+
+Information Technology 
+
+Computer Programming/Systems 
+
+
+
+
+
+
+
+

@@ -1,0 +1,121 @@
+Senior Network Engineer - 00050029 at MITRE in San Diego, CA | IEEE
+
+
+
+                            13 days old                        2018-04-252018-06-04
+
+
+
+
+Senior Network Engineer - 00050029
+
+                                                            MITRE                                                    
+
+
+San Diego, CA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+
+We seek to expand our team of networking experts at MITREs San Diego, California site with staff capable of performing communications network engineering research and analysis tasks in support of the local work program. 
+ 
+Key Functions: 
+Vary per project and include: research, design, analysis, testing, experimentation, and/or modeling and simulation of communications networks to solve our nations most complex problems. 
+If a specific project requires skills or knowledge of technologies with which the selected incumbent is unfamiliar, the expectation is to proactively reach back to fellow experts across MITRE to bring their expertise to bear
+Focus includes: research, design and analysis focused in networking, and does not involve administering, operating, troubleshooting, or otherwise maintaining a production communications network
+Posses fundamental understanding of and interest in networking protocols and principles, as well as the desire to learn more and focus in this area
+Passionate about communications networks
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Minimum Qualifications:
+BS and 3 years related experience
+
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information or applicants who are eligible for security clearances.Required Qualifications:
+ 
+B.S. in Computer Science, Electrical Engineering, Information Systems, or a related field
+Coursework, experience, or skills in at least three of the following areas, and possess a willingness to expand into additional areas with which they may not yet have experience:
+
+Knowledge of TCP/IP networks and network architectures
+
+Knowledge of standard networking protocols for transport (including MPLS), routing, and network services such as DNS, SNMP, NTP/PTP, etc.
+
+Knowledge of wireless and SATCOM networks
+
+Familiarity with Firewalls, VPNs, IDSs, HAIPEs, and other network security technologies
+
+Experience with cloud technologies, data center networks, Software Defined Networking (SDN), and/or Network Function Virtualization (NFV)
+
+Network modeling and simulation tools such as OPNET/Riverbed Modeler and Exata
+
+Hands-on experience with the configuration of commercial IP routers, ethernet switches, and other standard networking equipment
+
+Use of tools for network performance testing, management and troubleshooting (e.g. Wireshark)
+
+Proficiency in one or more programming or scripting languages (Java, Python, etc.)Key Attributes:
+Excellent written and verbal communication and presentation skills
+
+Ability to work well in a collaborative team environment
+
+Self-motivation to learn new technologies and flexibility to support tasking in a variety of areas
+
+Initiative to work independently and exercise good judgment in the absence of supervision
+
+Ability to obtain and maintain a DoD Secret level security clearancePreferred Qualifications:
+MS or PhD with 3 years of experience, with expertise in any of these additional areas:
+
+DoD, US Navy, and USMC network architectures and technologies
+
+Navy and SPAWAR systems and organizations
+
+Robust communication solutions for stressed environments
+
+Demonstrated ability to assess sponsor needs and identify and propose viable technical solutions 
+
+Experience in experimentation, prototyping, and piloting
+
+Professional Certifications; e.g. Cisco CCNA, Comptia Security+, CISSP
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Communications 
+
+
+
+
+
+
+
+

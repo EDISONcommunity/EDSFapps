@@ -1,0 +1,135 @@
+EW Model Developer & Analyst (Senior/Principal Research Engineer/Scientist) EOSL-1370 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+EW Model Developer & Analyst (Senior/Principal Research Engineer/Scientist) EOSL-1370
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1370
+
+
+
+
+Title: EW Model Developer & Analyst (Senior/Principal Research Engineer/Scientist) EOSL-1370 
+                 JobID: 1370 
+                 Location: Atlanta, GA 
+                 Description: Description:
+
+
+
+
+
+Title: EW Model Developer and Analyst
+
+
+Position: Full Time
+Level: Senior / Principal Researcher
+
+
+
+
+Primary Location: Atlanta, GA
+
+
+Travel Required: Up to 25% time, but typically far less
+
+
+
+
+Lab: Electro-Optical Systems Laboratory (EOSL)
+
+
+Reporting To: Micah Coleman
+
+
+
+
+Job Description
+This job is for a full time research faculty position in the Electronic Warfare Analysis Branch (EWAB) within the Electro-Optical Systems Laboratory (EOSL) at Georgia Tech Research Institute (GTRI).  Responsibilities include developing algorithms and solutions for radar signal processing, waveform/resource management, and for tracking and data fusion in general.  Additionally, responsibilities will include developing models and simulations to support EW research, and providing subject matter expertise on tracking concepts, EW, or foreign threat radar systems.
+EWAB performs modeling, simulation, and analysis in support of various RF electronic warfare studies, including aircraft self-protection countermeasures, net-centric warfare, mission data support, and target tracking.  Our team has a diversity of backgrounds and skillsets, and a typical project team is composed of programmers, RF engineers, and radar experts.  While our work is applied research, it runs the gamut from "blue sky" concepts for the future battlespace to modeling-based solutions to be fielded on today's aircraft.
+We offer a flexible work environment allowing each researcher to pursue his or her interests and strengths, integrated with the overall mission of the branch and the lab.  If you have aspirations for an advanced degree, all the better.  Because GTRI is a research unit within Georgia Tech, you can get your graduate school paid for and pursue an advanced degree in pretty much any engineering, science or math field you desire from a world class research institution.  We highly encourage our faculty to pursue advanced technical degrees and professional development courses.
+
+
+
+
+Requirements:
+
+Provide critical expertise to support our modeling of tracking systems and foreign radars
+Write software to model various EW systems
+Engage in collaborative development using modern configuration management tools (e.g. git, subversion)
+Assist in the design, development, and demonstration of EW simulation experiments using high performance computing capabilities.
+Perform and document analysis on the simulations to determine the efficacy of EW techniques and optimize the techniques
+Travel may be involved, as project work may occur in Atlanta or at a location other than Atlanta
+
+Education:
+
+M.S. or Ph.D in Electrical Engineering, Mathematics, or related fields
+
+Experience: 
+
+5+ years of professional or graduate experience
+
+Preferred Skills:
+
+Deep background in target tracking, signal processing, and/or foreign radars
+Matlab, C/C++, Python, Fortran
+Strong math skills and ability to learn complex engineering concepts
+Familiarity with Linux and open source tools
+Configuration management tools (git preferred)
+Ability to clearly communicate technical ideas to non-technical audience
+Ability to work independently as well as in a dynamic team environment
+
+Other:
+
+Candidate must be a US citizen capable of holding a Secret DoD security clearance, active clearance a major plus.
+
+ 
+
+
+
+
+
+
+
+
+Categories
+
+
+
+Engineering 
+
+Electronics Engineer 
+
+
+
+
+
+
+
+

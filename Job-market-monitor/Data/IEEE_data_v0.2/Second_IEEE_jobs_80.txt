@@ -1,0 +1,115 @@
+ELECTRICAL ENGINEERING PROFESSOR (data science, deep learning, reinforcement learning) - IVADO at Polytechnique Montreal in Montreal, Quebec H3T 1J4 | IEEE
+
+
+                            6 days old                        2018-05-022018-06-01
+
+
+
+
+ELECTRICAL ENGINEERING PROFESSOR (data science, deep learning, reinforcement learning) - IVADO
+
+                                                            Polytechnique Montreal                                                    
+
+
+Montreal, Quebec H3T 1J4 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+17-PR-5 
+
+Job TypeEmployee
+Job StatusFull Time
+
+
+
+
+ELECTRICAL ENGINEERING PROFESSOR (data science, deep learning, reinforcement learning) - IVADO
+Job Reference Number:  17-PR-5 
+Posting/Closing Date: April 25, 2018 to May 28, 2018
+Workplace:  All buildings 
+Department or Service:  Department of Electrical Engineering 
+Position summary
+Polytechnique Montreal is one of Canada’s leading engineering schools in terms of its student population and the scope of its research activities with more than 8,000 students and 1,000 employees. Polytechnique Montreal is seeking applicants for a tenure-track faculty position with the Department of Electrical Engineering, at the Assistant or Associate Professor levels. This position falls within the application areas of the Institute for Data Valorization (IVADO), an academic initiative bringing together researchers form HEC Montréal, Polytechnique Montréal and the Université de Montréal. The successful candidate will receive support from IVADO and its members.
+The collective agreement includes, among other benefits, specific work-family balance accommodations and maternity, paternity and adoption leave over and above the Québec Parental Insurance Plan (http://www.rqap.gouv.qc.ca/).
+Polytechnique Montréal applies an employment equity program and encourages women, members of visible and ethnic minorities, Aboriginal peoples and persons with disabilities to apply. Accommodation can be provided to persons with disabilities based on their characteristics.
+The Department of electrical engineering has 31 professors, one senior lecturer, 26 support staff, many postdoctoral researchers, professional researchers and research assistants, 413 undergraduate and 169 graduate students. The department leads internationally-recognized research, in close collaboration with industry, in several core areas such as: automation and systems, biomedical engineering, power systems and networks, microelectronics, telecommunications and microwaves, clustering and recognition, machine learning, big data. 
+Requirements
+Major responsibilities
+The successful candidate will be expected to carry out the basic duties of this position with a dynamic and creative approach. In particular, he/she will:
+
+
+take part in teaching and in laboratory activities for undergraduate and graduate courses in electrical engineering;
+
+
+supervise and lead graduate students;
+
+
+initiate and carry out leading-edge research projects;
+
+
+collaborate with research teams within Polytechnique Montreal and other institutions, notably IVADO;
+
+
+develop and maintain collaborations with industry.
+
+
+Area of expertise
+The applicant will have to demonstrate a deep understanding of theoretical and technological tools of data science, including optimization in and estimation from big data, deep learning, reinforcement learning, support vector machines, hidden Markov models, etc. and of their application to areas connected to electrical engineering or systems theory. More specifically, applications may fall within, but are not limited to, the following areas:
+
+
+Cyberphysical systems, e.g., analysis of massive sensor data for anomaly detection anomalies, system vulnerability and failure characterization; data-driven learning of high performance control schemes; machine based perception in robotics and autonomous systems.
+
+
+Electrical networks, e.g., data-based learning of the aggregate behavior of renewable energy sources; anticipation of vulnerable system states and data based learning and identification of corrective actions; disaggregation of loads based on smart meter and substation provided data.
+
+
+Communications systems, e.g. machine learning for optimal usage of the frequency spectrum in cognitive radio; learning of Internet traffic to improve network structure and routing algorithms, to increase communication speed and to decrease energy usage (Green Internet); data based speech and signal processing.
+
+
+Medical image analysis using artificial intelligence and machine learning algorithms, integration of genomic, proteomic, metabolomic data with clinical image analysis, big data science applied to medical imaging, etc.
+
+
+Start date: september 2018.
+Essential qualifications
+Applicants must hold a bachelor’s degree in electrical engineering and a doctorate (PhD) in a relevant field of expertise. The successful candidate will be registered on the roll of the Ordre des ingénieurs du Québec (OIQ) as an engineer, or take the necessary measures to be registered on the roll of the OIQ as an engineer before applying for tenure. Relevant industry experience is an asset. The teaching language is French.
+Conditions of employment
+This faculty position is tenure-track. Salary and benefits will be set in accordance with the collective agreement. The collective agreement includes, among other benefits, specific work-family balance accommodations and maternity, paternity and adoption leave over and above the Québec Parental Insurance Plan (http://www.rqap.gouv.qc.ca/).
+Applications
+Candidates should submit an application file that consists of a curriculum vitae, a statement of teaching goals and research priorities, a roadmap for integration of their activities into those of IVADO, records of teaching effectiveness, official records of diplomas, the names of three references, several examples of work relevant to the position and examples of recent contributions. Applications must be sent by May 28th, at 5 PM, to the following address:
+Yves Goussard, Professor and Chairman Department of Electrical Engineering École Polytechnique Case postale 6079, succursale Centre-ville Montréal (Québec) H3C 3A7
+ 
+CANADA E-mail: dge.sec-direction@polymtl.ca
+ 
+This posting may be extended past May 28th. Examination of applications will begin as soon as possible and continue until the position is filled. Only candidates selected for an interview will be contacted.
+The masculine may be used without discrimination and solely for the sake of conciseness. We encourage all qualified candidates to apply; however, in accordance with immigration requirements, Canadians and permanent residents will be given priority.  
+Categories
+
+
+
+Communications 
+
+Design/Development Engineering 
+
+Electronics Engineer 
+
+Research 
+
+
+
+
+

@@ -1,0 +1,27 @@
+Junior data-scientist Vacature - Ministerie van Landbouw, Natuur en Voedselkwaliteit, Nederlandse Voedsel- en Warenautoriteit - Utrecht Binnenstad | Indeed.nlDe Nederlandse Voedsel- en Warenautoriteit waakt over alles wat de gezondheid van mensen, dieren en planten kan raken. Dankzij data-science krijgen we veel kennis en informatie waarmee we patronen en trends ontdekken en kunnen anticiperen op relevante maatschappelijke ontwikkelingen. We werken proactief, risicogericht en informatiegestuurd. Als junior data-scientist lever je een actieve bijdrage aan de (door)ontwikkeling en innovatie van diensten, producten, methoden en technieken. Zo draag je je steentje bij aan een gezond Nederland.
+
+Analyseren, onderzoeken, experimenten en ontwikkelen: jij vindt het heerlijk en duikt het liefst de hele dag onder in (big) data. Je bent een data-scientist die complexe en kennisintensieve databewerkingen en (statistische) analyses kan uitvoeren. Hierbij maak je gebruik van diverse in- en externe databronnen. Jouw werk is strategisch/tactisch van aard en gaat over vraagstukken en ontwikkelingen op het gebied van handhaving, toezicht en opsporing.
+
+Ons werk richt zich op voedsel- en productveiligheid, dierengezondheid en –welzijn, plantgezondheid en een aantal aspecten uit de natuurwetgeving en jij zet je daar vol overgave voor in.
+
+We werken zowel vraag- als datagestuurd. Andere afdelingen of instanties vragen onze hulp en expertise, of we signaleren zelf trends en ontwikkelingen die we vertalen naar onze organisatie. Je bent communicatief sterk en overlegt regelmatig met experts op uiteenlopende vakgebieden. Niet alleen data is heilig bij ons, ook het contact en de feeling met andere partijen en afdelingen waar we mee samenwerken.
+
+De Nederlandse Voedsel- en Warenautoriteit is continu bezig data-science te versterken en professionaliseren. Onze afdeling is volop in ontwikkeling. Hierdoor kom je niet in een gespreid bedje, maar in een omgeving waar veel ruimte is voor eigen inbreng en initiatief. Met jouw pioniersgeest pas je daar perfect bij. Ook vaktechnisch is onze wereld dynamisch. Zo willen we de komende jaren onder meer bijdragen aan het ontwikkelen van een systeem om de monitoring van cameratoezicht in bijvoorbeeld slachthuizen te automatiseren. Als data-scientist ga je een belangrijke rol spelen bij die ontwikkeling.
+
+Je werkt aan verschillende onderzoeken en experimenten, veelal samen met data-analisten. Je bent niet op je mondje gevallen en biedt de analisten - gevraagd en ongevraagd - advies, ondersteuning en begeleiding. Daarnaast krijg je alle ruimte je te specialiseren in een bepaald vakgebied, mocht je daar interesse in hebben. We streven namelijk naar een team data-scientists met diverse specialismes.
+
+Zie ook onze vacature voor medior data-scientist en senior data-scientist .
+
+Je hebt een afgeronde hbo-/wo-opleiding, bij voorkeur wiskunde, econometrie, criminologie of informatietechnologie.
+
+Je hebt tijdens je studie ervaring opgedaan met onderzoeks- en analysevraagstukken.
+
+Je hebt aantoonbare ervaring met het opzetten en uitvoeren van kwantitatieve onderzoeken/research en statistische/mathematische methoden en technieken.
+
+Je hebt ervaring met datavisualisatie. Kennis van kunstmatige intelligentie, machine learning en/of textmining is een pre.
+
+Je hebt (zeer) goede kennis van Microsoft Office en SAS Enterprise Guide en basiskennis van SAS Programmeren. Affiniteit met andere SAS-oplossingen (zoals SAS Visual Analytics of SAS Enterprise Miner) of oplossingen als Python, Tableau en R is een pre.
+
+Je kunt betrokkenen enthousiasmeren en adviseren over de opzet en resultaten van onderzoeken. Hierbij weet je de uitkomsten zowel schriftelijk als mondeling helder te communiceren.
+
+Je bent een doorzetter en pakt problemen en knelpunten aan.

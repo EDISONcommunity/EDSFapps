@@ -1,0 +1,84 @@
+Computer Science, Staff_Computer Science at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Computer Science, Staff_Computer Science
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+
+As a member of MITRE's Center for Transforming Health, the candidate will be leading the prototyping and implementation of health information systems. This position requires a strong background in software development in combination with experience in the healthcare domain. Ideal candidates will be able to apply agile development practices while still satisfying the unique demands of health oriented applications.
+ 
+Key Functions:
+Full stack implementation of healthcare prototypes.
+Running an agile team to deliver a software application.
+Hands on software development and testing.
+
+
+
+
+
+
+
+
+
+
+							Minimum Qualifications:Bachelor's Degree in Computer Science or Computer Engineering or similar field. Candidate should possess the ability to be responsible for deliverables or parts of deliverables to MITRE customers.Applicants must have experience implementing healthcare systems such as EHR's,HIE's or Interface Engines.
+A strong understanding of Healthcare IT standards (HL7 V2, HL7 CDA-based standards, or FHIR).
+2+ years of software development.
+Solid understanding of service-design-Experience implementing RESTful services.Preferred Qualifications:
+Knowledge of clinical quality measures, or clinical decision support.
+Familiarity with the healthcare industry, terminology, clinical roles, and national healthcare organizations.
+Experience with Ruby, particularly for use processing XML.
+Experience with modern JavaScript frameworks(Ember, js, Angular,js, etc). is a plus.
+Experience with MongoDB.
+Large-scale data analysis, data mining, or machine learning experience is desired.
+Req # 00047614
+Level 2
+T893
+Bedford, MA
+
+ 
+Categories
+
+
+
+Information Technology 
+
+Engineering 
+
+Computer Engineering 
+
+Instrumentation and Measurement 
+
+
+
+
+
+
+
+

@@ -1,0 +1,76 @@
+PhD Students in Industrial Electronics with focus on production automation and digitalization at Lulea University of Technology in Lulea, Norrbotten 971 87 | IEEE
+
+
+                            4 days old                        2018-05-032018-07-02
+
+
+
+
+PhD Students in Industrial Electronics with focus on production automation and digitalization
+
+                                                            Lulea University of Technology                                                    
+
+
+Lulea, Norrbotten 971 87  
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Job TypeContract
+
+
+
+
+The EISLAB division of the Department of Electrical and Space Engineering conducts research on resource-constrained embedded systems within five technology areas; sensor systems, electronics design, the Internet of Things (IoT), embedded electromagnetic compatibility (EMC) and electronics production.The Internet of Things is an active area of research within the field of Industrial Electronics at EISLAB. Research in this area focuses on resource-constrained IoT platforms and how System of Systems (SoS) technologies can be used to meet the challenges of industrial production automation.EISLAB are involved in several large European projects on distributed system construction with a focus on IoT, SoS and Cyber Physical Systems (CPS). Collaboration with industry is conducted via research centers such as ProcessIT (process automation), CDT (telecom), and CASTT (automotive).
+Subject description
+Industrial Electronics is concered with the instrumentation and signal processing involved in technical processes, and the governance and automatic control of these. Particular attention is placed on embedded systems as system components.  
+Project description
+You will work with some of the following areas of production automation:
+
+Safety in IoT- and CPS-based automation
+Operation scheduling and state detection
+Real-time support of local clouds
+IoT big data processing
+Distributed service intelligence and semantics
+SoS engineering tools and services
+Machine self-assessment
+Distributed cryptographic technology
+
+The studies will be conducted as parts of the very large European project: Productive 4.0. The project aims to significantly improve the digitization of the European industry regarding the automation of production intimately linked to supply-chain networks and product life-cycle management. The project will address challenges such as self-configuring processes and automated order and contract management, all the way from component level (IoT) to autonomous systems (SoS) such as robots or intelligent cars. The EISLAB division at LTU will be responsible for the IoT and SoS automation architecture which will be based on the Arrowhead Framework. The above areas indicate the research fields to be addressed in cooperation with about 100 European partners.Collaboration with industry as well as future product owners as users is a key success factor and the project involves close cooperation with software and automation industries. You will work closely with other researchers and graduate students at Luleå University of Technology.
+ Duties
+As a Ph.D. student, you work towards a Doctoral degree as the final goal and a Licentiate degree as the initial goal and for as basis for decision on the possible continuation towards the doctoral degree. The work will be done with the objectives of the Higher Education Ordinance as support. You will take courses while doing dissertation work in the form of e.g. literature, article, design studies, construction and programming tasks, theory development, analysis and presentations. Teaching and other duties at the division and / or department exists for graduate students, which is limited to a maximum of a year of the total period not exceeding five years.
+Qualifications
+ The necessary background for applicants is a master degree in Computer Science, Electrical Engineering and/or Engineering Physics and Electrical Engineering, or equivalent. The applicant must be proficient in computer science and/or digital electronics. Previous experience of working with service-oriented architectures (SOA), IoT, CPS and/or SoS is valuable but not a requirement. The applicant must also possess basic programming skills at minimum. Fluency in oral and written communication in English is a requirement.Information 
+For further information, please contact: Chaired Professor Jerker Delsing, industriell elektronik, tel +46 920 49 1898, jerker.delsing@ltu.se or Associate Professor Ulf Bodin, head of division EISLAB, tel +46 920 49 3036, ulf-bodin@ltu.seGeneral information for applicants: http://www.ltu.se/ltu/Lediga-jobb/Fakta-for-sokande?l=enAbout EISLAB: http://www.ltu.se/research/subjects/EISLAB-industriell-elektronik?l=enAbout the university: http://www.ltu.se/?l=enUnion representatives: SACO-S Daina Dagis, 0920-49 3880 daina.dagis@ltu.se OFR-S Lars Frisk, 0920-49 1792 lars.frisk@ltu.seLuleå University of Technology is actively working on equality and diversity that contributes to a creative study- and work environment. The University's core values are based on respect, openness, cooperation, trust and responsibility.In case of different interpretations of the English and Swedish versions of this announcement, the Swedish version takes precedence.
+Application
+We prefer that you apply for this position by clicking on the apply button. The application should contain a personal letter and CV/merits (including diploma and list over courses with grades), references to two persons that can validate the applicants qualifications. Your application, including diplomas, must be written in English or Swedish. Mark your application with the reference number below. 
+Categories
+
+
+
+Aerospace and Electronic Systems 
+
+Computer Engineering 
+
+Computer Programming/Systems 
+
+Electronics Engineer 
+
+Faculty 
+
+
+
+
+

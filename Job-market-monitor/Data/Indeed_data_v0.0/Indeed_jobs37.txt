@@ -1,0 +1,53 @@
+Senior data scientist Vacature - Arcadis - Amersfoort | Indeed.nlWat ga je doen?
+Arcadis zoekt vanwege uitbreiding van het bestaande team, een innovatieve, creatieve en gedreven data scientist. Iemand die zijn of haar hand er niet voor omdraait om complexe business vraagstukken aan te pakken en op te lossen met grote hoeveelheden data (big data), complexe modellen (machine learning) en moderne IT hulpmiddelen. Iemand die collega’s kan stimuleren en enthousiasmeren om ‘out of the box’ te denken en zelf niets anders doet.
+
+Wat ga je doen? Analytics naar een hoger plannen tillen, samen met je collega’s, door te focussen op analytics methodieken zoals supervised en unsupervised machine learning algoritmen en rond diverse aandachtsgebieden binnen asset management, waaronder:
+
+risk management;
+performance optimalisaties;
+predictive maintenance;
+visualisaties;
+beeldherkenning.
+
+
+Door met behulp van 'state of the art' technologie en methodologie het gedrag van assets te voorspellen, komen we tot betere assetmanagement besluitvorming.
+
+Je werkt voor, met en bij de klant. Daarnaast coach je de andere data-scientists en help je mee het netwerk van data-scientists binnen Arcadis uit te bouwen. Je ontwikkelt praktische oplossingen voor complexe, kwantitatieve problemen binnen de publieke en private sector. Je vertaalt data en inzichten in bruikbare adviezen voor hoger management van grote ondernemingen en overheden, in binnen- en buitenland. Afwisseling ten top, want je werkzaamheden zullen zeer divers zijn.
+
+Jij maakt deel uit van het team data analyse. Een jong, hecht team met professionals die zorgen voor de verdere ontwikkeling van data-driven innovatie voor onze klanten. Je werkt bijvoorbeeld aan voorspellend onderhoud bij assetmanagement vraagstukken in de spoorsector. Dit kan door predictive maintenance in plaats van periodiek onderhoud of op basis van ervaring. Maar je werkzaamheden zijn niet beperkt tot de spoorse sector. Te denken valt aan projecten voor een grote energieleverancier, een netbeheerder, een gasbedrijf, belangrijke luchthavens en in de internationale rioleringssector.
+Wat vragen wij?
+Je hebt bij voorkeur kennis van (en zo mogelijk ervaring met) technologie en methodologie op het gebied van gestructureerde en ongestructureerde data bijvoorbeeld:
+
+R / R-Studio
+Netezza
+Hadoop
+MapReduce
+Hive
+SAS
+
+
+Jij bezit ook aantoonbare kennis en ervaring met statistische en wiskundige methoden van data-analyse bijvoorbeeld:
+
+Neurale netwerken
+Beslisbomen/trees
+Clustering
+Data mining
+en het toepassen daarvan in bedrijfsprocessen.
+
+Je bent bekend met programeertalen zoals R en Python, voor datamanagement MongoDB of Spark en eventueel visualisatieprgramma’s als Tableu en Shiny.
+Je bent een senior met 5-10 jaar relevante werkervaring, je bent specialist op het gebied van kwantitatieve vraagstukken en je beschikt over een eigen netwerk. Je bent analytisch, commercieel, communicatief vaardig en sociaal ingesteld.
+
+Daarnaast herken je jezelf in het volgende profiel:
+
+je houdt je graag bezig met nieuwe technologieën en innovatie;
+je vindt het geen probleem om op klantlocatie te werken of eventueel in het buitenland;
+jij bent uitermate nieuwsgierig en voortdurend op zoek naar verklaringen.
+Wat bieden wij?
+Onze visie is al snel onze passie geworden: Improving the quality of life. Deze passie, onze mensen en de samenwerking met de klant geven ons de kans om de toekomst van de wereld vorm te geven. Dag in dag uit. Met vijf kernwaarden bouwen we aan een unieke Arcadis cultuur: People First, Integriteit, Klantsucces, Samenwerking en Duurzaamheid. Wij bieden een organisatie en een functie waarbij je een hoge mate van vrijheid hebt om je taken zelfstandig in te vullen in een ambitieus team. De mogelijkheid om samen te werken met verschillende (technische) disciplines zowel binnen het team als binnen Arcadis.
+
+Arcadis is de leidende wereldwijd opererende ontwerp- en consultancyorganisatie op het gebied van de natuurlijke en gebouwde omgeving. Samen met onze klanten werken we aan uitzonderlijke en duurzame projecten op basis van onze brede marktsectorkennis gecombineerd met ontwerp, consultancy, engineering, project- en managementdiensten. Ook ontplooien we veel initiatieven als het gaat om maatschappelijk verantwoord ondernemen en inclusiviteit & diversiteit.
+Onze mensen krijgen volop ruimte voor vernieuwende ideeën en goede ontwikkelings- en opleidingsmogelijkheden. Daarnaast hanteert Arcadis marktconforme arbeidsvoorwaarden. Op onze website vind je meer informatie over ons bedrijf.
+Heb je vragen?
+Voor nadere informatie kun je contact opnemen met Marieke van Herwerden, recruiter, via telefoonnummer +31 (0)6 2706 0689 of via marieke.vanherwerden@arcadis.com. Wij ontvangen graag jouw CV en brief via de sollicitatiebutton in de vacature op www.werkenbijarcadis.nl.
+
+Uitzend-, detacherings- en W&S-bureaus hoeven niet te reageren, acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld.

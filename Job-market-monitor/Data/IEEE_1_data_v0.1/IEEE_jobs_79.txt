@@ -1,0 +1,50 @@
+Lead Data Scientist at MITRE in Washington, DC | IEEE
+
+
+
+                            1+ months                        2018-03-122018-05-20
+
+
+
+
+Lead Data Scientist
+
+                                                            MITRE                                                    
+
+
+Washington, DC 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Do you believe in the missions of the Federal Law Enforcement and Intelligence agencies? Are you interested in solving complex programmatic and technical issues? Do you want to see your development used for critical operations? Then look no further! As a Data Scientist at MITRE you will work on a cutting-edge program focused on some of the most challenging technical issues facing our national security sponsor located in downtown Washington, DC. If you are up to the challenge we are interested in talking to you about MITREs work program and career opportunities. A successful candidate will enjoy working as part of a team and be motivated, self-directed and excited to learn new skills.Key Functions:Apply system/software development principles to implement data sciences techniques that automate data exploitation workflows. Key functions include: identifying technical implementation options and issues; enacting solutions to existing workflow challenges; developing automated methods for ingesting large datasets into an enterprise-scale analytical system; conducting data analysis research and data modeling; and developing prototype data analytics for immediate use in a highly operational environment. The candidate will be expected to work independently, and with analysts, to develop unique analysis workflows.
+
+
+
+
+
+
+
+
+
+
+							Required Qualifications: Active TS Clearance required.  Experience in one or more languages (e.g., Python or Java) and Linux scripting  Understanding of Big Data tools (e.g., NoSQL DB, Hadoop, Mongo DB, ElasticSearch).  Knowledge of SOA, IaaS, and Cloud Computing technologies, particularly in the AWS environment.  Experience with applied data sciences techniques, including but not limited to, machine learning approaches, data visualization, and statistical modeling.  Experience with continuous software integration, test and deployment.  Experience in agile software development paradigm (e.g., Scrum, XP).  The ability to work within a dynamic programmatic environment with evolving requirements and capability goals.  Strong written and verbal communication.Preferred Qualifications: Experience designing and implementing Extract, Transform, and Load (ETL) processes to convert diverse structured and semi-structured data to usable formats for processing.Minimum Qualifications:BS and 3 years related experience.
+ 
+
+
+
+
+
+

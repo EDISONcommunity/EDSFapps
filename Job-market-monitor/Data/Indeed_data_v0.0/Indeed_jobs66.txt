@@ -1,0 +1,53 @@
+Postdoc/Scientist (f/m) Vacature - SRON Netherlands Institute For Space Research - Utrecht | Indeed.nlSRON's mission is to bring about breakthroughs in international space research. Therefore the institute develops pioneering technology and advanced space instruments, and uses them to pursue fundamental astrophysical research, Earth science and exoplanetary research. As national expertise institute SRON gives counsel to the Dutch government and coordinates national contributions to international space missions. SRON stimulates the implementation of space science in our society.
+
+Our Earth Science Group has a vacancy for a
+
+Postdoc/Scientist (f/m)
+
+vacancy nr. 1376
+
+Project Outline
+
+The goal of the project is to quantify aerosol emissions through a data assimilation system that uses novel aerosol data of microphysical and optical properties provided by satellite Multi-Angle Polari-meter (MAP) measurements. It is to be expected that MAP measurements can significantly improve top-down estimates of aerosol emissions. However, at present, there are no data assimilation systems that use the detailed aerosol information that MAP measurements can provide and the added value of these measurements for the estimation of emissions of different aerosol species has not been investigated yet. Starting from an existing ensemble Kalman filter for aerosol, the postdoc will develop a rigorous data-assimilation framework for top-down estimates of aerosol emissions that can cope with the full aerosol information coming from MAP measurements. The developed framework will be evaluated with extensive Observing System Simulation Experiments (OSSEs), where the added value of present and future instrument concepts will be evaluated. Also, the framework will be used to estimate aerosol emissions from one year of PARASOL measurements and relate the Direct Radiative Effect of Aerosols (DREA) to different aerosol sources. The work is highly relevant for climate research as aerosols represent one of the largest uncertainties in our understanding of radiative forcing of climate.
+
+During the project, the postdoc will be supported by a team of experts on remote sensing, aerosol modeling and data assimilation through close collaboration with scientists from SRON, TNO and the Vrije Universiteit (VU Amsterdam). The postdoc will be expected to present their work at international workshops and conferences, building on the international contacts that already exist within the team. For part of the project the postdoc will be located at the VU in Amsterdam.
+
+Requirements
+
+For this interesting and challenging project we are looking for a scientist with a PhD degree in atmospheric science, or (astro-) physics with strong programming skills (preferably in Fortran90 and Python). Experience in the field of data assimilation or aerosol modelling would be an asset. Good knowledge of the English language is essential.
+
+Functional competencies:
+
+Analytical
+Clarity of expression
+Result driven
+
+SRON core competencies:
+
+Innovative
+Focused on collaboration
+Responsibility
+A global player
+Flexibility
+
+Employment conditions
+
+Employment of this full-time position as a Scientist C at SRON-Utrecht is by NWO-I (The Netherlands Organization for Scientific Research Institutes) and will be for a period of 3 years. The salary will be in accordance with the salary scales of NWO with a maximum of € 4,154.00 gross per month on a full-time basis (highly depending on education and relevant experience).
+
+NWO has good secondary employment conditions such as:
+
+An end of year bonus of 8.33% of the gross yearly salary;
+At least 42 days of vacation leave a year on full-time basis;
+An excellent pension scheme;
+Options for (additional) personal development;
+Excellent facilities for parental leave;
+A holiday allowance of 8% of the gross yearly salary.
+
+For further information:
+For further information about the position, please contact dr. Otto Hasekamp (SRON), telephone +31 (0)88 7775863 or dr. Nick Schutgens (VU), telephone +31 (0)20 5987307. More information about SRON can be found at www.sron.nl.
+
+Letter of application
+
+If you wish to apply you can send a motivation letter with CV and the name(s) and address(es) of reference(s) (incl. phone and email) via mail to jobs@sron.nl.
+
+Please state the vacancy number "SRON 1376" in the subject of your mail. Applications will be accepted until 27 June 2018.

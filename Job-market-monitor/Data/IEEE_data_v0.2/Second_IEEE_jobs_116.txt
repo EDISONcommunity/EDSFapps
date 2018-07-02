@@ -1,0 +1,84 @@
+Lead Information Systems Engineer at MITRE in McLean, VA | IEEE
+
+
+
+                            27 days old                        2018-04-112018-06-04
+
+
+
+
+Lead Information Systems Engineer
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+
+MITRE, a Fortune 100 Best Company To Work For, is seeking a Lead Information Systems Engineer.  In this position you will perform duties associated with the design and development of enterprise-wide information systems.  The Senior/Lead Information Systems Engineer is expected to apply expertise across a broad range of engineering disciplines to ensure systems exceed customer expectations.    You will work with senior level DoD, Intelligence Agency, and other government staff members to shape the development of their Information Systems.
+Work as a strong individual contributor, provide thought leadership and technical subject matter expertise and advance capability for the Department domain knowledge and capabilities that align with strategic/significant sponsor needs and challenges. 
+Collaborate with industry, academia, and MITRE Technical Centers, portfolio and program divisions in innovation and research initiatives related to data engineering and information science and help shape the research agenda for the division. 
+Contribute to the technical work program of one or more projects and provide technical guidance and quality products focused on successful sponsor outcomes, including strong support, leadership, and encouragement for the transition of research results to sponsor operations. 
+Provide exemplary leadership, caring mentorship, and collaborative technical advice to staff related to Department domain knowledge or capabilities.
+
+
+
+
+
+
+
+
+
+
+
+Required Skills and Educational Experience
+ 
+PhD with a minimum of 1 year of related experience
+ 
+Data engineering (managing massive data volume, velocity, variety, information cleansing & refinement, information models & architectures)
+Design techniques and tradeoff analysis for scalability, availability, extensibility, redundancy, load balancing
+Cloud computing and virtualization
+Information management
+Software development and scriptingMust have good analytical, written, presentation, and interpersonal communication skills. Must possess a strong aptitude to work in a research-focused program. Able to interact and defend positions with senior DoD officials. 
+Desired Skills
+Software design
+Deep working knowledge of specific tools and technologies (e.g., DBMS, ETL)
+Service Oriented Architecture
+Web services 
+Cybersecurity
+Attribute Based Access Control
+Agile development and agile acquisition
+Information exchange/interface specificationMinimum Qualifications
+ 
+BS and 8 years Experience 
+Categories
+
+
+
+Information Technology 
+
+Computer Programming/Systems 
+
+
+
+
+
+
+
+

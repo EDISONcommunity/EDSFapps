@@ -1,0 +1,103 @@
+Front-End Web Application Developer - ELSYS - 1623 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Front-End Web Application Developer - ELSYS - 1623
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1623
+
+
+
+
+Title: Front-End Web Application Developer - ELSYS - 1623 
+                 JobID: 1623 
+                 Location: Atlanta, GA 
+                 Description: This job is for a full-time research faculty position in the Systems Engineering Software Applications Branch (SESA) performing frontend web development. This position will entail working with senior developers to gain experience in architecting front-end software and eventually leading teams or larger tasks. 
+
+Our research group is predominantly focused on the creation of collaborative, browser-based tools to support large-scale data visualization and systems engineering design for complex systems. 
+We are not a commercial development house, most of the development projects we do are six-month to year-long cycles developing, maintaining or augmenting both full web applications and more specialized browser-based tools for our sponsors. 
+This job affords considerable intellectual freedom to solve our customer's problems within the constraints of a project.  We also strive to use open source software and tools wherever possible. 
+Responsibilities
+* Develop and support of client side for web applications
+* Submit and participate in peer code reviews
+* Writing client side unit and integration tests
+* Participate and contribute to design of web components and functions (UI / UX, larger architectural concerns, backend communication, etc)
+* Communicate clearly and concisely with fellow team members in all domains, including non-technical audiences
+* Additionally, this position may be required to perform other responsibilities as assigned
+Qualifications
+Research Scientist I
+
+A Bachlor’s degree in Computer Science, Computer Engineering, Human System Interaction, or other related technical degree with two years experience in software architecture and development  
+
+Research Scientist II
+In addition to the years-in-rank requirement, this rank requires one (1) of the following:
+
+A Master’s degree  in Computer Science, Computer Engineering, Human System Interaction, or other related technical degree with two years experience in software architecture and development and three (3) years of relevant full-time experience after completion of that degree,
+A Doctoral degree in Computer Science, Computer Engineering, Human System Interaction, or other related technical degree with two years experience in software architecture and development.
+
+* Ability to acquire a clearance
+* Experience with frontend technologies including HTML, CSS, and JavaScript
+* Configuration management tools (e.g. git)
+* Experience with frontend package management (e.g. npm)
+* Familiarity with any flavor of linux operating system and command line environments
+* Familiarity with asynchronous JS programming concepts (e.g. promises, streams, callbacks, etc.)
+
+
+
+
+Categories
+
+
+
+Information Technology 
+
+Marketing/Sales 
+
+Education 
+
+Engineering 
+
+Computer Programming/Systems 
+
+Software Engineering 
+
+Design/Development Engineering 
+
+Computer Engineering 
+
+Faculty 
+
+
+
+
+
+
+
+

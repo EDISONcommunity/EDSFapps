@@ -1,0 +1,119 @@
+Software Systems Engineer,Senior at MITRE in Colorado Springs, CO | IEEE
+
+
+
+                            18 days old                        2018-04-202018-06-04
+
+
+
+
+Software Systems Engineer,Senior
+
+                                                            MITRE                                                    
+
+
+Colorado Springs, CO 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+As a member of our software development team, you will help solve problems critical to our national security in the areas of Command & Control (C2), Space Warfare, and Force Protection. 
+ 
+Key Functions:
+As key member of a sizable, distributed software development team, the successful candidate will have a rich understanding of modern software development concepts and technologies to include Object-Oriented (OO), Service Oriented Architecture (SOA), and Agile, with related programming experience in Java (and one or more other high-level languages such as C#.NET, C++, .NET, Python, etc.).  Additionally, the candidate will have:
+
+hands-on experience with Data Center virtualization and automation and development of applications (e.g., ActiveMQ), and 
+
+software configuration management and maintenance experience, including familiarity with disciplines of maintaining a large codebase over time -- logging, defect management process, root cause analysis. The successful candidate will be responsible for complex system administration functions to include:
+ User account management (Active Directory)
+
+Resource provisioning
+
+Managing user requests
+
+Identifying and monitoring metrics to show health and status of resources and services
+
+Lockdown/Harden Windows Server 2012, Windows 10, RHEL (6,7), ESXi
+
+Lockdown/Harden Applications in accordance to DISA STIGS
+
+Create and maintain (CM) virtual machines
+
+Automate deployment and configuration of virtual machines using CM tools such as Ansible or Puppet. 
+
+
+
+
+
+
+
+
+
+
+Minimum Qualifications:
+ 
+Candidate must be able to demonstrate an ability to apply advanced principles, theories and concepts comparable to those obtained with a Master's degree in a relevant field of study. 
+Candidate should understand the missions, domains and challenges of MITRE customers. In addition, the candidate understands that he/she will be fully responsible for deliverables-including definition, completion, and technical quality, as well as assuring consistency across the responsibility span. 
+ 
+Require qualifications:
+Minimum qualifications include:
+
+Certification in Microsoft (MCSE) or Red Hat (RHCSA) or ten plus years of experience
+
+Experience with CM tools such as Ansible or Puppet
+
+Experience with Cisco products including Nexus switches and UCS servers
+
+Experience with storage administration, particularly EMC VNX and Nimble NASOne or more of the following skill sets or certifications is preferred, however not required:
+
+ Experience with VMware products including:
+
+Vrealize
+
+Vsphere
+
+PowerCLI
+Experience with Oracle DB
+
+Experience with Atlassian Tool Suite
+
+Experience or formally trained in Agile development processes
+
+CCNE certification
+
+CISSP certificationEducation/Experience:  Minimum BS in Computer Science or equivalent/related and 3 years related experience.
+Security Clearance Requirements:
+Minimum clearance requirement:  Ability to obtain Top Secret/SCI clearance 
+Preferred clearance requirement: Current Top Secret/SCI clearance
+ 
+ 
+ 
+Categories
+
+
+
+Engineering 
+
+Robotics 
+
+
+
+
+
+
+
+

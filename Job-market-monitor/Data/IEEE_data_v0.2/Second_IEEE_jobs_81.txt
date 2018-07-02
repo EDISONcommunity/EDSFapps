@@ -1,0 +1,99 @@
+Radar Algorithm Engineer - SEAL - 1475 at Georgia Tech Research Institute (GTRI) in Smyrna, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Radar Algorithm Engineer - SEAL - 1475
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Smyrna, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1475
+
+
+
+
+Title: Radar Algorithm Engineer - SEAL - 1475 
+                 JobID: 1475 
+                 Location: Smyrna, GA 
+                 Description: Job Description
+The Electromagnetic Applications Laboratory (SEAL) of the Georgia Tech Research Institute (GTRI) is seeking technical personnel interested in developing and testing radar data processing algorithms for air and missile defense applications.  Candidates with education or experience in evaluating and assessing radar data processing and multi-sensor fusion algorithms are highly desirable.
+
+Candidates should have a fundamental understanding in one or more of the following areas:
+	
+Control Theory
+Signal Processing
+Random Processes
+Parameter Estimation
+Linear Algebra
+
+
+Candidates shall have or develop an expertise in one or more of the following areas:
+	
+Target tracking, preferably for Air and Missile Defense applications
+Multi-sensor data fusion
+RF and IR discrimination
+Radar resource managers
+Radar signal processing
+Interferometric radar signal processing and tracking
+
+
+Candidates must be very proficient in MATLAB and comfortable coding in large scale modeling and simulation tools
+Software development experience, proficiency in C/C++, and proficiency in version control software such as GIT are a plus
+Candidates must be excellent communicators and have a willingness to brief work to outside organizations
+Be willing to travel approximately 10% time
+Candidates must be US citizens able to obtain a Department of Defense security clearance. Selection process will include passing a pre-employment background screening.
+
+Research Engineer I
+
+Bachelor's Degree in Electrical Engineering.
+
+Research Engineer II
+
+A Master’s degree in Electrical Engineering and three (3) years of relevant full-time experience after completion of that degree,
+
+ABOUT GEORGIA TECH RESEARCH INSTITUTE
+Georgia Tech Research Institute (GTRI) has been recognized as one of Atlanta’s Best Places to Work by the Atlanta Business Chronicle 4 of the last 5 years. GTRI offers competitive pay, excellent benefits, and a great location.  Professional growth opportunities include support for advanced degrees, patent rights, and freedom for approved outside consulting, periodic special courses in technical and leadership topics, and support for the presentation of papers at conferences and symposia. Grow your career at GTRI.
+GTRI employs over 2,000 research faculty, with an annual sponsored research budget of over $370 million.  The important work we do is diverse, challenging, and rewarding. Work with subject matter experts at our Atlanta campus or at the 14 other locations in MD, OH, VA, AL FL HI, TX, CA, AZ, DC, MA and GA.  Research areas include such diverse areas as: Cyber Security, Big Data and Data Intelligence, Computer Science, Software Engineering, High Performance Computing (HPC), Hardware Design, Embedded System Design, Communication Systems Design, High Speed Networks, Electromagnetics (EM) including Radar Systems, Antenna Design, Electronic Warfare (EW), Sensor Design, Intelligent Systems, Systems Engineering and others. 
+
+
+
+
+Categories
+
+
+
+Engineering 
+
+Electromagnetics 
+
+
+
+
+
+
+
+

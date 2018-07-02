@@ -1,0 +1,18 @@
+Data Scientist Vacature - DataVibes - Utrecht | Indeed.nlDatavibes groeit! Maak deze groei mee en zet nu de volgende stap in je carrière! Onze klanten blijven ons overspoelen met interessante opdrachten, en daarom zijn wij op zoek naar uitbreiding van ons team. Ben jij de Data Scientist die we zoeken?
+Wat ga je doen als Data Scientist?
+Als Data Scientist werk je aan big data oplossingen die onze klanten een stap verder brengen richting data-gedreven werken. Je bent verantwoordelijk voor het vinden van antwoorden in enorme hoeveelheden data. Je bent bezig met het opschonen, op orde brengen en organiseren van het data platform. Hierdoor breng je de data op een ander niveau en ben je in staat om modellen te ontwerpen waarmee analyses en voorspellingen gedaan kunnen worden. Ook ben je in staat om processen op het data platform te automatiseren en kun jij hiermee antwoord geven op de vragen van de business.
+Een Datavibes Data Scientist is hands-on, en is in staat data te modelleren en te automatiseren door inzet van technieken zoals Machine Learning.
+Heb jij passie voor data, programmeer ervaring, ben je een goede communicator en actie gedreven? Dan ben jij de Datavibes professional die wij zoeken.
+Jouw Profiel
+HBO/WO werk- en denkniveauMinimaal vijf jaar hand-ons ervaring met het ontwikkelen van data gedreven oplossingenKennis en ervaring van SQL/NoSQL om complexe databronnen te analyseren en transformerenErvaring met werken met grote hoeveelheden ruwe, ongestructureerde dataKennis en ervaring met Data Analytics, Machine Learning, Predictive Modelling en Statistische modellenJe bent bekend met relevante programmeertalen zoals R en/of PythonJe hebt ervaring met (cloud) omgevingen en systemen als Azure, Hadoop, Cassandra, ElasticSearch en SparkBekendheid met methodieken zoals SCRUM/ Agile
+Jouw Competenties
+Leergierig en analytisch sterkFlexibel en pragmatischUitstekende sociale en communicatieve vaardighedenBeheersing van de Nederlandse en Engelse taalProactief en resultaatgericht
+Wat wij jou bieden
+Goede balans tussen werk en privéSociale collega’s opererend in een informele, professionele werkomgevingUitdagende projecten bij toonaangevende opdrachtgevers binnen NederlandVast dienstverbandUitstekende primaire en secundaire arbeidsvoorwaarden o.a.:
+ o Uitstekend salaris
+ o Compleet arbeidsvoorwaarden pakket
+ o Individuele bonusregeling (tot 50% van het jaarsalaris)
+ o Professionele hulpmiddelen
+ o Leaseauto, laptop en telefoon naar eigen keuze
+Wie we zijn: Datavibes!
+Datavibes is een jonge gepassioneerde, frisse organisatie die met enthousiasme en daadkracht expertise bij klanten brengt. Datavibes heeft gekozen voor de cellenfilosofie. De cellen (units) zijn nooit groter dan 10-12 medewerkers. Dit resulteert in een platte, pragmatische, persoonlijke en responsieve organisatie. Binnen Datavibes is iedereen actief betrokken en is niemand een nummer. Er is oprechte interesse in de mens achter de professional. Plezier en professionaliteit gaan hand in hand, resulterend in een cultuur gebaseerd op vertrouwen, ondernemerschap en trots. Een Datavibes professional is een trotse professional.

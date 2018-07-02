@@ -1,0 +1,33 @@
+CVA Data Scientist Vacature - Capgemini - Leidsche Rijn | Indeed.nlAre you eager to be part of a global team of data scientists and business analysts and help Retail and Consumer Product companies to leverage big data technologies and business data lake principles to deliver a holistic view of the customer across three dimensions: transactions – structured data, interactions – unstructured data and the environment – relevant external data
+Data and Analytics | Medior Professional (2-5 jaar), Senior Professional (>5 jaar) | Wo, Hbo
+
+
+
+Insights and data
+|
+
+Banken en Kapitaalmarkten, Verzekeringen, Utilities, Publieke sector, Aerospace en Defensie, Automotive, Consumer Products en Retail, Electronics en High Tech, Gezondheidszorg en Life Sciences, Manufacturing en Industrial Products, Media & Entertainment, Natural Resources, Telecom, Transport & Distributie
+|
+
+Full time
+
+CVA Data Scientist or Business Analyst for Consumer Products & Retail sector
+Are you eager to be part of a global team of data scientists and business analysts and help Retail and Consumer Product companies to leverage big data technologies and business data lake principles to deliver a holistic view of the customer across three dimensions: transactions – structured data, interactions – unstructured data and the environment – relevant external data? Capgemini’s Customer Value Analytics team work with major CP & retail companies worldwide to deliver value in different phases of the customer journey or lifecycle: e.g to acquire new customers by implementing innovative customer sourcing/profiling models. Grow share of wallet by increasing profitability of the existing customer base by building cross sell, up sell or next best action models. And retain customers by identifying churn drivers and building churn propensity models We define Customer Value Analytics as the interplay of data, technology, statistics and business processes to make a decisive impact on the customer journey on order to deliver customer value. This allows Retail and CP companies to take advantage of all channels for both higher customer acquisition and satisfaction, in turn creating tangible financial results such as increasing Sales Revenues, Decreasing Costs to Serve and Improving Working Capital. You will take the lead on both pre-sales and project activities like implementation, change management, business transformation services as well as on-going Business Insights as-a-service models, covering the entire spectrum of value delivery between Business and IT across all phases of initiatives. You and your team enable our customers with advanced (select patented industry best practice) models, processes and visualization libraries relevant for customer experience and customer value analytics initiatives designed specifically for Retail and Consumer Goods companies.
+
+About Capgemini
+With more than 180,000 people in over 40 countries, Capgemini is one of the world's foremost providers of consulting, technology and outsourcing services. The Group reported 2014 global revenues of EUR 10.5 billion. Together with its clients, Capgemini creates and delivers business and technology solutions that fit their needs and drive the results they want. A deeply multicultural organization, Capgemini has developed its own way of working, the Collaborative Business ExperienceTM, and draws on Rightshore®, its worldwide delivery model.
+
+Requirements
+3+ years experience in customer value analytics. Must have hands on expertise in (at least one of) the following areas: CRM, Campaign Management, Marketing, Digital Marketing, Strategy, Category Management, Trade Promotions Management / Optimization, Pricing, Promotion, Supply Shain, Shopper/Loyalty/Consumer Insights & Data.
+Bachelor degree required. MBA / MS preferred (at least one in a quantitative area).
+Able to communicate clearly and concisely, both orally and in writing to business and technology stakeholders.
+Hand on analytics delivery experience with at least one of the following data sources: Loyalty Card, Transaction-Log, POS, Syndicated POS, Promotion / Campaign Calendars, Shipments, Financials, Social Media, Web-logs
+
+What do we offer?
+You will become part of a global team of talented and passionate people. In Capgemini projects, agile is the standard way of working and we offer you the opportunity to work on complex and challenging assignments in a team with other Capgemini colleagues from various disciplines. On top of that, Capgemini offers all possible training and certification facilities, through our Capgemini University. As Data Scientists or Business Analyst you will be part of our worldwide network of customer value data scientist specialists and you will take part in our global team meetings, international career opportunities and thought leadership development initiatives.
+At Capgemini knowledge sharing is one of our top priorities. We organize events where you will learn new techniques and share important developments with colleagues. Participating in international online communities where other Capgemini colleagues discuss methods, developments and projects is very much stimulated. Besides this Capgemini offers you the possibility to keep developing your expertise at the Capgemini University.
+In addition to all facilities and opportunities for personal development, we offer:
+A contract of indefinite durationExcellent facilities for flexible working (from home), a laptop and a SIM-cardA pension contribution26 vacation days (on top of formal Dutch Banking holidays) with the option to buy extra daysA mobility allowance
+
+Interested?
+Are you interested in the role of customer value analytics data scientist? Please contact Erwin Swets via Erwin.swets@capgemini.com. Or apply via the link below.

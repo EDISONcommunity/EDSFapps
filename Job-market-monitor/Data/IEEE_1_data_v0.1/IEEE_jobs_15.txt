@@ -1,0 +1,109 @@
+Software Systems Engineer / Big Data and Machine Learning - 0048490 at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Software Systems Engineer / Big Data and Machine Learning - 0048490
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+Do you want to work on the nation's most important and critical operational challenges? Are you passionate about applying emerging and advanced technology to develop cross-cutting innovative solutions for the defense and intelligence communities? MITRE's Cross-cutting Urgent Innovation Cell (CUIC) is an organization within MITRE that is charged with addressing critically important national security problems. CUIC is bringing together analysis, experimentation, and prototyping together in a unique environment that is structured to optimize innovation, efficiency, and results. CUIC is proactively identifying both user needs and innovative solutions because we are deeply connected to the mission. To foster a culture of innovation, CUIC relies on initiative and enthusiasm from individual staff members. CUIC staff have technical depth and breadth across a range of technologies and mission application spaces. 
+
+ 
+CUIC is a team of inventors, scientists, innovators, and developers, focused on developing real solutions that makes a difference. Much of our daily work involves the adaptation of academic and commercial technology with the ultimate goal of improving national security. As a community, we work on developing better solutions to current challenges, and working together to fundamentally reshape how things are done. 
+ 
+We are seeking individuals with expertise in machine and deep learning, algorithm development, or Big Data software engineering. Candidates do not need experience in all of these areas but should have expert level knowledge and hands-on experience in at least one.  As a member of CUIC, your day-to-day work will be in one or more of the following:
+Apply your knowledge of Machine Learning, Computer Vision, Remote Sensing, or Big Data processing to nationally important problems by developing prototype software to measure the feasibility of an algorithm/approach.
+Adapt research done in academia and industry to our sponsors uniquely challenging data sources and problems sets.
+Code in MATLAB, Python, C++, Java or other languages for prototyping/testing algorithms and software tools in a team environment.
+White-board (i.e. brainstorming, problem solving) with experienced technical staff to develop solutions for challenging problems, working with a small team to implement/test those solutions, and quantifying their accuracy.
+Analyze data from cutting-edge sensor systems including video, infrared, hyperspectral, and others.
+
+Conduct quantitative data analysis using a variety of datasets to identify, monitor, and explore operations.
+
+Design and develop retrieval, processing, fusion, analysis, and visualization of various datasets. In addition, the individual will be leveraging backend/frontend software and utilizing/integrating various data platforms to support rapid analytics including the use of data visualization tools. 
+
+Keep current with computer vision and machine learning research to replicate and baseline new techniques published in academia
+Learn new techniques and approaches on-the-job by leveraging both structured educational content, as well as expertise from team members.
+
+
+
+
+
+
+
+
+
+
+Minimum Qualifications:
+BS and 3 years related experience
+
+*Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements.Required Qualifications:
+Bachelor's degree and 3 years of experience in Computer Science, Data Science, Applied Mathematics/Statistics, Operation Research, or other physical science/engineering fields.
+
+Strong problem-solving skills and capable of working with scientists, analysts, and technical software developers across several technical disciplines. 
+
+Strong software development and/or algorithmic scripting skills, preferably with knowledge of machine learning and/or deep learning frameworks.Preferred Qualifications:
+4 years of experience working technical challenges associated with machine learning and/or computer vision.
+
+Domain knowledge of machine learning and computer vision techniques for classification, detection, key attribute extraction, segmentation, or activity detection. 
+
+Hands-on experience using computer vision and machine learning libraries such as Caffe, TensorFlow, Torch, SciPy, OpenCV
+
+Practical experience in statistics. 
+
+Excellent written, oral, and interpersonal communication skills and a keen desire to learn.
+
+Familiar with how to retrieve data from databases and other systems and tools using queries, exporting capabilities, and other effective methods.
+Fully responsible for deliverables-including definition, completion, and technical quality, as well as assuring consistency across the responsibility span.
+Object-oriented programming and principles, in Python, C++, or Java.
+Some hands-on experience with Big Data systems/tools, e.g. Hadoop, Cloudera, Horton Works, IBM Insights, MongoDB, Spark, Storm, HDFS, HBase, Accumulo, HIVE, PIG, SQL, Cassandra. Kafka and equivalents.
+Experience in Data Modeling and Architecture.
+Familiarity with data analysis and visualization in Python. 
+TS/SCI level clearance 
+Categories
+
+
+
+Information Technology 
+
+Engineering 
+
+Computer Programming/Systems 
+
+Software Engineering 
+
+Instrumentation and Measurement 
+
+
+
+
+
+
+
+

@@ -1,0 +1,89 @@
+Cyber Engineer at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-05-27
+
+
+
+
+Cyber Engineer
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+
+MITRE's Air Force (AF) Cyber Infrastructure Department seeks a passionate, creative Cyber Engineer to support cyber resiliency in cloud-based and virtualized environments, as well as enterprise networks. The Cyber Engineer will discover and develop solutions that allow AF systems to anticipate, withstand, and recover from cyber threats.
+Cyber Engineer tasks may include:
+
+Collaborating with MITRE staff, project sponsors, and military personnel to develop and deliver practical solutions to warfighter problems
+Building and testing architectural prototypes in MITRE labs to validate assumptions related to back-up and failover methodologies
+Exploring the use of virtualization to introduce non-persistence and maneuver operations into contested data center environments
+Investigating the use of software defined networks (SDN) to dynamically redirect a bad actor into a mirrored, realistically simulated environment
+Assessing commercial and government cloud service providers against cyber security-related risks
+Using enterprise tools, such as Splunk, to detect network anomalies
+Researching and prototyping cyber analytic solutions to detect and mitigate advanced persistent threats
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Desired Skills (nice to have):
+
+Hands-on experience with VMware ESXi or other hypervisors (management and configuration)
+Advanced experience with programming and scripting
+Understanding of networking protocols such as Ethernet, IP, TCP/UDP (management and configuration)
+Ability to write and present technical material in the form of proposals, white papers, technical reports, and presentations
+
+ 
+Required Education:
+BS and 0-4 years of relevant work experience.
+
+Minimum Qualifications:
+Bachelor's Degree in Computer Science or Computer Engineering or similar field. Candidate should possess the ability to be responsible for deliverables or parts of deliverables to MITRE customers
+ 
+Level2
+ 
+Secret.
+ 
+Categories
+
+
+
+Information Technology 
+
+Computer Engineering 
+
+
+
+
+
+
+
+

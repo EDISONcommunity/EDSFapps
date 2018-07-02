@@ -1,0 +1,94 @@
+Information System Security Manager - RSD - 1644 at Georgia Tech Research Institute (GTRI) in Washington, DC | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Information System Security Manager - RSD - 1644
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Washington, DC 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1644
+
+
+
+
+Title: Information System Security Manager - RSD  - 1644 
+                 JobID: 1644 
+                 Location: Washington, DC 
+                 Description: This is a full time opportunity with GTRI’s Research Security Department in the Arlington Field Office. The position is for an experienced Information Assurance Manager who has interest in intellectually challenging and rewarding work. We value bright, intellectually curious, growth oriented professionals and provide a work environment that allows work / life balance and opportunity for growth.
+
+POSITION SUMMARY: (Responsibilities include, but are not limited to:)
+Manage Information Security for a world class applied research organization.  
+This position is for an Information System Security Manager (ISSM). The ISSM is responsible for managing all information system security requirements for GTRI’s accredited information systems (AIS) at Arlington Field Office and assuring continuous system compliance with systems accrediting organizations. The successful candidate will have the detailed knowledge and expertise required to manage all security aspects of information systems across several domains and oversee the day-to-day security operations of each system, associated media and networks. Responsibilities also include Communication Security (COMSEC); Serve as Alternate Facility Security Officer to include physical and environmental protection, personnel security, incident handling, and security training and awareness; Provide technical assistance to include the support of unclassified networks, possibility of the support project work, and additional duties as required.  The ISSM is the on-site lead for monitoring information systems and maintaining the environment of operation to include developing and updating System Security Plans in accordance with Risk Management Framework (RMF); Ensuring Configuration Management (CM) of all associated hardware, software, and security relevant functions is maintained and documented;  identifying security deficiencies/discrepancies and providing recommendations for solutions; tracking findings within Plan of Action and Milestones (POA&M) through mitigation and risk acceptance; managing and controlling changes to the systems; conducting scheduled audits; managing audit collection and data; incident response;  participating in self-inspections; reporting security incidents and preparing security incident reports; preparing for and participating in security vulnerability assessments; and assessing the security impact of security and non-security-relevant changes. 
+The successful candidate will have demonstrated deep technical and Industrial Security knowledge as well as provided comprehensive IA support through a system’s full lifecycle. In addition, the candidate should be able to research policies and regulations productively interact with various agencies and levels of management and contribute to establishing and maintaining accredited information systems.
+REQUIREMENTS THAT MUST BE MET TO BE CONSIDERED FOR THIS POSITION:
+Research Associate I
+
+A Bachelor's degree in Computer Engineering, Electrical Engineering, Computer Science, or Information Assurance/Security or related fields
+
+Research Associate II
+
+A Master’s degreein Computer Engineering, Electrical Engineering, Computer Science, or Information Assurance/Security or related fields and three (3) years of relevant full-time experience after completion of that degree,
+
+
+US Citizenship AND the ability to get a security clearance within 6 months
+Must possess current Security+, CISA,  Linux+, MS Server, and/or other applicable certifications supporting DoD Directive 8140 /8570.01-M for Information Assurance Technician or the ability to obtain and maintain certs within 6 months of start date
+Should have experience with FISMA directives, NIST 800, RMF, NISPOM, ISFO and DAAPM.
+Experience providing COMSEC support and working with Controlled Cryptographic Items (e.g. key loading devices and encryptors). 
+Experience with information systems Incident Response Teams
+Experience with or have worked as one or more of the following positions:  Linux Administrator (Linux+), Windows Administrator (all OSs including legacy systems), Generic/Proprietary System Administrator, Information System Auditor, Information Systems Security Officer/Engineer, Systems Analyst, Security Analyst, Network Control Technician.
+Experience identifying system vulnerabilities and implementing mitigation strategies. Staying current with mitigation techniques and security techniques.
+
+ADDITIONAL PREFERRED REQUIREMENTS
+
+Excellent written,  verbal communication skills, and detail oriented
+An active security clearance is a major plus
+Experience in an environment and culture steeped in teamwork and collaboration working on challenging technical projects
+Self-motivated with problem solving skills.
+Project Management and  Leadership
+
+Salary: 90-120K
+ABOUT GEORGIA TECH RESEARCH INSTITUTE
+GTRI is a great place for intellectually curious, world class technology oriented engineering and scientific talent to work. Our projects are challenging, expanding and cutting edge applied research. In addition we offer competitive pay, excellent benefits, professional growth, freedom for approved outside consulting, and a defined career growth strategy.
+GTRI employs over 1200 world class engineers and scientists. We recruit talent from such diverse areas as: Cyber Security Jobs, Big Data Jobs and Data Intelligence Jobs, Computer Science Jobs, Software Engineering Jobs, High Performance Computing Jobs ( HPC Jobs ), Hardware Design Jobs, Embedded System Design Jobs, Communication Systems Design Jobs, High Speed Networks Jobs,  Electromagnetics Jobs ( EM Jobs ) including Radar Systems Jobs, Antenna Design Jobs, Electronic Warfare Jobs, Sensor Design Jobs, Intelligent Systems Jobs, Systems Engineering Jobs and others. 
+
+
+
+
+Categories
+
+
+
+Information Technology 
+
+
+
+
+
+
+
+

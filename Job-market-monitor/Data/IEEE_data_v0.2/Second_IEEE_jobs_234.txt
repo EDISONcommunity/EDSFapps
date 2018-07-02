@@ -1,0 +1,80 @@
+Machine Learning, Research Officer at National Research Council Canada | IEEE
+
+
+                            6 days old                        2018-05-022018-06-01
+
+
+
+
+Machine Learning, Research Officer
+
+                                                            National Research Council Canada                                                    
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+3121
+
+Job TypeEmployee
+Job StatusFull Time
+
+
+
+
+Help bring research to life and drive your career forward with the National Research Council of Canada (NRC), Canada's premiere research and technology organization.
+ 
+We are looking for vibrant and dynamic Research Officers to support NRC’s Digital Technologies Research Centre (NRC-DT). The Research Officer would be someone who shares our core values of Integrity, Excellence, Respect and Creativity.
+ 
+The primary responsibility of the researcher in this position is to support the goals of NRC and the activities of the Digital Technologies Research Centre in conducting research of international calibre in machine learning, and the development and application of modern machine learning methods to computer vision, natural language processing, artificial intelligence, cyber-security, life sciences, engineering or manufacturing. The researcher will work in a team environment with other researchers and technical experts in world-class facilities. The researcher will be called on to participate in international evaluations or demonstrations of the team’s applied technologies. 
+Requirements
+Experience
+
+Significant experience building statistical, machine learning or artificial intelligence systems applied to computer vision, natural language processing, cyber-security, life sciences or engineering.
+Significant experience in a team working on the development of large-scale systems.
+Experience creating novel algorithms or new capabilities in machine learning or by using machine learning.
+Significant experience training statistical or machine learning systems in a “big data” environment and high performance computing would be an asset.
+Experience in participating in international competitions or shared tasks in machine learning, computer vision, natural language processing, cyber-security, life sciences or engineering would be an asset.
+Experience creating a significant publication record in top conferences and journals.
+
+ 
+Technical Competencies
+
+Knowledge of modern statistical and machine learning techniques, including deep learning.
+Advanced knowledge of the application of machine learning to at least one of: computer vision, natural language processing, artificial intelligence, cyber-security, life sciences, engineering or manufacturing.
+Ability to publish high-quality research papers in at least one of the areas: machine learning, computer vision, natural language processing, cyber-security, life sciences or engineering.
+Ability to iteratively improve system performance through systematic empirical evaluation.
+Knowledge of Linux/Unix, programming and scripting languages such as C/C++, Java, Perl, Python, or Shell, as well as some machine learning frameworks.
+Knowledge of techniques for running advanced algorithms in a “big data” and high performance computing environment, including knowledge of the use of GPUs.
+
+ 
+Education
+PhD Computer Sciences, Engineering or similar discipline
+ 
+***Please go to the National Research Council Careers website to apply, job requisiton 3121**
+Categories
+
+
+
+Computer Programming/Systems 
+
+Computer Engineering 
+
+Research 
+
+
+
+
+

@@ -1,0 +1,72 @@
+Java Software Engineer Vacature - CodeGuild - Zeist | Indeed.nlVacature: Java Software Engineer Zeist
+
+Help jij cruciale instanties voor Nederland gebruik maken van de vele mogelijkheden van enterprise mobile?
+
+Werkt jij graag meer zeer kundige software engineers om deze technologie uit de kinderschoenen te halen?
+
+Bouw jij graag mee aan innovatie mobiele toepassing voor o.a de zorg sector?
+
+Heb je ervaring met Java8 en werk je hiernaast graag met Angular, React Native, Ionic en HTML5?
+
+Dan is dit de baan voor jou!
+Jouw werkgever: Help de top 250 van het Nederlandse bedrijfsleven met een totale mobiele transformatie
+De mobiele telefoon is niet meer weg te denken uit ons leven. Gek genoeg loopt de zakelijke markt hier enorm op achter. De top 250 van het Nederlandse bedrijfsleven hebben vaak geen idee welke voordelen mobiele toepassingen kunnen hebben voor de bedrijfsvoering, laat staan dat zij de juiste kennis in huis hebben. En dat is nu juist het gat wat deze organisatie opvult. De top 250 van het Nederlandse bedrijfsleven mobiel transformeren!
+
+Na jarenlang te hebben gebouwd aan hun propositie spelen zij een fundamentele plaats in binnen Nederland op dit gebied. De top van het Nederlandse bedrijfsleven weet inmiddels de weg naar hen moeiteloos te vinden. Daarom groeien ze hard en is er altijd ruime keuze aan uitdagende projecten voor jou en jouw toekomstige collega’s. Je werkt altijd met een team van collega’s op locatie van de klant. Geen detachering en geen gemengde teams. Altijd inhouse bij de klant met jouw collega’s werken aan langlopende projecten. (6 maanden tot 2 jaar). Hierdoor ben jij van A tot Z betrokken en zal je altijd bouwen aan de hand van jullie eigen (hoge) standaarden.
+
+Jouw werkgever weet op ingenieuze wijze back end, mobile en data science te combineren in innovatieve mobiele toepassingen. Deze mobiele toepassingen ga je ontwikkelen voor o.a voor de sectoren zorg, finance en energie. Jouw klant zal je echter nooit vertellen wat je moet gaan doen. Jij bent de specialist dus ga jij de klant adviseren welke mobiele toepassingen van meerwaarde zijn. Dus veel vrijheid om echt nuttige software te bouwen. De projecten worden altijd o.b.v. van Scrum gebouwd met een multi-disciplinair team van collega’s. Met een P.O die al het non technische geneuzel weg haalt bij het team, hoe fijn is dat?
+
+De organisatie kan echt gezien worden als een warm nest van ambachtslieden. Die zich bezighouden met serieuze vraagstukken uit de top van het bedrijfsleven. Je vindt hier een goede mix van ervaring en achtergrond. Zo werk je samen met back end engineers, full stack developers, mobile engineer en data scientist. Zo is er altijd wel ruimte voor een interessant (technisch) dialoog tijdens een van de kennissessies. Deze sessie worden gehouden vanuit hun een adembenemende villa in de regio Utrecht.
+
+Lijkt jou dit leuk?
+Jouw rol: Java Software Engineer Zeist
+In jouw rol als Java Software Engineer Zeist mobile werk je voornamelijk op locatie van de klant . Hierdoor zie je als geen ander wat jou en jullie werk voor hen betekent. Zo kun je echt een impact maken, wat veel voldoening geeft. Naargelang jouw wens is dit altijd in Amsterdam, Utrecht of regio Arnhem. De vraag is dusdanig groot dat jij echt kan kiezen wat het beste bij je past (Qua locatie en type opdracht). Nooit een opdracht doen met tegenzin , omdat het nou eenmaal moet. Hoe lekker is dat?
+
+De ene keer ontwikkel je een mobiele toepassingen voor de ambulance, waarmee sneller en beter noodsituaties kunnen worden afgehandeld. Jullie software helpt dan ook gewoonweg levens redden ! De andere keer help je interne bedrijfsprocessen mobiel te maken van een van de grootste kapitaalkrachtige financiële instellingen van Nederland met meer dan 40.000 concurrent gebruikers . Hierdoor kun je kiezen voor de beste technologieën en werk je aan uitdagingen waar je je echt even goed in moet vastbijten.
+
+Je werkt Java Developer altijd samen met een groep van zeer gepassioneerde full stack software engineers, mobile engineers en data Scientist . Jouw collega’s zijn slim, integer, maar zeker ook kritisch. Men doet veel aan kennisdeling, gaan altijd voor het beste resultaat, zonder de wensen van de klant uit het oog te verliezen. Men deelt een grote voorliefde voor technologie, maar vooral de toepassing. Zo zijn al jouw collega’s full stack en hebben naast een gedegen back end kennis ook een diepgaande kennis van JavaScript/Angular en/of Mobile technologie.
+Doorgroeimogelijkheden
+Als Java Software Engineer Zeist krijg je hier voldoende ruimte om met de organisatie mee te groeien. Je verder ontwikkel tot senior, Lead of Architect. Allemaal mogelijk, maar de keuze is aan jou! Voor de ondernemende engineer zijn hier veel mogelijkheden . Zie jij mogelijkheden binnen een top 250 bedrijf om hen middels mobiele toepassingen hen te helpen, dan ga jij samen met de commercieel directeur een businesscase maken om deze klant te gaan bedienen. Hoe gaaf is dat?
+Wat is er nodig?
+
+Vanaf 2 jaar professionele ervaring met Java software engineering
+
+Ervaring met moderne tools zoals spring en Hibernate is een pre
+Ervaring met Gradle, Maven, Jenkins en of Git is een pre
+
+Ervaring met JavaScript, Angular en/of HTML5 is een pre
+
+Ervaring met Ionic en/of Xamarin is een pre
+
+Ervaring met TDD, CI en/of CD is een pre
+
+Ervaring met test automatisering is een pre
+ervaring met Scrum en/of DevOps is een pre
+
+Wat wordt er geboden?
+
+Salaris tussen de € 40.000 en € 75.000 o.b.v. kennis en ervaring
+
+Mobiliteit vergoeding van € 750 per maand boven op je salaris
+
+Mogelijkheid tot 32,36, 40 of 4x9 werken
+
+Zeer gunstige bonusregeling
+
+Uitstekende pensioenregeling
+
+25 vakantiedagen
+
+Thuiswerkmogelijkheden
+
+Zeer flexibele werktijden
+
+Mobiele telefoon en laptop naar keuze
+
+€ 45 euro nette onkostenvergoeding
+
+Wil jij graag als Java Developer in Zeist helpen de top van het Nederlandse bedrijfsleven mobiel te transformeren?
+
+Reageer dan snel! Stuur jouw C.V. naar s.warbout@codeguild.nl
+
+Voor al onze Java Software Engineer vacatures in Zeist kijk in de CodeGuild hall op www.codeguild.nl

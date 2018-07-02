@@ -1,0 +1,51 @@
+Semantic Analysis Interoperability Engineer at MITRE in McLean, VA | IEEE
+
+
+
+                            27 days old                        2018-04-112018-06-04
+
+
+
+
+Semantic Analysis Interoperability Engineer
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+As our Semantic Analysis and Interoperability Engineer, you will apply deep domain knowledge of DHS, DoD and/or intelligence community (IC) data tagging (indexing) practices to conduct analysis and influence decisions associated with implementation of data strategies for large-scale system/application integration and cloud migrations. Responsibilities will include: Providing advice on technical issues, particularly development and uses of ontologies, namespaces, and mappings and methods of maintaining a machine-driven architecture that enables the collaboration of computers and humans across the multi-fabric to identify, access, extract, reason, interpret and maintain critical information to perform meaningful analysis. Collaborating with other technical teams to identify and resolve technical issues concerning architecture and design architecture artifacts for information sharing and data integrity, including addressing instances where standards and metadata requirements are not met, that is: dealing with dirty or poor-quality data. Facilitating technical approaches to information sharing and data analysis integrity throughout a multi-fabric such that data remains in a flexible, usable format for an interoperable use of data analytics.
+ 
+
+
+
+
+
+
+
+
+
+
+Requirements BS degree in Engineering or other applicable technical field Ability to obtain and maintain TS/SCI Experience with technical integration support, including data integration or fusion, and testing or validation of software designed for data integration, exploitation, and visualization. Expertise in at least two of the following areas is necessary: o Extract, transform, and load (ETL) and database prototyping experience with Hadoop, SQL and NoSQL, natural language processing (NLP), or related approaches o Data migration experience including cloud services such as AWS and Open Source products o Experience with data standards and issues to include use of coarse and fine grained attribute-based authentication and authorization controls to access and manipulate data o Expertise with data analytics tools for business intelligence, data sciences, and related query languages o Familiarity with TCRI (Tactical Cloud Reference Implementation) framework o Experience in an intelligence community environment, especially supporting information exchanges with data at multiple security classifications and sensitivity levels
+ 
+
+
+
+
+
+

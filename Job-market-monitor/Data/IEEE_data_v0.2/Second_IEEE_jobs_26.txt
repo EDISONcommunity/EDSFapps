@@ -1,0 +1,59 @@
+Sr. Software Developer, Data Analytics at MITRE in Bedford, MA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-05-20
+
+
+
+
+Sr. Software Developer, Data Analytics
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Join the Data Analytics team where you will provide software development, algorithm development, and data analytics (to include big data analytics, data mining, and data science) to enable data-drive decisions and insights. Experience with analytic techniques and methods (e.g., supervised and unsupervised machine learning, link analysis, and text mining) as well as software languages is a must. Software languages and big data technologies needed include: Java, Python, R, C#, C, SAS, analytic engines, Hadoop, parallelized analytic algorithms, and NoSQL and massively parallel processing databases. The successful candidate will have the ability to formulate problems, prototype solutions, and to analyze result.Key Functions: The candidate will be able to design and implement solutions for data/information integration, discovery, analysis, and visualization in large-scale data driven environments Apply software systems engineering methods and tools across the system lifecycle to large and complex data systems Perform requirements engineering, and systems analysis for the integration of legacy functions and data into enterprise-level data management systems
+
+
+
+
+
+
+
+
+
+
+							Required Qualifications: Hands-on software development skills (Java, C++, C#, python, Javascript) with web services and web application technologies, database design and implementation (relational and NoSQL), data modeling, data analytics and visualization, and cloud-based technologies. Experience with the Map Reduce programming model and technologies such as Hadoop, Hive, and Pig is a plus.Preferred Qualifications:Minimum Qualifications:BS and 3 years related experience.
+ 
+Categories
+
+
+
+Information Technology 
+
+Computer Programming/Systems 
+
+
+
+
+
+
+
+

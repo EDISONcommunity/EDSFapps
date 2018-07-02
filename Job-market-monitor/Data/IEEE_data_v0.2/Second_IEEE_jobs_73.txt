@@ -1,0 +1,86 @@
+High Performance Computing Researcher SEAL 939 at Georgia Tech Research Institute (GTRI) in Smyrna, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+High Performance Computing Researcher SEAL 939
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Smyrna, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+939
+
+
+
+
+Title: High Performance Computing Researcher SEAL 939 
+                 JobID: 939 
+                 Location: Smyrna, GA 
+                 Description: High Performance Computing Researcher – SEAL 939
+The Georgia Tech Research Institute (GTRI) in Atlanta, GA is looking for High Performance Computing Reseachers who can think outside of the box and don’t want to do the same old thing every day. We value bright, intellectually curious, growth oriented professionals and provide a work environment that allows work / life balance and opportunity. Check out your opportunities at GTRI.
+You will develop High Performance Computing capability for faster sensor processing systems. This opportunity is within GTRI’s Sensors and Electromagnetic Applications Laboratory whose researchers investigate and develop radio/microwave frequency sensor systems. Responsibilities include design and architecture development of state-of-the-art applications and complex real-time algorithms used for radar and other sensors.
+REQUIREMENTS THAT MUST BE MET TO BE CONSIDERED FOR THIS POSITION:
+
+Master’s or Ph.D. in Computer Science, Electrical Engineering, Computer Engineering, Math, or Physics
+US Citizenship AND/ OR the ability to get a security clearance
+4+ years of related experience in HPC software design / architecture.
+Multi-threaded programming (e.g., pthreads, OpenMP, TBB, etc.)
+Performance programming (e.g., vectorization, cache-aware algorithms, low-level optimization, profile-driven development)
+Heterogeneous / accelerator programming (e.g., GPUs or Xeon Phi using CUDA, OpenCL, etc.)
+A background in signal processing and/or linear algebra
+Familiarity with high-speed networking (e.g., 10/40 GbE, Infiniband)
+An understanding of computer architecture as it relates to both high level HPC design and low-level optimization
+Able to program in C/C++
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+A sound understanding of algorithmic complexity
+Ability to work both independently and as part of a distributed team
+Distributed and parallel programming (e.g., MPI)
+A background in radar applications and related algorithms
+Experience with real-time operating systems
+
+ABOUT GEORGIA TECH RESEARCH INSTITUTE
+GTRI has been recognized as one of Atlanta’s Best Places to Work by the Atlanta Business Chronicle 4 of the last 5 years. GTRI offers competitive pay, excellent benefits, and a great location.  Professional growth opportunities include support for advanced degrees, patent rights, and freedom for approved outside consulting, periodic special courses in technical and leadership topics, and support for paper preparation and presentation.
+The Georgia Tech research Institute is hiring the best and brightest curious professionals to join their research teams delivering real-world results to government and industry partners. GTRI employs over 900 research faculty, with an annual sponsored research budget of over $300 million.  The important work we do is diverse, challenging, and rewarding. Work with subject matter experts at our Atlanta campus or at the 14 other locations in MD, OH, VA, AL FL HI, TX, CA, AZ, DC and GA.  The sky is the limit when it comes to growing your career and professional interests in such diverse areas as: Cyber Security Jobs, Big Data Jobs and Data Intelligence Jobs, Computer Science Jobs, Software Engineering Jobs, High Performance Computing Jobs ( HPC Jobs ), Hardware Design Jobs, Embedded System Design Jobs, Communication Systems Design Jobs, High Speed Networks Jobs,  Electromagnetics Jobs ( EM Jobs ) including Radar Systems Jobs, Antenna Design Jobs, Electronic Warfare Jobs( EW Jobs ), Sensor Design Jobs, Intelligent Systems Jobs, Systems Engineering Jobs and others.
+You can learn more about GTRI and career opportunities by visiting us at: http://www.gtri.gatech.edu
+
+
+
+
+Categories
+
+
+
+Electromagnetics 
+
+
+
+
+
+
+
+

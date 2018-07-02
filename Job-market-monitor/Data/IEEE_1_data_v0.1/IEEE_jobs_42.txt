@@ -1,0 +1,96 @@
+Physics Modeling and Simulation Sr. Engineer - EOSL-1375 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Physics Modeling and Simulation Sr. Engineer - EOSL-1375
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1375
+
+
+
+
+Title: Physics Modeling and Simulation Sr. Engineer - EOSL-1375 
+                 JobID: 1375 
+                 Location: Atlanta, GA 
+                 Description: Degree: Master's; Ph.D.
+
+Experience:  7+ years of professional
+Travel Required: Up to 25% time, but typically far less
+Job Description
+This job is for a full time research faculty position in the Electronic Warfare Analysis Modeling and Analysis Division (EWMAD) within the Electro-Optical Systems Laboratory (EOSL) at Georgia Tech Research Institute (GTRI).  Responsibilities include modeling, simulation and analysis as well as developing innovative solutions for EO/IR algorithms to support Electronic Warfare (EW) research.
+EWMAD performs modeling, simulation, and analysis in support of various Electro-Optical Counter Meastures, Physics and Missile Warning Systems EW studies, including aircraft self-protection, countermeasures, scene generation, laser warning, scattering, propagation and turbulence, and EO/IR signature modeling. Our team has a diversity of backgrounds and skillsets, and a typical project team is composed of programmers, EO/IR engineers Physicists and Countermeasures experts.  While our work is applied research, it runs the gamut from "blue sky" concepts for the future battlespace to modeling-based solutions to be fielded on today's aircraft. 
+We offer a flexible work environment allowing each researcher to pursue his or her interests and strengths, integrated with the overall mission of the branch and the lab.  If you have aspirations for an advanced degree, all the better.  Because GTRI is a research unit within Georgia Tech, you can get your graduate school paid for and pursue a degree in pretty much any engineering, science or math field you desire from a world class research institution.  We highly encourage our research developers to pursue advanced technical degrees and professional development courses.
+Requirements:
+
+Write software to model various EW systems
+Assist in the design, development, and demonstration of EW simulation experiments
+Develop and integrate scripts to allow researchers to gather and analyze critical data from the simulation runs
+Perform analysis on the simulations to determine the efficacy of EW techniques and optimize the techniques
+Document analysis and maintain configuration management of all software and experiments
+Travel may be involved, as project work may occur in Atlanta or at a location other than Atlanta
+	Preferred Skills:
+
+
+
+Experience in 1 or more programming languages
+Task / team leadership experience
+Strong math skills and ability to learn complex engineering concepts
+Familiarity with Linux and open source tools
+Configuration management tools
+Ability to clearly communicate technical ideas to non-technical audience
+Ability to work independently as well as in a dynamic team environment
+
+Other:
+
+Candidate must have active Secret DoD security clearance.
+
+ABOUT GEORGIA TECH RESEARCH INSTITUTE:
+GTRI is a group of world-class engineers and scientists, solving challenging problems for our customers through innovation, cutting edge applied research, and a collaborative work environment. 
+We have been recognized as one of Atlanta’s Best Places to Work by the Atlanta Business Chronicle 4 of the last 5 years, and offer competitive pay, excellent benefits, and a great location.  Professional growth opportunities include support for advanced degrees, patent rights, and freedom for approved outside consulting, periodic special courses on technical and leadership topics, and support for paper preparation and presentation.
+ 
+
+
+
+
+Categories
+
+
+
+Engineering 
+
+Electronics Engineer 
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+Stagiair – Data Scientist Vacature - BPSolutions - Driebergen | Indeed.nlStagiair(s): Data Scientist
+Wat zoeken wij?
+BPAnalytics, de Data Analytics tak van BPSolutions, is op zoek naar twee stagiaires op het gebied van Data Science die ons kunnen helpen met onderzoek en ontwikkeling van een aantal innovatieve concepten op het gebied van data analytics.
+
+Beschikbare onderwerpen:
+
+Onderzoek en Ontwikkeling van AI-oplossingen in samenwerking met IBM met Watson technologie
+Toepassing van real-time Healthcare data (Ziekenhuizen) in de verbetering van de patiënt journey
+Omzet-winst optimalisatie modellen in de fitness branche
+Wat zoeken wij?
+Een data scientist met gedegen kennis van machine learning, scripting en statistiek én met jouw creatieve geest help je de organisatie vandaag data gedreven oplossingen te vinden voor morgen. Experimenteren met nieuwe algoritmen en tools geven je energie. Herken jij je in deze omschrijving, check dan je profiel en reageer snel. Vertel ons jouw verhaal. Wij zijn benieuwd! Als je goed bent, kun je bij ons nog beter worden. Dat beloven wij je!
+
+BPSolutions is een IT-organisatie waar kwaliteit en klantgerichtheid voorop staan. Wij leveren oplossingen en diensten aan organisaties van elk formaat, waarbij we onze klanten graag ontzorgen en streven naar een eindresultaat dat de verwachtingen overtreft.
+
+Onze medewerkers zijn echte teamspelers. Wij werken samen in een open en informele sfeer. Wij hechten belang aan flexibiliteit en geloven in het nakomen van afspraken met klanten én collega’s. Daarnaast vinden wij integriteit ook heel belangrijk. Wij willen vooroplopen als het gaat om (cloud)oplossingen. Vandaar dat wij onze medewerkers stimuleren relevante opleidingen te volgen en zodoende aan hun persoonlijke ontwikkeling blijven werken.
+
+Wij bieden
+In deze opdracht bieden we een uitdagende omgeving waarbij je niet alleen binnen BPSolutions samenwerkt, maar ook kennismaakt en samenwerkt met een van de meest vooraanstaande Artificial Intelligence bedrijven ter wereld, IBM.
+
+BPSolutions heeft daarnaast state of the art infrastructuur & high performance Cloud omgevingen beschikbaar die gebruikt kunnen worden.
+
+Inhoud van de functie
+Als Stagiair Data Scientist graaf je diep in de data die beschikbaar zijn. Je haalt patronen uit data, toetst hypotheses, pakt de meer complexe vraagstukken op en voert statistische onderzoeken uit. Het resultaat is dat je onze klant helpt om van data informatie te maken welke tot nieuwe inzichten leiden.
+
+Je weet je stakeholders op juiste wijze te prikkelen en te betrekken. Je kunt je ideeën en resultaten goed over de bühne brengen en kan verschillende communicatiestijlen toepassen. Je hebt altijd een blik naar buiten en volgt de markt op nieuwe (Big) data gerelateerde onderwerpen, b.v. technologie, data en toepassingen en vertaalt bevindingen naar concrete mogelijkheden voor de klant. Je participeert in initiatieven m.b.t. innovatie en data aspecten die relevant zijn voor de klant en je onderhoud zelfstandig relatienetwerken hierover.
+
+Concreet betekent dit dat je data voorbereidt voor het doen van analytische onderzoeken. Je past statistische methodes, modellen & algoritmen toe om inzichten uit data (gestructureerd & ongestructureerd) te verkrijgen. Binnen het team ben jij de stabiele factor, je helpt het team op technisch vlak verder en zorgt dat de kennis in het team op een hoger niveau komt.
+
+Persoonlijke vaardigheden
+
+Onderzoekend, nieuwsgierig en gedreven;
+Communicatief sterk en besluitvaardig;
+Ondernemend en enthousiasmerend;
+Je bent creatief en denkt out-of-the-box.
+Opleiding & skills
+
+WO opleiding met sterke affiniteit met cijfers (bètawetenschappen) en/óf Informatica/Informatiekunde/Wiskunde en een natuurlijke interesse in mensen (alfawetenschappen);
+Ervaring met ten minste één scripting taal (bijvoorbeeld R of Scala) en één programmeertaal (zoals Python of C++) en databases (bv SQL, NOSQL);
+Ervaring met machine learning;
+Analytisch sterk, statistisch onderlegd, toepassen van algoritmes, datamodellering, affiniteit met visualisaties (bijvoorbeeld met Tableau of in R);
+Inzicht in en begrip van bedrijfsprocessen, ‘the bigger picture’, m.b.t. Big Data
+Solliciteren
+Herken je jezelf in bovenstaand profiel, stuur dan je CV met motivatie naar recruitment@bpsolutions.nl en je krijgt spoedig bericht. Indien je vragen hebt of een nadere toelichting wilt kun je telefonisch contact, 0343-529000, opnemen en vragen naar Larissa van Woudenberg.

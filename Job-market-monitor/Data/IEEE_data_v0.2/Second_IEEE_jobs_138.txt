@@ -1,0 +1,129 @@
+Robotics Perception - ATAS 1625 at Georgia Tech Research Institute (GTRI) in Atlanta, GA | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-05
+
+
+
+
+Robotics Perception - ATAS 1625
+
+Georgia Tech Research Institute (GTRI) 
+
+
+Atlanta, GA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+1625
+
+
+
+
+Title: Robotics Perception - ATAS 1625 
+                 JobID: 1625 
+                 Location: Atlanta, GA 
+                 Description: 
+	
+
+
+Title: Robotics Perception
+
+
+ 
+ 
+Position Level:  RE/RS I/II
+
+
+
+
+Primary Location: Atlanta
+
+
+Travel Required: minimum
+
+
+
+
+Lab:  GTRI/ATAS
+
+
+ 
+
+
+
+
+Job Description: 
+The GTRI Robotics and Autonomous Systems Division is looking for a B.S., M.S., or Ph.D. in computer science, electrical and computer engineering, robotics, or related fields specializing in robotics perception. Join our growing group and tackle responsibilities that will include development of real-time perception algorithms for robotics applications, including state estimation, object detection and tracking, 3D/point cloud processing for navigation and obstacle avoidance, and fusion of multiple sensors for these tasks.
+ We are looking for strong candidates who are self-motivated, have extensive, demonstrated C/C++ and/or python programming skills, and have a strong mathematical foundation and problem-solving skills.
+  The position will involve generation of research reports, publications, proposals, and briefs to customers, requiring excellent written and verbal communication skills. The ideal candidate will have hands-on experience with state-of-the-art algorithms applied to robotic systems.
+
+
+
+
+Requirements: 
+
+US Citizenship AND/ OR the ability to obtain a US Security Clearance
+BS, MS, or PhD in Computer Science, Electrical & Computer Engineering, Robotics, or related fields specializing in machine learning, computer vision, and/or perception.
+Possess extensive, demonstrated C/C++ or Python programming, strong mathematical foundation & problem-solving skills.
+Hands-on experience with existing perception algorithms for application to real-world sensor data and robots.
+Willingness to work well in a team environment
+
+Education:
+B.S., M.S., or Ph.D. in computer science, electrical and computer engineering, robotics, or related fields specializing in robotics perception.
+Experience:
+
+Experience with deep learning and convolutional neural networks in particular for various perception problems such as scene understanding problems (object detection, semantic segmentation, pose estimation, etc.)
+Experience working with real sensors such as cameras, and knowledge of aspects such as sensor selection and tradeoffs, camera project models, calibration, etc.
+
+Skills:
+
+C/C++ or Python programming, strong mathematical foundation & problem-solving skills.
+
+ 
+Other: Candidates must be US citizens able to obtain a Department of Defense security clearance.  Selection process will include passing a pre-employment background screening.
+ 
+ 
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+Categories
+
+
+
+Robotics 
+
+
+
+
+
+
+
+

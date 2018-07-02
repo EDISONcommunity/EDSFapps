@@ -1,0 +1,40 @@
+Computer Science, Staff_Data Analytics at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Computer Science, Staff_Data Analytics
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between meaningful work and having a fulfilling life? At MITRE you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges-and we're committed to the long-term wellbeing of our employees. MITRE is no different from most technology companies. We are a non-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D Centers we operate for the government cause lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day-working for a safer, healthier, and more secure nation and the world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE-and make a difference with us. MITRE's Center for Advanced Aviation System (CAASD) has an ongoing commitment to conduct quantitative data analysis using a variety of very large datasets to identify, monitor, and explore operations across multiple modes of transportation. The individual will be involved in the retrieval, processing, fusion, analysis, and visualization of various datasets. In addition, the individual will be developing backend/frontend software and utilizing/integrating various data platforms to support rapid analytics including the development and deployment of data visualization tools. Our work programs need top individuals with hands-on software development skills(Java, R, C++, C#, Python, Java script) with analytic applications and technologies, algorithm design and development; getting and cleansing data, data storage and retrieval (relational and NoSQL), data analytics and visualization, and cloud based technologies. Experience with the Map Reduce programming model and technologies such as Hadoop, Hive and Pig is a plus. 
+Minimum Qualifications: Bachelor's degree and 1 year of experience in Computer Science, Data Science, Applied Mathematics/Statistics, Operation Research, or other physical science/engineering fields. Ability to apply advanced principles, theories, and concepts comparable to those obtained with a Bachelor's degree in a relevant field of study. Ability to work as part of a high-technical team and contribute to deliverables. Object Oriented Programming and scripting in Java and Python
+ 
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+Lead Machine Learning Engineer (Polygraph Clearance) at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Lead Machine Learning Engineer (Polygraph Clearance)
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. 
+ 
+Key Functions:Daily, youll likely be doing one or more of the following, as suited to your skills:
+
+Keep up with current computer vision research and replicate/baseline new techniques published in academia. 
+
+Run experiments comparing state-of-the-art methods with a strong focus on performance when these methods are applied to sponsor driven data in real-world conditions. 
+
+Adapt research done in academia and industry to our sponsors uniquely challenging data sources and problem sets. 
+
+Develop prototype software to demonstrate feasibility of the algorithms/approach to our sponsors. 
+
+White-board (i.e. brainstorming, problem solving) with experienced technical staff to develop solutions for challenging problems in the fields listed above, working with a small team to implement/test those solutions, and quantifying their accuracy. 
+
+Leverage the collective wisdom of government, academia, industry and other FFRDCs to create transformational impact, and help advance the field by sharing our research via publications or professional conferences. 
+ 
+
+
+
+
+
+
+
+
+
+
+Required Qualifications: TS/SCI and strong problem solving skills and capable of working with scientists, analysts, and technical software developers. Strong software development skills, preferably with knowledge of existing deep learning frameworks. Domain knowledge of computer vision and machine learning techniques for classification, detection and key attribute extraction. Prior work using deep learning, especially convolutional neural networks. Practical experience in statistics and knowledge of big data biases. Knowledge of remote sensing modalities (Radar, Hyperspectral/Multispectral, EO/IR, FMV) and a keen desire to learn more about those modalities is desirable but not required. Candidate should have excellent written, oral and interpersonal communications skills, and preferably 2+ years of experience working technical challenges associated with computer vison or machine learning.Minimum Qualifications: BS and 8 years related experience.
+ 
+Categories
+
+
+
+Engineering 
+
+Communications 
+
+
+
+
+
+
+
+

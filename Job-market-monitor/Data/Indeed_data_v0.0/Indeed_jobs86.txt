@@ -1,0 +1,26 @@
+Big Data Scientist - Nieuwegein Vacature - VYE Professionals - Nieuwegein | Indeed.nlFunction
+BIg Data Scientist
+Wil jij werken bij een groeiende start-up in de tweede fase? Het betreft een consultancy partij van A tot Z.
+
+Functie:
+
+Als Big Data Scientist maak je modellen die de manier waarop bedrijven beslissingen maken transformeren. Je zorgt ervoor dat beslissingen onderbouwd zijn door data en statistieken in plaats van een onderbuikgevoel en ervaringen;
+Het doel is om intelligente, meetbare algoritmen te maken die bedrijven kunnen helpen bij het genereren van nieuwe inzichten en om de bedrijfswaarde te vergroten;
+Je moet in staat zijn om complexe statistische vragen te beantwoorden en om grote hoeveelheden data te verwerken om deze antwoorden te verkrijgen.
+Je kan deze resultaten effectief communiceren. Hieronder valt de visualisatie van de data of resultaten in een dashboard. Daarom is het van belang dat je charts en grafieken kan maken. Daarnaast moet je in staat zijn om adequaat de resultaten te kunnen overbrengen, zowel verbaal als in geschrift.
+Je houdt ervan om interessante verbanden in data te ontdekken door gebruik te maken van technieken als text-mining en classificatie. Daarnaast houd je ervan om logistieke processen te optimaliseren en om modellen te bouwen die toekomstige waarden kunnen voorspellen gebaseerd op historische data.
+De Big Data Scientists bij onze klant houden er van om hun modellen in bestaande systemen en in de bestaande infrastructuur van hun klanten te verwerken.
+Je werkt samen met Big Data Engineers en Big Data Infra Specialists om veel big data oplossingen af te leveren.
+
+
+Het profiel:
+Kwantitatieve academische achtergrond (BSc en Msc, Phd), zoals Econometrie, Kunstmatige Intelligentie, Wiskunde of Computerwetenschappen;
+Een goede kennis van en ervaring in Wiskunde, Statistiek, Algoritmen, Data structuren, Data visualisatie, Machine Learning en Modeling;
+Je bent in staat om verschillende modellen toe te passen en te implementeren in veranderende situaties;
+Ervaring met Python, SQL, etc.;
+Affiniteit met data analyse software, zoals R, SAS, STATA, Julia, Matlab;
+Het vermogen om analytische, creatieve en innovatieve oplossingen te bedenken op complexe problemen;
+Pré: ervaring met big data platformen zoals NoSQL databases, MapReduce technieken, Kafka, Storm, Hadoop / Hive / Pig.
+Pré: ervaring met Sentiment analysis, TF/IDF.
+Pré: ervaring met visualisatiemodellen en de bevindingen, zoals D3JS, AngularJs, HTML, CSS en Tableau.
+Interesse? Reageer via de site of neem direct contact op met Jonne Mostert; j.mostert@vyeprofessionals.nl | 020 5141409

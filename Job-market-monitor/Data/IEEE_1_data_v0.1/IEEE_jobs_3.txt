@@ -1,0 +1,60 @@
+Systems Engineering, Sr._Aviation Systems at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Systems Engineering, Sr._Aviation Systems
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+MITRE is currently seeking a motivated data scientist to support work areas that directly affect the implementation of high priority airspace and procedure projects that will benefit the flying public and other aviation system stakeholders. This position offers the opportunity to:  Apply innovative analysis techniques and generate creative solutions across multiple challenging problems in the field of aviation  Contribute to projects implementing Federal Aviation Administrations NextGen technologies that improve the capacity, efficiency, and safety of the air traffic management system  Work on a wide variety of projects and creatively leverage multiple skills across a broad range of scientific, engineering, and software domains to solve problems individually and in a team-based environment Key Functions: The candidate will support MITREs FAA work program by performing data analysis and data processing using a broad spectrum of tools and technologies to meet both internal analysis and external client requirements. Expect a team environment with self-motivated, highly trained professionals. Key activities will include: - Analyzing historical and simulated aviation operations data to draw conclusions about the efficacy of airport design, aeronautical procedure design, and other NextGen initiatives - Developing data analysis processes and algorithms and implementing these in software (R, Python, Java) - Contextualizing a wide array of aircraft and aviation system data to provide defensible and meaningful interpretations of results in both written and verbal form 
+
+
+
+
+
+
+
+
+
+
+							Bachelor's degree in data analytics, applied mathematics/statistics, engineering, operations research, or related technical field and experience (gained either through direct work and/or classroom learning): - Conducting analysis on large data sets to identify patterns, trends, emerging behaviors, etc. - Implementing data processing routines and data analysis algorithms using statistical programming languages (e.g, Python, R, Scala, and Java) and one or more data processing capability (e.g. Apache Spark, Apache Beam, Apache Pig, and SQL Querying) - Applying advanced statistical data analysis methods - Conveying the results of data analysis using data visualization tools (e.g., Python/R plotting libraries, Tableau, and D3) Additional required qualifications include: - Demonstrated ability to scope, plan, execute, and document a complex data analysis activity - Demonstrated ability to learn quickly, apply good judgment, and independently draw conclusions from observed data - Excellent written and verbal communication skills Preferred Qualifications: - Prior airport, airspace, or air traffic service route/procedure analysis experience - Experience with aviation data analysis, including with radar data and FAA/industry data sets (e.g., ASPM, OOOI, ASQP, Form 41, OPSNET, O/D Survey, etc.)  
+Categories
+
+
+
+Information Technology 
+
+Computer Programming/Systems 
+
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+Tv zoekt Data Engineers Vacature - CareerValue - Utrecht | Indeed.nlAls je een Data Scientist, Data Engineer of BigData Architect bent dan kun je niet beter zitten in Nederland dan bij mijn klant.
+Mijn klant heeft een ijzersterk team van ervaren Big Data Scientists, Big Data Engineers en Big Data Architecten. Ze zijn in staat om voorspellende modellen te bouwen, algoritmen toe te passen en data-gedreven inzichten te onthullen.
+Ze zoeken een Big Data Engineer die niet alleen op performance let maar ook op security en kwaliteit van de platforms. Je ontwikkelt samen aan een nieuw architectuur. Mocht je een Big Data Engineer zijn, dan ga je het hier geweldig vinden om de landschappen te mogen creëren.
+
+Ze hebben hier een jong team maar dat moet je niet weerhouden om bij deze fantastische club te solliciteren.
+
+Kun jij zakelijke waarde creëren door Big Data?
+Welkom in het walhalla
+
+
+De Functie:
+
+Bij de functie als Data Engineer ga je werken aan nieuwe Hadoopclusters. Kun jij migreren van SQL naar NoSQL, dan zit je op de juiste plek.
+De bedoeling is dat je zakelijke waarde gaat creëren, hierbij kun je denken aan verschillende informatie binnen: data, content metadata, klantinformatie, sales, media, locaties, het weer en social media.
+Je werkt met de nieuwste technieken zoals Spark, AWS, HIVE, PIG, FLUME, KAFTA, Cloudera, Hadoop, HBase en SQoop.
+Mijn klant heeft zoals eerder gezegd een ijzersterk team, waar je ook intens mee gaat samenwerken.
+
+
+Gevraagd profiel:
+
+– BA/BS/MS of PhD met een sterke academische achtergrond, bij voorkeur in Kunstmatige intelligentie, Wiskunde of Informatica;
+– Uitgebreide programming/software engineering ervaring met productie-waardige programmeertalen (bijv. JAVA, SCALA);
+– Programmeren met moderne data analyse technieken (bijv. Python, R, MATLAB, Julia);
+– Volledige beheersing van de Nederlandse- en Engels taal;
+– Ervaring met big data storage (bijv. HDFS, Cassandra, MongoDB, Neo4J);
+– Custom visualisatie technologieën (bijv. CSS, angularjs, D3);
+– UNIX vaardigheden (bijv. Ubuntu, Bash scripts, package management);
+– SQL, REST API / JSON;
+– GIT, Jenkins, Puppet.
+
+
+Arbeidsvoorwaarden:
+
+Er gelden binnen deze organisatie uitstekende primaire en secundaire arbeidsvoorwaarden.
+
+
+Dienstverband:
+Vast
+
+Salaris:
+Meer dan 5000 euro bruto pmnd
+
+Specialisatie:
+Data Engineering
+
+Gerelateerd:
+Data Engineering vacature, Clusteren, infrastructuur, Claudera, Hadoop, NO3, NOSQL, Python, Spark, Muppet, Pipelines, MapReduce, YARN, Spark, Elasticsearch, Docker, SCALA
+
+Plaatsen in de omgeving:
+Nieuwegein, Vianen, IJsselstein, Houten

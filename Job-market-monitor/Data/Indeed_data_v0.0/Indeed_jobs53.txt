@@ -1,0 +1,31 @@
+Data Analist/Scientist Vacature - PHIND - Amersfoort | Indeed.nlAls Data Analist/Scientist kom je te werken bij internationale organisatie met ruim 500 medewerkers. De organisatie is gespecialiseerd in het adviseren en oplossen van problematische schulden bij zowel consumenten als organisaties. Zo kopen zij belangrijke kostenposten op om klanten meer ademruimte te geven. Om dit zo goed mogelijk te doen wordt er gewerkt met bijzonder veel data- en risico analyses. Vanuit die standpunt heeft directie afgelopen jaren besloten om de organisatie volledig data gedreven te maken. Om deze mooie doelstellingen werkelijk te maken worden zij gesteund door verschillende gerenommeerde universiteiten en consultancy partijen.
+
+Naast een data-driven strategie vindt de organisatie het enorm belangrijk dat er mensen met passie werken. Omdat ze klanten goed willen helpen bij gevoelige zaken is het van groot belang dat het personeel vol overtuiging en passie werkt. Hierdoor voelt iedereen zich vanaf de eerste dag welkom en wordt er altijd gewerkt in kleine en hechte teams. Vertrouwen, expertise en daadkracht staan dan ook centraal binnen de organisatie.
+
+Wil jij graag mensen en organisaties helpen en tegelijkertijd werken in een data gedreven organisatie met complexe analyse vraagstukken? Lees dan zeker verder!
+
+Functie
+
+Binnen de organisatie bestaan 3 data gedreven teams. Één datawarehouse team dat momenteel bezig is het bouwen van moderne datawarehouses en data lake. Één reporting team dat verantwoordelijk is voor rapportages en dashboards voor de eindgebruikers. En één team dat zich bezig houd met complexe analyses en algoritmes om meer waarde uit data te halen.
+
+Als Data Analist kom je te werken in het laatste team van 7 man. De huidige Manager is overtuigd dat een goede data analist/scientist niet is gebonden aan één tool. Het is de bedoeling om de gehele ‘’data journey’’ uit te voeren. Dit betekend verschillende databases openbreken, analyses maken, algoritmes schrijven en rapporteren. Tools waar je mogelijk mee kan werken zijn SQL, R, Python, PowerBI. Indien je kennis en ervaring hebt met machine learning en complexere analyse tools, Dan heb je een grote voorsprong. Om je werk goed uit te voeren is het van belang dat je kunt beredeneren vanuit behoefte van eindgebruikers. Als adviseur speel je een belangrijke rol bij grote organisatie vraagstukken. Klinkt dit uitdagend genoeg? Reageer dan snel!
+
+Eisen
+
+Achtergrond in de richting van Econometrie, Wiskunde, Informatica etc.
+Minimaal 2 jaar ervaring als data analist, BI specialist of data scientist
+Minimaal 2 jaar ervaring met SQL
+Ervaring met Databases en ETL
+Ervaring met Analyse en visualisatie tools
+Ervaring met programmeertalen en schrijven van algoritmes
+Kennis van machine learning is een grote pre
+Kennis van predictive analytics is een grote pre
+
+Aanbod
+
+Salaris tussen €3.450 en €4.350
+13de maand
+Reiskosten vergoeding
+Pensioenregeling
+Mobiel + Laptop
+Ruim aanbod van opleiding, training en coaching

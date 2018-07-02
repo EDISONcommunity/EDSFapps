@@ -1,0 +1,21 @@
+(Sr) Data Scientist Vacature - Inergy - Woerden | Indeed.nlGaat jouw datagedreven hart sneller kloppen van complexe algoritmes? Wil jij je storten op uitdagende vraagstukken over grote datasets voor en met onze klanten en neem jij graag een mentorrol op je?
+Wij zijn op zoek naar een ervaren en creatieve data scientist die gaat helpen het advanced analytics team verder vorm te geven. Met jouw kennis en ervaring weet jij jouw nieuwe collega’s inhoudelijk te coachen en te begeleiden. Met hun inhoudelijke vragen komen de andere data scientists dus graag naar jou want jij helpt hen de lastige puzzels te kraken (bijvoorbeeld een warmtevoorspelmodel voor een energieleverancier of een locatie-analyse voor een supermarkt). Samen met de developers en business consultants uit andere teams werk je aan grote data driven business projecten waarbij jij het verschilt maakt voor onze klanten, op locatie bij de klant en ons kantoor in Woerden.
+Wat je vol trots aan je vrienden vertelt, waar jij voor in de auto/trein stapt:
+Het voorbereiden en houden van presentaties voor business stakeholders en directieleden; jij weet als geen ander de effecten en resultaten van analytics feilloos en laagdrempeling neer te zetten.
+Via hypotheses onderzoek jij met klanten verbetergebieden waar met data science en analytics nog ‘wat te halen valt’.
+Het adviseren van klanten over hoe deze inzichten terug gevoerd kunnen worden naar bedrijfsprocessen.
+Het opleveren van waardevolle, nieuwe inzichten rond belangrijke business thema’s.
+Met je team samenwerken om ervoor te zorgen dat de algoritmes goed worden toegepast en hen begeleiden en coachen op inhoudelijke vraagstukken.
+Het analyseren van (ongestructuurde) gegevens die nodig zijn voor analyses en bijbehorende data preparatie.
+Het uitvoeren van complexe analyses met behulp van statistische en machine learning modellen, die je zelf bouwt.
+Kortom, jij verricht analytische hoogstandjes waardoor je de klant waardevolle inzichten kan geven die hen uiteindelijk helpen om bijvoorbeeld geld/tijd/waste te besparen en helpt jouw team naar een (nog) hoger niveau.
+Heb jij het in je?
+Jouw analytische skills en innoverende spirit vul jij aan met sterke communicatieve vaardigheden en daarnaast herken jij je (grotendeels) in het volgende profiel:
+Je hebt ruime ervaring in het schrijven van scripts in R, SQL en Python.
+Je hebt ruime ervaring in het toepassen van statistiek en machine learning technieken zoals classificatie, regressie, clustering algoritmes en respectievelijk recommendation engines, neurale netwerken, in een bedrijfsomgeving.
+Je weet feilloos de klantvraag te achterhalen en deze te vertalen naar een technische oplossing.
+Daarnaast zit jij als doorgewinterde consultant stevig en op inhoud aan tafel bij de klant. Met jouw softskills ben je een overtuigende en innemende persoonlijkheid.
+Je bent een eindeloos vat aan kennis op jouw vakgebied (en als je iets nog niet weet dan stop je niet totdat je het hebt uitgeplozen, puur omdat je het machtig interessant vindt); hiermee help jij jouw collega’s inhoudelijk verder ontwikkelen en wordt jij door klanten gezien als autoriteit op jouw vakgebied.
+Wie zijn wij?
+Als je bij Inergy aan de slag gaat, merk je meteen waar het bij ons om draait. Alles is gericht op kennisdeling, innovatie en gave techniek. In IT gaan de ontwikkelingen razendsnel. Daarom is het ontzettend belangrijk dat we elkaar blijven uitdagen, nieuwe ideeën met elkaar delen en ook: afscheid durven nemen van oude ideeën. Je krijgt daarom uitgebreide opleidingsmogelijkheden en er zijn regelmatig inspirerende kennissessies waar een collega vertelt over de successen en valkuilen van een project. Bij ons krijg je letterlijk en figuurlijk de ruimte: een flexibele werkplek en -tijden en een zelfstandige functie.
+Naast een marktconform salaris bieden wij onder andere een bonusregeling, 25 vakantiedagen (en de mogelijkheid er meer bij te kopen), een laptop (Mac of Dell) en telefoon van de zaak, een mobiliteitsbudget wat je mag inzetten hoe jij het het liefste hebt en gratis verzorgde lunch en fruit bij ons op kantoor. Daarnaast kan je, als je het durft, na de lunch meedoen aan een zeer fanatiek potje tafelvoetbal.

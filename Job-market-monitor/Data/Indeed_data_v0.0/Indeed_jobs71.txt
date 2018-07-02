@@ -1,0 +1,50 @@
+Senior Big Data Engineer Vacature - Capgemini - Leidsche Rijn | Indeed.nlVan de hoeveelheid data die binnenstroomt en het verwerken ervan, tot het structureren en checken op betrouwbaarheid. Voor veel organisaties is dit vaak een enorme klus. Maar niet voor een big data engineer zoals jij.
+Data and Analytics, Architecture, Management consulting | Medior Professional (2-5 jaar), Senior Professional (>5 jaar) | Wo, Hbo
+
+
+
+Insights and data
+|
+
+Banken en Kapitaalmarkten, Verzekeringen, Utilities, Publieke sector, Aerospace en Defensie, Automotive, Consumer Products en Retail, Electronics en High Tech, Gezondheidszorg en Life Sciences, Manufacturing en Industrial Products, Media & Entertainment, Natural Resources, Telecom, Transport & Distributie
+|
+
+Full time
+
+Big data engineer
+Van de hoeveelheid data die binnenstroomt en het verwerken ervan, tot het structureren en checken op betrouwbaarheid. Voor veel organisaties is dit vaak een enorme klus. Maar niet voor een big data engineer zoals jij.
+
+Jouw uitdaging als big data engineer
+Het verzamelen van data wordt voor organisaties steeds belangrijker. Bijvoorbeeld voor een betere klantrelatie of een sterkere concurrentiepositie. Maar data heeft pas zin als je er echt waarde uit kunt halen. Daarom moet alle verzamelde data snel verwerkt, gestructureerd en gecontroleerd worden. Als big data engineer help jij onze opdrachtgevers hierbij door big data oplossingen te ontwikkelen, onderhouden, testen en evalueren. Bijvoorbeeld voor het identificeren van risicogroepen of bij het snel doorzoekbaar maken van grote hoeveelheden gegevens. Wat je precies doet?
+
+Je bent een expert in datawarehousing en ontwerpt verschillende big data oplossingen.
+Je ontwikkelt prototypen en proof-on-concepts voor geselecteerde oplossingen.
+Je bouwt grootschalige gegevensverwerkingssystemen en zeer schaalbare gedistribueerde systemen met behulp van open source tools.
+Je implementeert complexe big data-projecten waarbij de focus ligt op verzamelen, ontleden, beheren, analyseren en visualiseren van grote sets gegevens. En op het omzetten van informatie naar inzichten met behulp van meerdere platformen.
+Je beslist over de benodigde hardware- en softwareontwerpen en handelt volgens de genomen beslissingen.
+Je past de nieuwste technologie toe om big data problemen op te lossen en om innovatieve oplossingen te bedenken.
+
+Wat jij ons brengt
+Uitdagingen en de strijd aangaan met complexe problemen? Daar hou jij wel van. Je hebt oog voor detail, een enorme passie voor data, werkt graag samen met anderen en kunt makkelijk technische vereisten in duidelijke taal overbrengen. Daarbij snap je dat de wereld van IT niet stilstaat en blijft jezelf verder ontwikkelen. Wat je nog meer meebrengt?
+Een afgeronde hbo of wo opleiding in de richting van computerwetenschappen of software engineering.
+Minimaal 3 jaar werkervaring binnen IT.
+Ervaring met een of meerdere big data technologieën en met het werken in een cloud computing omgeving.
+Kennis van data warehouse design principes en ETL (workflows).
+En uitstekende Nederlandse én Engelse communicatie skills.
+
+Wat motiveert jou?
+Bij Capgemini krijg je de mogelijkheid om steeds nieuwe kennis op te doen en jezelf te blijven ontwikkelen. Zo heb je via onze Capgemini Academy en ons ‘All-you-can-train’ programma toegang tot honderden trainingen en opleidingen. Wil je bijvoorbeeld doorgroeien naar de rol van big data architect of big data scientist? Of heb je andere ambities? Laat het ons weten. Wij helpen je die graag te bereiken.
+
+Wat wij jou bieden
+We zijn een grote organisatie, maar ondanks dat ben je bij ons zeker geen nummer. Een fijne werksfeer en een goede werk en privé balans vinden wij namelijk erg belangrijk. Daarbij delen wij onderling graag onze kennis met elkaar. Junioren helpen senioren en senioren helpen op hun beurt weer junioren. Maar ook buiten werktijd trekken we er regelmatig op uit. Zo organiseert onze personeelsvereniging Escape leuke activiteiten buiten werktijd en heb je de mogelijkheid om deel te nemen aan verschillende sporten. Wat je nog meer kunt verwachten?
+Direct een vast contract en een passend salaris.
+26 vakantiedagen en vakantiegeld
+Een premievrij pensioen waarbij je de mogelijkheid hebt om zelf ook in te leggen.
+Een vergoeding voor de reiskosten die je maakt. Deze mobiliteitsvergoeding kun je gebruiken voor een leaseauto of NS business card.
+Een laptop, simkaart en connectiviteitsvergoeding zodat je overal kunt werken.
+Vragen over deze vacature?
+Neem contact op met Bonnie van de Kieft
+
+bonnie.vande.kieft@capgemini.com
+
+06-11344293

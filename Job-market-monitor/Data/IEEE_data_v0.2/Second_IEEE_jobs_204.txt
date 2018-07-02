@@ -1,0 +1,158 @@
+Principal Networking Research Engineer 00048047 at MITRE in McLean, VA | IEEE
+
+
+
+                            1+ months                        2018-03-122018-06-04
+
+
+
+
+Principal Networking Research Engineer 00048047
+
+                                                            MITRE                                                    
+
+
+McLean, VA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+
+
+<br />
+<br />
+MITREs Communications Network Engineering and Analysis Department, T861, which is part of MITREs Infrastructure and Networking Technical Center, has as its mission to provide premier communications network engineering services for our customers at all classification levels. Our core competencies are as follows:
+
+       Enterprise Networks
+       Wireless Networks
+       Secure and High Availability Networking
+       Network Protocol Design and Development
+       Prototyping and Proof of Concept
+       Network Performance Monitoring and Management
+       Network Performance Analysis, Modeling, and Simulation
+ 
+Our engineers have expertise in research, design, analysis, modeling and simulation, lab experimentation, field testing, and implementation of networks across a diverse set of networked communication environments including virtual, wired, and wireless. We are adept at combining networking research and innovation with practical hands-on experience to provide risk reduction and deployable solutions for our customers. Our lab facilities in McLean, VA are equipped to meet the requirements of projects at any scale.  The lab is furnished with state of the art carrier grade LTE infrastructure, commercial routers and switches, accelerators, cryptographic devices, networking test equipment (e.g. Ixia, BreakingPoint), virtualization environments, network and data center management tools, military radios, modeling and simulation software and custom network emulation and wireless network planning products. There is an additional lab facility at the MITRE San Diego site with targeted capabilities and connectivity to the lab in McLean and other MITRE locations.
+We are seeking a driven and experienced lead networking engineer with an applied research mindset and a balance of hands-on technical, project management and business development skills. The ideal candidate will have deep subject matter expertise in networking protocols and technologies with insights to understand and translate customer challenges into actionable, impactful outcomes in support of the customers mission.  Once hired, the candidate will be expected to lead one or more large-scale, complex networking-related projects. 
+Key Functions:
+Specific duties will vary by project but will generally include a combination of research, design, analysis, testing, experimentation, and/or modeling and simulation of to address complex questions regarding security, design, and performance of communications networks that are faced by MITREs customers.
+
+As the governments not-for-profit, trusted, unbiased advisor, MITRE performs advanced networking research that is very different from operational networking support.  Our work does not involve administering, operating, troubleshooting, or otherwise maintaining a production network. 
+
+Example functions of technical leaders in our organization are below:
+
+    Perform systems engineering, design, analysis, and experimentation of networks.
+
+    Serve as a thought leader in advanced networking concepts through publication in technical journals, conferences, external exhibitions, standards bodies, panels, patent applications, etc.
+
+    Willingness to mentor early career staff, contributing to their development technically and professionally.
+
+    Develop technical research ideas and craft proposals for research initiatives.
+
+    Engage with customers to analyze operational requirements, address networking challenges, apply sound technology solutions, and advance the state of networking to benefit the sponsor mission.
+
+    Design and analyze complex networks to align with requirements.
+
+    Evaluate, validate, integrate, and design new protocols and technologies to meet sponsors missions.
+
+    Lead red-team efforts to uncover the root cause of performance issues in complex operational environments.
+
+    Rapid lab prototyping, field testing, technical benchmarking, and modeling and simulation.
+
+    Develop additional project opportunities to expand the technical work portfolio of the organization. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minimum Qualifications: 
+Bachelors Degree in one of the following disciplines, Electrical, Computer or Systems Engineering and 10 years of related experience including 2 years of leadership experience. The candidate will demonstrate an ability to foster relationship development. The candidate demonstrates ability to and guides others towardthe proper balance of a) product depth with timeliness and b) technical improvements with programmatic constraints, even when hard compromises are required. The candidate is recognized by senior management as a thought leader.
+
+<br />
+<br />
+Required Qualifications:
+    BS and 8+ years of experience in network research and engineering.
+
+    Deep understanding in the theory and implementation of network routing and transport protocols, systems, and standards with the ability to derive operational implications (implementation, interoperability, performance, security).
+
+    Knowledge of network security standards and architectures, including Multi-Level Security issues and solutions.
+
+    Demonstrated hands-on skills in a lab environment for rapid prototyping and testing. 
+
+    Familiarity with  network performance testing, measurement, and analysis techniques and tools.
+
+    Demonstrated thought leadership and customer engagement skills.
+
+    Excellent written and verbal communication and presentation skills.
+
+    Desire to grow and foster relationships and collaborative opportunities with academia and industry.
+
+    Passionate about staying up-to-date with emerging technologies through continued learning, active engagement with academia and industry, and a desire to remain hands-on.
+
+    Willingness to mentor early career staff, contributing to their development technically and professionally. 
+Preferred Qualifications:
+    MS or PhD in Computer Science or Electrical Engineering and 15+ years of experience in network research and engineering.
+
+    Active TS/SCI Clearance.
+
+    Experience in one or more of the following areas:    
+             
+o   Industrial control systems (ICS) design, deployment, and operations, with emphasis in ICS communication protocols, architecture design, data management, and security.
+
+o   Network time synchronization protocols, time-dependent applications, and precise measurement of time intervals.
+
+o   Global Positioning System (GPS) fundamentals, synchronous networks, frequency standards, and counters.
+
+o   Embedded system programming, including Linux kernel/module development, IP packet processing, or TCP/UDP/IP sockets programming.
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Marketing/Sales 
+
+Computer Programming/Systems 
+
+Design/Development Engineering 
+
+Control Systems 
+
+Instrumentation and Measurement 
+
+Communications 
+
+Management 
+
+
+
+
+
+
+
+

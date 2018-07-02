@@ -1,0 +1,31 @@
+Afstudeerstage Avanade - Finding data/information in a Data Lake Vacature - Avanade - Utrecht | Indeed.nlBen jij een ambitieuze masterstudent en geïnteresseerd in de nieuwste ontwikkelingen op het gebied van data & analytics en opzoek naar een afstudeeronderzoek in die richting? Lees dan snel verder om te zien wat Avanade je te bieden heeft.
+Afstuderen bij Avanade
+Bij Avanade kunnen studenten die in de afrondende fase van hun studie zitten een toffe afstudeerstage doen. Voor het onderzoeksgebied data & analytics hebben wij het volgende onderzoeksthema.
+Finding data/information in a Data Lake
+Organisaties begrijpen dat wanneer zij mee willen blijven doen met de concurrentie en hun klanten zo goed mogelijk van dienst willen zijn zij elke mogelijke gebeurtenis moeten analyseren die van invloed kan zijn op de relatie (zowel positief als negatief) met hun huidige en potentiële klanten. Dit vereist toegang tot allerlei soorten centraal opgeslagen data om hierover vervolgens een diepere analyse uit te kunnen voeren.
+Data Producers zijn nu vrij in het delen van hun data met andere gebruikers binnen de organisatie - het is nu namelijk mogelijk om alle data op één locatie te verzamelen - in een Data Lake. Maar lost dit alle problemen op? Een belangrijke uitdaging is hoe verschillende soorten gebruikers in staat gesteld kunnen worden (programmeerders, data scientists en zakelijk gebruikers) om deze enorme hoeveelheid gegevens te onderzoeken en consumeren. Vaak zijn consumers van de Data Lake niet eens bewust van welke data er hierin beschikbaar is en welke problemen het kan helpen oplossen.
+Er wordt verwacht dat een Data Lake elke type Data Consumer in de organisatie ondersteund of het nu programmeerders, data scientists of zakelijk gebruikers zijn. Het is interessant om op te merken dat iedereen verschillende vereisten en verwachtingen heeft over wat voor data ze willen gebruiken en hoe ze dit willen gebruiken. Jouw afstudeeronderzoek kan zich bijvoorbeeld richten op ‘Hoe kan informatie ranking bijdragen aan het verbeteren van het terugvinden van data in de Data Lake van een organisatie?’.
+Over Avanade
+Avanade is een dochterbedrijf van Microsoft en Accenture. Jaarlijks hebben wij verschillende afstudeeropdrachten voor studenten. Wij lopen voorop als digital innovator met onze solutions, en maken gebruik van de nieuwste technologieën. Bij ons werken bijna 400 dedicated Microsoft experts, is er een passie voor wat we doen en een fantastische sfeer. Daarnaast vinden we het belangrijk dat jij een leuke tijd hebt tijdens je stage. Als jij het beste uit jezelf wilt halen en uit je afstudeeropdracht dan is Avanade de perfecte omgeving voor jou.
+
+Qualifications
+Wij willen jou omdat:
+je op zoek bent naar een gave afstudeerorganisatie;
+je reeds enige ervaring hebt met de technologieën van de afstudeeropdracht;
+je een IT gerelateerde master opleiding volgt (o.a. Information Science; Informatica; Computer Science; ICT in Business; Artificial Intelligence e.d.)
+je graag wil werken met technologieën als Visual Studio (VSTS), Azure Data Lake, Azure Data Lake Analytics, Information Ranking
+Wat bieden wij?
+Een toffe opdracht met de nieuwste technologieën
+een (technisch) inhoudelijk begeleider en een procesbegeleider;
+een ontwikkeltraject waarin jij de kans krijgt je skills verder te ontwikkelen;
+een stagevergoeding (Master €600,-);
+een laptop;
+een Microsoft Certificaat cadeau;
+flexibiliteit – is het voor jou handig om een of twee dag(en) in de week thuis te werken dan kan dat. Ook je werktijden mag je zelf indelen;
+bijna 400 enthousiaste collega’s die expert zijn op jouw vakgebied;
+een fantastische sfeer met veel leuke activiteit zoals movienights, clubmeetings, Avalan en gezellige borrels.
+Word jij enthousiast van deze vacature en ben je geïnteresseerd in een stage bij Avanade? Solliciteer dan via de website.
+Wil je meer informatie over de opdrachten en/of over stagelopen bij Avanade? Neem contact op met onze Campus Recruiter Emma van den Berg door te mailen naar emma.van.den.berg@avanade.com
+
+Requisition ID - 53740
+Avanade is the leading provider of innovative digital and cloud-enabling services, business solutions and design-led experiences, delivered through the power of people and the Microsoft ecosystem. Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation and has 30,000 professionals in 24 countries. Visit us at www.avanade.com.

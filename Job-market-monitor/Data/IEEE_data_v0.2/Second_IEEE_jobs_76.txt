@@ -1,0 +1,100 @@
+Software Engineer &#8211; Operator-Centric Applications at MITRE in Bedford, MA | IEEE
+
+
+
+                            25 days old                        2018-04-132018-06-04
+
+
+
+
+Software Engineer &#8211; Operator-Centric Applications
+
+                                                            MITRE                                                    
+
+
+Bedford, MA 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challengesand we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every dayworking for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITREand make a difference with us.
+ 
+Do you have a passion for innovation? Do you want the opportunity to work with users across the United States government to understand their challenges and provide them transformative capabilities? 
+ 
+
+The Operational Innovation & Transformation Department seeks passionate, innovative candidates with an interest in software design and development to support our Department of Defense (DoD) work program. Candidates should have experience with object-oriented software and the software development lifecycle. The selected individual will be responsible for designing and developing application prototypes, reference implementations, and other operationally relevant software in support of MITREs DoD sponsors, particularly the United States Air Force (USAF). The focus of this work is to bring transformational capabilities to our sponsors through prototyping, experimentation, and deep outreach to the operational community. To that end, the individual will be working with both experienced MITRE engineers and also with government representatives, as needed.
+
+This work is a critical segment of the departments work program which spans mission-focused experimentation for rapid capabilities innovation, assessment, and acquisition; systems engineering for operational/active warfighters; and mission-centric software/system product lines focused on dismount/operator-centric systems and software/system foundations such as tactical data interoperability and DevOps. The departments key technical concentration areas include software engineering and development, cloud and DevOps, and network and communications engineering, all grounded in strong systems engineering fundamentals and significant operational domain expertise.
+
+
+
+
+
+
+
+
+
+
+Required Qualifications:
+
+Excellent problem solving and troubleshooting skills.
+Ability to quickly learn and apply new technologies to ever changing problems.
+Expertise in principles of object-oriented software design and programming.
+Expertise in fundamental concepts and principles of computer architecture.
+Experience with object-oriented languages such as Java, C# and especially C++
+Ability to thrive in a diverse team environment consisting of MITRE colleagues, project sponsors, government contractors, and active duty military personnel.
+Basic understanding of fundamental IP-based networking principles
+Preferred Qualifications:
+
+Experience with JSON and JavaScript
+Experience with Internet technologies such as HTTP, AJAX, SSL/TLS, web services, and related emerging web standards.
+Experience with mobile application development in Android OS
+Knowledge and experience with XML technology such as XSLT, XML Schema, and XML Namespaces
+Experience with relational database design technologies such as SQL, PostgreSQL, and MySQL.
+Experience with NoSQL databases such as MongoDB and CouchDB
+Experience with Internet Technologies that comprise the OSI Stack Model such as TCP, UDP, DNS, DHCP, etc.
+Minimum Education/Experience:
+     BS or MS in Computer Science, Electrical or Computer Engineering, or a similar field
+ 
+ 
+Level2
+Secret
+
+
+
+ 
+Categories
+
+
+
+Engineering 
+
+Information Technology 
+
+Computer Programming/Systems 
+
+Software Engineering 
+
+Computer Engineering 
+
+Communications 
+
+
+
+
+
+
+
+

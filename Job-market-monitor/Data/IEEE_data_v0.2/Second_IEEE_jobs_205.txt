@@ -1,0 +1,46 @@
+Software Engineer (Senior) at SRC, Inc. in Syracuse, NY | IEEE
+
+
+
+                            1 day old                        2018-05-072018-06-06
+
+
+
+
+Software Engineer (Senior)
+
+                                                            SRC, Inc.                                                    
+
+
+Syracuse, NY 
+
+
+
+
+                                Add to Favorites
+
+Share Job
+
+
+
+Apply Now
+
+
+
+
+
+
+Job Code
+2510
+
+
+
+
+
+Position DescriptionSRC, Inc. is currently seeking a senior engineer to work out of Syracuse, N.Y. in our Intelligence Systems and Analytics business area. The engineer will be conducting sensor feed development, distributed computation and algorithms, mobile computing, and executing tests for military-type scenariosResponsibilitiesPerform software development and integration within an agile development process Lead small to moderate development teams in the Agile Scrum processDevelop real-time, streaming data feeds from external sensors and analysis algorithmsPerform software development within a distributed architectural environmentSystem/software analysis activities to include integration, test, and evaluation of system performance and algorithm effectiveness using military-style scenariosMobile computing, i.e. Android, developmentPerform integration of open source machine learning (ML) algorithms or similar reasoning developmentPosition RequirementsBachelor?s degree in computer science, computer systems engineering, or related degree; master?s degree preferredMinimum of six or more (6+) years of experience designing and developing softwareExperience with software development using at least one of Java, C, C++, JavaScript and/or Python; familiarity with more than one of these languages a plusKnowledge of distributed architectures and service-oriented infrastructure design principlesKnowledge of object-oriented design (OOD) principlesPreferred Requirements Experience leading software development projectsExperience in cost and schedule project management activitiesExperience with distributed Big Data (e.g. Hadoop 2) and streaming (e.g. Apache Spark) or similar architecturesFamiliarity with asynchronous communication, time synchronicity, and fault toleranceExperience with SQL and NoSQL databasesExperience or academic training in distributed computation will be especially usefulExperience with web services, i.e. Restful InterfacesExperience with mobile developmentSecurity Clearance RequirementsMust be a U.S. citizen. Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information  
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Senior Software Engineer Vacature - MeteoGroup - Utrecht | Indeed.nlAs a Senior Software Engineer you will be an integral part of the Skill Team – an interdisciplinary development team – collaborate with different departments by designing and implementing new and ongoing products. Your focus is in building and testing crisp, sensible and optimized software/API's that scale with a long-term perspective.
+You analyse the demands of the group and their products, specify and maintain a technology stack and give fresh impetus to the development of those products. You spread the idea and the behaviour of professional software engineering to other departments by active mentoring, hands on sessions and knowledge share.
+Other key responsibilities:
+Work with our meteorological researchers and data scientists to build our next generation weather forecasting system;
+Develop high-quality, ship-ready code;
+Work as part of a cross-sector development team to drive design, implementation, testing and release of products;
+
+Our requirements
+At least 5 years of back-end engineering experience in a technology-led company, where you are used to work agile in cross-functional teams;
+Excellent programming skills in e.g. Java, Scala and popular frameworks and tools in this context;
+Excellent experience in Domain-Driven Design;
+Acquainted with agile and software craftsmanship concepts such as Scrum and Kanban;
+Comprehensive knowledge and experience in developing highly reliable, scalable real-time services, including knowledge of designing RESTful web services;
+Comprehensive knowledge of Reactive Systems, Microservices and Scalable Cloud Native Applications – usage, design and implementation;
+Experience with Cloud Computing platforms such as AWS;
+Adventurous interests in new technologies, languages and approaches;
+Excellent communicator and presenter in fluent English.
+If you have any questions, please contact Carmen Ogle (Senior International Corporate Recruiter) via carmen.ogle@meteogroup.com.
